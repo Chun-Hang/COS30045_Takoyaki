@@ -1,0 +1,983 @@
+﻿Country,Powerplant Name,Capacity (MW),Latitude,Longitude,Primary Fuel
+Germany,ADS-Anlage,96.5,50.0918,8.5311,Gas
+Germany,AHKW Neunkirchen,11.6,49.3386,7.17,Waste
+Germany,AMK - Abfallentsorgungsgesellschaft des MÃ¤rkischen Kreises mbH,12.6,51.3971,7.6967,Waste
+Germany,AVA GmbH,10,48.4011,10.9356,Waste
+Germany,AVA Velsen,15.8,49.2139,6.8345,Waste
+Germany,Abensberg Solar Power Plant,1.2,48.8082,11.9373,Solar
+Germany,Abfallentsorgungszentrum Asdonkshof,20.8,51.5224,6.5747,Waste
+Germany,Ahlhorn Solar Power Plant,50,52.8886,8.2334,Solar
+Germany,Ahorn Solar Power Plant,6.4,49.4594,9.5163,Solar
+Germany,Ahrensfelde,150,52.5895,13.5587,Gas
+Germany,Aidenbach Solar Power Plant,1.7,48.5727,13.0717,Solar
+Germany,Albersreuth Solar Power Plant,3.7,49.2979,10.9331,Solar
+Germany,Alitzheim Solar Power Plant,8.5,49.9294,10.3305,Solar
+Germany,Allmanshofen Solar Power Plant,16.7,48.6148,10.8382,Solar
+Germany,Allstedt Solar Power Plant,19.2,51.386,11.4476,Solar
+Germany,Altbach power station,769,48.7176,9.3749,Coal
+Germany,Altdï¿½bern Solar Power Plant,1.3,51.647,14.002,Solar
+Germany,Altenburg Flugplatz Solar Power Plant,12.1,50.9894,12.5103,Solar
+Germany,Altenburg Kieswerk Solar Power Plant,4.4,50.9796,12.4985,Solar
+Germany,Altheim,17.8,51.5365,14.3829,Hydro
+Germany,Althen Solar Power Plant,7.3,51.3457,12.5171,Solar
+Germany,Alzwerke GmbH,45,48.1769,12.8405,Hydro
+Germany,Ammerland Solar Power Plant,20.8,53.1799,8.1601,Solar
+Germany,Amrumbank West,301.32,54.5,7.7999,Wind
+Germany,Angermï¿½nde Solar Power Plant,1.7,53.0008,13.9981,Solar
+Germany,Anklam Solar Power Plant,7.9,53.8347,13.6657,Solar
+Germany,Apfelborn Solar Power Plant,2,51.5923,11.5474,Solar
+Germany,Artern Solar Power Plant,4.9,51.3606,11.3131,Solar
+Germany,Aschheim Solar Power Plant,1,48.1862,11.714,Solar
+Germany,Attenkirchen Solar Power Plant,2,48.5182,11.7475,Solar
+Germany,Audorf,87,54.2907,9.7228,Oil
+Germany,Aufkirchen,27,48.3067,11.8588,Hydro
+Germany,Aufroth Solar Power Plant,1.4,48.9614,12.5529,Solar
+Germany,BARD Offshore 1,400,54.36,5.98,Wind
+Germany,BEG,14,53.5478,8.6179,Waste
+Germany,BHKW,13,49.0475,8.2816,Gas
+Germany,BHKW H.120,16.9,51.2545,6.7865,Gas
+Germany,BHKW Ludwigshafen,12.5,49.4531,8.4336,Gas
+Germany,BHKW Obere Viehweide,13.4,48.5109,9.0715,Gas
+Germany,BHKW an Klinkerweg,10.2,51.2169,6.9473,Gas
+Germany,BHKW-HauffstraÃŸe,9.8,48.4939,9.1856,Gas
+Germany,BKF,12.4,50.1294,8.7679,Biomass
+Germany,BMHKW-BinderHolz,15.1,48.7912,11.5068,Biomass
+Germany,BMHKW-RE Recklinghausen,14,51.604,7.2508,Biomass
+Germany,BMK LÃ¼nen,20,51.614,7.4813,Biomass
+Germany,BMKW Bergkamen,17.7,51.637,7.6188,Biomass
+Germany,BMKW FlÃ¶rsheim Wicker,12.6,50.0226,8.3772,Biomass
+Germany,BMKW KÃ¶nigs Wusterhausen,17.1,52.3048,13.636,Biomass
+Germany,BMKW Mannheim,17.9,49.5164,8.4602,Biomass
+Germany,BP Werk Lingen,66,52.5606,7.2952,Gas
+Germany,BROKDORF,1480,53.8506,9.345,Nuclear
+Germany,Bachhagel Solar Power Plant,1.8,48.6281,10.3384,Solar
+Germany,Bad Aibling Solar Power Plant,2.3,47.8798,11.9799,Solar
+Germany,Bad Dï¿½rrheim Solar Power Plant,1.6,47.9933,8.6037,Solar
+Germany,Bad Endbach Solar Power Plant,7.3,50.7606,8.5209,Solar
+Germany,Bad Wildungen Solar Power Plant,1.6,51.1263,9.1506,Solar
+Germany,Baltic 2,288,54.983,13.162,Wind
+Germany,Bandenitz Solar Power Plant,6,53.4846,11.2834,Solar
+Germany,Barderup Solar Power Plant,22.8,54.7112,9.4004,Solar
+Germany,Barlt Solar Power Plant,2.2,54.0218,9.031,Solar
+Germany,Barth Solar Power Plant,10.2,54.3434,12.7152,Solar
+Germany,Beerfelden Solar Power Plant,1.4,49.56,8.9561,Solar
+Germany,Beilingen Solar Power Plant,2.1,49.9496,6.6737,Solar
+Germany,Bergheim,23.7,48.7508,11.2732,Hydro
+Germany,Bergkamen power station,717,51.637,7.6191,Coal
+Germany,Bergrheinfeld - S&Z Solar Power Plant,2.4,49.9889,10.1566,Solar
+Germany,Berlin-Moabit power station,89,52.5374,13.3461,Coal
+Germany,Berlin-Reuter power station,124,52.5321,13.2461,Coal
+Germany,Berlin-Reuter-West power station,564,52.5351,13.2426,Coal
+Germany,Bernburg Solar Power Plant,10,51.7999,11.7142,Solar
+Germany,Bertoldsheim,18.9,48.7359,11.0209,Hydro
+Germany,Biederbach Solar Power Plant,5.6,49.2042,10.7331,Solar
+Germany,Bigge,15,51.0932,7.8627,Hydro
+Germany,Bio HKW Herbrechtingen,14,48.6285,10.2009,Biomass
+Germany,BioEnergie Park Klarsee,17.8,53.3,14.25,Biomass
+Germany,BioHKW I,13.2,48.397,9.9648,Biomass
+Germany,Biomass Generator #10,12.9,50.4978,11.6562,Biomass
+Germany,Biomass Generator #11,16.4,53.6183,10.2244,Waste
+Germany,Biomass Generator #12,11.9,49.6552,8.3659,Waste
+Germany,Biomass Generator #13,6.9,49.6552,8.3659,Waste
+Germany,Biomass Generator #14,16,51.5439,7.4388,Other
+Germany,Biomass Generator #15,28.4,49.5154,9.3252,Biomass
+Germany,Biomass Generator #16,10.2,51.9201,11.8018,Biomass
+Germany,Biomass Generator #17,40,51.5152,12.3248,Biomass
+Germany,Biomass Generator #19,20,52.8515,13.7781,Biomass
+Germany,Biomass Generator #2,15.7,48.6283,10.2008,Biomass
+Germany,Biomass Generator #20,10.7,49.8587,7.8857,Gas
+Germany,Biomass Generator #20,12.6,51.4662,13.5046,Biomass
+Germany,Biomass Generator #21,18.3,52.1827,14.2584,Biomass
+Germany,Biomass Generator #22,53.5,51.4901,10.4129,Biomass
+Germany,Biomass Generator #23,11.4,51.8554,6.8887,Biomass
+Germany,Biomass Generator #3,19.7,53.1511,12.3771,Biomass
+Germany,Biomass Generator #4,19.9,51.8848,8.9567,Biomass
+Germany,Biomass Generator #5,12.4,49.9713,8.0606,Biomass
+Germany,Biomass Generator #6,9.6,48.4933,11.1766,Biomass
+Germany,Biomass Generator #7,12.1,51.205,6.7085,Biomass
+Germany,Biomass Generator #8,14,50.7021,8.0732,Biomass
+Germany,Biomass Generator #9,18.8,49.0115,9.6718,Biomass
+Germany,Biomasse-Heizkraftwerk Malchin,9.8,53.7419,12.783,Biomass
+Germany,Biomasse-Verstromungs-Anlage,20,51.35,7.45,Biomass
+Germany,Biomasseheizkraftwerk Piesteritz,18.1,51.8712,12.6185,Biomass
+Germany,Biomasseheizkraftwerk Wiesbaden,10.5,50.0833,8.25,Waste
+Germany,Biomassekraftwerk Bischofferode,18.1,51.4899,10.4131,Biomass
+Germany,Birkig Solar Power Plant,1.2,50.2897,11.1191,Solar
+Germany,Bischwind Solar Power Plant,1.7,50.1632,10.8031,Solar
+Germany,Bittenbrunn,20.2,48.7345,11.1438,Hydro
+Germany,Bitterfeld-Wolfen - GP Joule Solar Power Plant,3,51.6166,12.3076,Solar
+Germany,Bitterfeld-Wolfen - Hinter dem Bahnhof Solar Power Plant,6,52.1123,13.0665,Solar
+Germany,Bleiloch,79.8,50.5244,11.7144,Hydro
+Germany,Blockheizkraftwerk 1,2,49.9882,9.1558,Biomass
+Germany,BoA 2,2100,51.0365,6.6133,Coal
+Germany,Bochum,20.7,51.4833,7.2167,Gas
+Germany,Bogel Solar Power Plant,1.7,50.1886,7.8093,Solar
+Germany,Bordelum Solar Power Plant,3.2,54.6194,8.9337,Solar
+Germany,Borkum Riffgrund I,312,53.9667,6.55,Wind
+Germany,Borna Solar Power Plant,3.5,51.1284,12.4726,Solar
+Germany,Bosbï¿½ll Solar Power Plant,4.4,54.8125,8.8474,Solar
+Germany,Boxberg power station,2585,51.4163,14.5619,Coal
+Germany,Brandenburg (Havel) Solar Power Plant,20,52.4037,12.5165,Solar
+Germany,Braschwitz Solar Power Plant,8,51.5183,12.0639,Solar
+Germany,Braunau-Simbach,50,48.0638,10.1284,Hydro
+Germany,Braunkohlekraftwerk Lippendorf,875,51.1821,12.3733,Coal
+Germany,Breitungen Solar Power Plant,3.6,50.7789,10.3287,Solar
+Germany,Bremen-Farge power station,350,53.2021,8.5162,Coal
+Germany,Brenz Solar Power Plant,7.5,53.3835,11.6402,Solar
+Germany,Briest Solar Power Plant,91,52.4371,12.4529,Solar
+Germany,Brimingen Solar Power Plant,1.9,49.97,6.3503,Solar
+Germany,Brohltal Solar Power Plant,1.5,50.4265,7.2298,Solar
+Germany,BrunsbÃ¼ttel,254,53.8925,9.2011,Oil
+Germany,Buer power station,70,51.6028,7.0094,Coal
+Germany,Buschhaus power station,352,52.1724,10.9768,Coal
+Germany,Busenwurth Solar Power Plant,12.2,54.0428,9.0315,Solar
+Germany,Butendiek,288,55.019,7.774,Wind
+Germany,BÃ¼rgerwindpark im Kirchspiel Medelby,82.23,54.7776,9.1334,Wind
+Germany,Bï¿½ttel Solar Power Plant,31.5,53.9145,9.2263,Solar
+Germany,Calbe 2 Solar Power Plant,4.3,51.9267,11.8042,Solar
+Germany,Calvï¿½rde Solar Power Plant,1.3,52.3847,11.3071,Solar
+Germany,Chamerau Solar Power Plant,1.3,49.2032,12.736,Solar
+Germany,Charlottenburg,633,52.5219,13.3111,Gas
+Germany,Chemiepark Marl power station,136,51.6846,7.1,Coal
+Germany,Chemnitz Nord power station,56.8,50.857,12.9231,Coal
+Germany,Cismar Solar Power Plant,2.8,54.1976,10.9522,Solar
+Germany,Co-Generation,11.5,49.6633,8.3589,Gas
+Germany,Coal Plant #1,17.5,51.0489,12.1104,Coal
+Germany,Coal Plant #2,18.5,48.5272,8.0868,Coal
+Germany,Coburg Solar Power Plant,1.3,50.2133,11.066,Solar
+Germany,Cologne-Merkenich power station,75.3,51.0178,6.9643,Coal
+Germany,Cottbus CHP power station,74,51.7602,14.37,Coal
+Germany,Cottbus Solar Power Plant,3.7,51.7589,14.3668,Solar
+Germany,Cottbus-Drewitz Solar Power Plant,29.5,51.8917,14.5305,Solar
+Germany,Cronheim Solar Power Plant,2.2,49.0937,10.6776,Solar
+Germany,DK Kraftwerk,21,51.4191,6.7385,Other
+Germany,DKW Leinau,11.4,47.9125,10.6117,Oil
+Germany,DKW Nord,11.4,48.0627,10.4866,Oil
+Germany,DT,53.7,51.2228,6.8137,Waste
+Germany,Dampfkraftwerk BGH - O1,178,48.1835,12.8531,Gas
+Germany,Dampfturbinenanlage der EBS-Kessel,35,51.8026,11.7515,Waste
+Germany,Darast Nord Solar Power Plant,3.6,47.9185,10.2164,Solar
+Germany,Dedelow Solar Power Plant,3.8,53.3562,13.786,Solar
+Germany,Deesen Solar Power Plant,4.1,50.5153,7.6997,Solar
+Germany,Deisenhofen Solar Power Plant,1.9,48.6221,10.5402,Solar
+Germany,Delitzsch - Fabrikstraï¿½e Solar Power Plant,2.7,51.5165,12.3269,Solar
+Germany,Delitzsch - Ziehwerk Solar Power Plant,1.8,51.5154,12.3528,Solar
+Germany,Delitzsch Solar Power Plant,32.1,51.509,12.2893,Solar
+Germany,Dessau,10.3,47.7393,10.8257,Hydro
+Germany,Dessau power station,49,51.8269,12.23,Coal
+Germany,Dettingen,11,48.5275,9.3488,Hydro
+Germany,Detzem,24,49.8109,6.8439,Hydro
+Germany,Deuben power station,86,51.1119,12.0762,Coal
+Germany,Dingolfing,15,48.634,12.4837,Hydro
+Germany,Dinkelsbï¿½hl Solar Power Plant,2,49.0505,10.3073,Solar
+Germany,Dittwar Solar Power Plant,1.8,49.5806,9.6518,Solar
+Germany,Dormagen,586.3,51.0791,6.8287,Gas
+Germany,Dornau,16.6,47.8002,10.9026,Hydro
+Germany,Dortmund,26,51.5197,7.477,Gas
+Germany,Dow Stade,173,53.6519,9.5079,Gas
+Germany,Driedorf Solar Power Plant,5,50.6473,8.1834,Solar
+Germany,Duisburg Hamborn,385,51.491,6.7275,Gas
+Germany,Duisburg Ruhrort,315,51.4597,6.7306,Gas
+Germany,Dï¿½bern Solar Power Plant,6.3,51.6126,14.6169,Solar
+Germany,Dï¿½llstadt Solar Power Plant,6.1,49.7912,10.2599,Solar
+Germany,Dï¿½lzig Solar Power Plant,3.9,51.3508,12.2001,Solar
+Germany,Dï¿½rrrï¿½hrsdorf Solar Power Plant,1.9,51.0277,14.0108,Solar
+Germany,EBKW Knapsack,33.4,50.8577,6.8502,Waste
+Germany,EBS-HKW Rostock,17,54.1446,12.1412,Waste
+Germany,EBS-Heizkraftwerk,23.5,52.1688,14.6408,Other
+Germany,EEV,38,53.4852,9.9696,Oil
+Germany,EEW Energy from Waste Hannover GmbH,22.5,52.4118,9.853,Waste
+Germany,EEW GroÃŸrÃ¤schen,23.3,51.5929,14.0241,Waste
+Germany,EEW GÃ¶ppingen,11,48.6823,9.6713,Waste
+Germany,EMSLAND,1406,52.4716,7.3204,Nuclear
+Germany,ENERTRAG Netz GmbH (UW Bertikow),20,53.2656,13.95,Biomass
+Germany,EVC / GLOBALFOUNDRIES,34.3,51.127,13.715,Gas
+Germany,EVE,14.5,52.535,12.3626,Waste
+Germany,EZ1,18.5,51.0489,12.1104,Coal
+Germany,Ebern - TUP Solar Power Plant,7.1,50.0824,10.7686,Solar
+Germany,Eckendorf Solar Power Plant,1.6,49.4455,12.2285,Solar
+Germany,Ecklak Solar Power Plant,3.8,53.9246,9.274,Solar
+Germany,Eckolstï¿½dt Solar Power Plant,8.5,51.0435,11.6283,Solar
+Germany,Eggebek Solar Power Plant,83.2,54.6233,9.3457,Solar
+Germany,Egger Kraftwerk Briilon 1,18,51.4067,8.6012,Biomass
+Germany,Egger Kraftwerk Briilon 2,13.5,51.4085,8.5999,Gas
+Germany,Egglfing,40.4,48.3206,13.3161,Hydro
+Germany,Eging am See Solar Power Plant,2.2,48.7159,13.2554,Solar
+Germany,Egling Solar Power Plant,6.2,48.1828,11.0063,Solar
+Germany,Eiche Solar Power Plant,26.5,52.5627,13.6031,Solar
+Germany,Eisenach Solar Power Plant,3.3,51.0023,10.3254,Solar
+Germany,Eitting,26,48.3586,11.8822,Hydro
+Germany,Ellgau,9.7,48.5967,10.8789,Hydro
+Germany,Ellhï¿½ft Solar Power Plant,2,54.8912,8.958,Solar
+Germany,Ellighofen Solar Power Plant,3.5,48.0038,10.8571,Solar
+Germany,Ellscheid Solar Power Plant,5,50.1551,6.9303,Solar
+Germany,Elsterheide Solar Power Plant,20,51.4728,14.3054,Solar
+Germany,Emden Biomasse,20,53.3422,7.2062,Biomass
+Germany,Emden Natural Gas,50,53.3422,7.2062,Gas
+Germany,Emlichheim Solar Power Plant,5,52.6223,6.8626,Solar
+Germany,Emsland,1837,52.4819,7.3067,Gas
+Germany,Energieanlage 3,18.6,53.149,12.3797,Biomass
+Germany,Energiezentrale,11.1,51.5744,7.2979,Gas
+Germany,Energiezentrale 1992,11.06,48.3591,11.7903,Gas
+Germany,Energiezentrum Mohn Media,22,51.9073,8.4088,Gas
+Germany,Enertec Hameln,31.5,52.0988,9.3882,Waste
+Germany,Enkirch,18.4,49.9767,7.1278,Hydro
+Germany,Ergoldsbach Solar Power Plant,5.1,48.6759,12.1962,Solar
+Germany,Ering,36.5,48.2935,13.1585,Hydro
+Germany,Erlasee Solar Power Plant,11.4,50.0029,9.9204,Solar
+Germany,Ernsthof Solar Power Plant,34.4,49.7081,9.481,Solar
+Germany,Erweiterung Energiezentrale 2003,7.44,48.3591,11.7903,Gas
+Germany,Erzhausen,220,51.8991,9.9245,Hydro
+Germany,Espenhain Solar Power Plant,5,51.1966,12.4787,Solar
+Germany,Ettling,12.6,48.6961,12.7978,Hydro
+Germany,FHKW Ludwigshafen,28,49.4851,8.4262,Waste
+Germany,FKK,33.5,51.2791,9.484,Coal
+Germany,FS-Karton,18.9,51.2171,6.6965,Gas
+Germany,Faimingen,10.1,48.5584,10.4118,Hydro
+Germany,Fankel,16.4,50.1239,7.2259,Hydro
+Germany,Fattendorf Solar Power Plant,1.6,48.595,13.5719,Solar
+Germany,Feldkirchen,38.2,47.9609,12.1561,Hydro
+Germany,Finow Solar Power Plant,84.9,52.8224,13.7012,Solar
+Germany,Flensburg power station,195,54.8049,9.4324,Coal
+Germany,Forst Solar Power Plant,3.6,51.721,14.6298,Solar
+Germany,Fortuna Nord,15,50.9456,6.6636,Coal
+Germany,Franken 1,823,49.4208,11.0077,Gas
+Germany,Frauental Solar Power Plant,3.3,48.0058,10.2413,Solar
+Germany,Freiberg Solar Power Plant,3,50.9085,13.3746,Solar
+Germany,Freimersheim Solar Power Plant,7.3,49.7028,8.0716,Solar
+Germany,Frimmersdorf power station,562,51.0574,6.5771,Coal
+Germany,Froschham Solar Power Plant,4.2,48.4765,11.0995,Solar
+Germany,Fï¿½rstenwalde Solar Power Plant,39.6,52.3888,14.0955,Solar
+Germany,G-Kraftwerk,103,51.3689,6.6541,Coal
+Germany,GHD,13.4,48.6403,12.4634,Gas
+Germany,GKH Hannover power station,272,52.42,9.6486,Coal
+Germany,GKL,230,52.3729,9.7142,Gas
+Germany,GKM (Mannheim) power station,1958,49.4452,8.4891,Coal
+Germany,GKS,24.4,50.0297,10.224,Waste
+Germany,GMVA Niederrhein,61.5,51.4855,6.8344,Waste
+Germany,GTKW Darmstadt,94.6,49.8849,8.6501,Gas
+Germany,GUD-Anlage DREWSEN,13,52.6235,10.2457,Gas
+Germany,Gahro Solar Power Plant,27.4,51.7306,13.6862,Solar
+Germany,Gardelegen - S&Z Solar Power Plant,2.3,52.5307,11.4306,Solar
+Germany,Gars,25,48.154,12.3111,Hydro
+Germany,Geesthacht,119.1,53.426,10.3359,Hydro
+Germany,Geisling,25,48.9748,12.344,Hydro
+Germany,Gelbelsee Solar Power Plant,1.8,48.9435,11.4471,Solar
+Germany,Gelchsheim Solar Power Plant,3.3,49.575,10.0001,Solar
+Germany,Gelnhausen Solar Power Plant,1.4,50.2127,9.165,Solar
+Germany,Gemeinschaftskraftwerk Irsching,1391,48.767,11.58,Gas
+Germany,Georgsdorf Solar Power Plant,24.7,52.5909,7.084,Solar
+Germany,Gergweis Solar Power Plant,1.7,48.6196,12.977,Solar
+Germany,Gersteinwerk,2004.5,51.6725,7.7099,Gas
+Germany,Gerstungen Solar Power Plant,3.8,50.9669,10.0631,Solar
+Germany,Gerwisch Solar Power Plant,8.6,52.1841,11.7523,Solar
+Germany,Geusa Solar Power Plant,5.9,51.3398,11.9631,Solar
+Germany,GichtNatural Gaskraftwerk Dillingen,85,49.3548,6.7315,Other
+Germany,Giebelstadt Solar Power Plant,28,49.6499,9.9653,Solar
+Germany,Glau Solar Power Plant,8,52.2394,13.1449,Solar
+Germany,Glebitzsch Solar Power Plant,3.9,51.5886,12.1924,Solar
+Germany,Glesien Solar Power Plant,4.2,51.4452,12.2345,Solar
+Germany,Global Tech I,400,54.509,6.367,Wind
+Germany,Gnannenweiler Solar Power Plant,6.4,48.698,9.991,Solar
+Germany,Gnoien Solar Power Plant,6.4,53.978,12.6925,Solar
+Germany,Gode Wind 1 - Teil 1,263.1,54.041,6.994,Wind
+Germany,Goldbach Solar Power Plant,2.8,49.999,9.2008,Solar
+Germany,Goldisthal,1052,50.5098,11.0209,Hydro
+Germany,Gollhofen Solar Power Plant,3,49.5756,10.1884,Solar
+Germany,Goodyear - Philippsburg Solar Power Plant,7.4,49.225,8.4716,Solar
+Germany,Gotha Solar Power Plant,11.8,50.9393,10.6677,Solar
+Germany,Grabsleben Solar Power Plant,2.2,50.9393,10.8301,Solar
+Germany,Greding Solar Power Plant,4.5,49.0897,11.328,Solar
+Germany,Gribow Solar Power Plant,1,53.9597,13.4902,Solar
+Germany,Grohnde,1360,52.0356,9.4135,Nuclear
+Germany,Groï¿½ Stieten Solar Power Plant,6.9,53.8064,11.4629,Solar
+Germany,Groï¿½engottern Solar Power Plant,2.1,51.1407,10.5654,Solar
+Germany,Grubenheizkraftwerk,49,51.4627,11.714,Coal
+Germany,Grï¿½den Solar Power Plant,3.4,51.4044,13.5836,Solar
+Germany,Grï¿½neberg Solar Power Plant,7.5,52.8643,13.2193,Solar
+Germany,GuD,100,51.2214,6.7313,Gas
+Germany,GuD Anlage WVK,60.1,48.0202,7.8452,Gas
+Germany,GuD Baunatal  VW WerksgelÃ¤nde,78,51.2531,9.4379,Gas
+Germany,GuD Bitterfeld,106,51.6257,12.327,Gas
+Germany,GuD Kraftwerk Hillegossen,37.5,52.0333,8.5333,Gas
+Germany,GuD Leuna,52,51.2998,12.0193,Gas
+Germany,GuD Marienehe,108,54.1255,12.0819,Gas
+Germany,GuD Schwarzheide,122,51.4762,13.8891,Gas
+Germany,GuD Tiefstack,127,53.5267,10.0658,Gas
+Germany,GuD-Anlage,47,49.9882,9.1558,Gas
+Germany,GuD-Anlage RÃ¼sselsheim,112.1,49.992,8.4141,Gas
+Germany,GuD-HKW Neubrandenburg,75,53.5745,13.2951,Gas
+Germany,GuD-Ikw StaÃŸfurt,132,51.8655,11.5738,Gas
+Germany,GuD-Kraftwerk,17.2,49.5307,8.4709,Gas
+Germany,Gummering,14.8,48.6225,12.398,Hydro
+Germany,Gundelfingen - Gartner Solar Power Plant,1,48.546,10.3783,Solar
+Germany,Gundellfingen - Gehrlicher Solar Power Plant,2.7,48.5393,10.3557,Solar
+Germany,Gï¿½rlitz Solar Power Plant,6,51.1853,14.9662,Solar
+Germany,Gï¿½ttelborn Solar Power Plant,8.4,49.3386,7.035,Solar
+Germany,Gï¿½ttersdorf Solar Power Plant,1.3,48.626,12.9651,Solar
+Germany,HBB,24,47.796,12.1193,Gas
+Germany,HHKW Berlin-NeukÃ¶lln,16.5,52.4253,13.5173,Biomass
+Germany,"HKW ""HelmshÃ¤ger Berg""",14.7,54.0973,13.385,Gas
+Germany,HKW 1,23.1,51.4707,6.8616,Gas
+Germany,HKW 1 Werk Offstein,30,49.5991,8.221,Gas
+Germany,HKW 2,24.5,51.4707,6.8616,Gas
+Germany,HKW Altenstadt,9.8,47.7971,10.8587,Biomass
+Germany,HKW Bad Salzungen,9.7,50.8003,10.2206,Gas
+Germany,HKW Barmen,82,51.2689,7.2003,Gas
+Germany,HKW BohrhÃ¼gel,13.5,50.6315,10.6987,Gas
+Germany,HKW Brandenburg,36,51.5122,13.9711,Gas
+Germany,HKW Chemnitz  Nord II (Natural Gas),57.2,50.857,12.9231,Gas
+Germany,HKW Dresden-Nossener BrÃ¼cke,263,51.0421,13.7086,Gas
+Germany,HKW Eltmann,57,49.984,10.6514,Gas
+Germany,HKW Erfurt-Ost,109.1,50.9848,11.0299,Gas
+Germany,HKW Erlangen (Coal),17.4,49.5928,11.0015,Coal
+Germany,HKW Erlangen (Natural Gas),28.5,49.593,11.0016,Gas
+Germany,HKW Fenne  GrubenNatural Gaskraftwerk,42,49.249,6.8792,Gas
+Germany,HKW Freiberg,27,48.0056,7.8423,Gas
+Germany,HKW GÃ¶ttingen,18.8,51.5534,9.9337,Gas
+Germany,HKW Halle Trotha,254,51.481,11.9643,Gas
+Germany,HKW Hiltrop,44,51.508,7.2503,Gas
+Germany,HKW Humboldtstr.,31,54.3275,10.1267,Gas
+Germany,HKW I,95,51.4293,6.752,Coal
+Germany,HKW III/B,274,51.3907,6.7478,Gas
+Germany,HKW Jena,182,50.8969,11.5857,Gas
+Germany,HKW Karcherstr. (Coal),13.4,49.4346,7.7582,Coal
+Germany,HKW Karcherstr. (Natural Gas),11.6,49.4347,7.7602,Gas
+Germany,HKW Mannheim,44.7,49.5224,8.4529,Waste
+Germany,HKW Merheim,15.8,50.9431,7.0852,Gas
+Germany,HKW Merkenich,15.5,51.0179,6.964,Gas
+Germany,HKW Merkenich (Natural Gas),108,51.0178,6.9643,Gas
+Germany,HKW Niederrad,126,50.0856,8.6279,Gas
+Germany,HKW Niehl 2,413,50.9749,6.988,Gas
+Germany,HKW Nord,61.5,52.4328,10.7861,Coal
+Germany,HKW Nord West,200,51.2529,9.438,Coal
+Germany,HKW Pfaffenwald,36,48.7508,9.1103,Gas
+Germany,HKW Potsdam-SÃ¼d,81.8,52.3661,13.1125,Gas
+Germany,HKW Sachtleben,27.5,51.4409,6.7054,Coal
+Germany,HKW Sandreuth,18,49.4386,11.0606,Waste
+Germany,HKW Sandreuth,150,49.4386,11.0606,Gas
+Germany,HKW Schwarza,26.5,50.6869,11.3293,Gas
+Germany,HKW Schwerin Lankow,23,53.6539,11.373,Gas
+Germany,HKW Schwerin SÃ¼d,44.9,53.5779,11.3965,Gas
+Germany,HKW SÃ¼dstadt,35,50.917,6.9573,Gas
+Germany,HKW West,138.5,52.4422,10.7645,Coal
+Germany,HKW West,123,50.0984,8.6531,Coal
+Germany,HKW West,99,50.0984,8.6531,Gas
+Germany,HKW West ?,19.7,50.0985,8.653,Other
+Germany,HKW Wiesengrund,22.1,50.9816,10.2906,Gas
+Germany,HKW WÃ¶rth,59,49.07,8.307,Gas
+Germany,HKW-Mitte,137.3,52.2786,10.5147,Gas
+Germany,HKW-Nord,25,52.2786,10.5147,Gas
+Germany,HKW-West,12.8,52.0262,8.8666,Gas
+Germany,HKW3 UPM Schongau,65,48.1603,10.1144,Gas
+Germany,Haag Solar Power Plant,5.5,49.6267,10.6237,Solar
+Germany,Hafen power station,427,53.1249,8.7287,Coal
+Germany,Haidenaab Solar Power Plant,3.2,49.8838,11.8316,Solar
+Germany,Halberstadt Solar Power Plant,3.8,51.897,11.0914,Solar
+Germany,Hamburg-Moorburg,1600,53.489,9.949,Coal
+Germany,Hamburger Rieger,18.7,51.5201,14.3374,Waste
+Germany,Harthausen Solar Power Plant,4.5,48.4406,10.3481,Solar
+Germany,Hasselbach Solar Power Plant,1.9,50.0322,7.4374,Solar
+Germany,Hastedt power station,119,53.0601,8.8733,Coal
+Germany,Hattorf,52.3,50.8126,9.978,Gas
+Germany,Haï¿½loch Solar Power Plant,3.3,49.3644,8.2341,Solar
+Germany,Heckfeld Solar Power Plant,1.9,49.5608,9.6203,Solar
+Germany,Heilbronn power station,778,49.1773,9.2063,Coal
+Germany,Heimbach,16,50.6286,6.4518,Hydro
+Germany,Heinersdorf Solar Power Plant,7.1,51.1292,12.6234,Solar
+Germany,Heizkraftwerk 1,22.5,53.5177,9.9508,Gas
+Germany,Heizkraftwerk 2,152,50.0918,8.5311,Gas
+Germany,Heizkraftwerk 3,211,49.249,6.8792,Coal
+Germany,Heizkraftwerk 4,18,48.3751,10.9028,Gas
+Germany,Heizkraftwerk 5,10,49.8828,8.6287,Gas
+Germany,Heizkraftwerk Altbach/Deizisau (Natural Gas),65,48.7176,9.3749,Gas
+Germany,Heizkraftwerk Bomlitz,22.1,52.9,9.65,Gas
+Germany,Heizkraftwerk Evonik Rheinfelden,16,47.5708,7.8072,Gas
+Germany,Heizkraftwerk FFO,45,52.346,14.546,Coal
+Germany,Heizkraftwerk Gera-Nord,148,50.9076,12.061,Gas
+Germany,Heizkraftwerk Hafen,100.2,51.9501,7.6413,Gas
+Germany,Heizkraftwerk Hagen-Kabel,230,51.411,7.4917,Gas
+Germany,Heizkraftwerk KarlstraÃŸe 1,12,50.7338,7.0805,Waste
+Germany,Heizkraftwerk KarlstraÃŸe 2,95,50.7338,7.0805,Gas
+Germany,Heizkraftwerk Krefeld,12.6,51.3388,6.5853,Gas
+Germany,Heizkraftwerk Leipzig-Nord,167,51.3512,12.3784,Gas
+Germany,Heizkraftwerk MagirusstraÃŸe,20.7,48.397,9.9648,Coal
+Germany,Heizkraftwerk Pforzheim GmbH,12.3,48.8971,8.725,Biomass
+Germany,Heizkraftwerk Pforzheim GmbH,52.5,48.8832,8.6653,Gas
+Germany,Heizkraftwerk Sindelfingen,95,48.6972,8.9992,Gas
+Germany,Heizkraftwerk Stendal,22,52.6087,11.8325,Gas
+Germany,Heizkraftwerk Stuttgart-Gaisburg,22.6,48.7825,9.2315,Coal
+Germany,Heizkraftwerk West,37,49.0144,8.3481,Gas
+Germany,Heizkraftwerk der Sappi Stockstadt GmbH,24.8,49.9774,9.0687,Coal
+Germany,Heizkraftwerk zur Papierfabrik,18.1,52.618,7.8619,Gas
+Germany,Heizkraftwerke an der FriedensbrÃ¼cke,122,49.8,9.9231,Gas
+Germany,Hemfurth,40,51.1671,9.0468,Hydro
+Germany,Hengersberg Solar Power Plant,1.5,48.784,13.0793,Solar
+Germany,Heretsried Solar Power Plant,2.5,48.4644,10.738,Solar
+Germany,Herforst Solar Power Plant,1.6,49.9469,6.6864,Solar
+Germany,Herne power station,729,51.5508,7.1875,Coal
+Germany,Herzberg Solar Power Plant,16.4,51.6731,13.2232,Solar
+Germany,Hettenleidelheim Solar Power Plant,1.4,49.5418,8.0814,Solar
+Germany,Heubach Solar Power Plant,4.8,50.0879,10.7784,Solar
+Germany,Heyden power station,875,52.3828,8.996,Coal
+Germany,Himmelstadt Solar Power Plant,4.3,49.9244,9.7401,Solar
+Germany,Hinzerath Solar Power Plant,1.4,49.843,7.1833,Solar
+Germany,Hkw Offenbach power station,54,50.0652,8.769,Coal
+Germany,Hohenerxleben Solar Power Plant,1.3,51.8492,11.6594,Solar
+Germany,Hohenthurm Solar Power Plant,4.3,51.5258,12.1023,Solar
+Germany,Hohenwarte,377.6,50.6038,11.4752,Hydro
+Germany,Holthausen,84,51.1756,6.838,Gas
+Germany,Holzgï¿½nz Solar Power Plant,4.7,48.0228,10.2692,Solar
+Germany,Horgau Solar Power Plant,5,48.4009,10.662,Solar
+Germany,Huckingen,606,51.3679,6.7167,Gas
+Germany,Huerth Ville / Berrenrath power station,52,50.8614,6.8407,Coal
+Germany,Humlangen Solar Power Plant,2.5,48.2943,9.9562,Solar
+Germany,Humtrup Solar Power Plant,2.9,54.8521,8.8872,Solar
+Germany,Huntorf,321,53.1897,8.4087,Gas
+Germany,Hurlach Solar Power Plant,4.3,48.1074,10.8538,Solar
+Germany,Hutthurm Solar Power Plant,1.6,48.6586,13.4617,Solar
+Germany,HÃ¤usern,100,47.7546,8.1879,Hydro
+Germany,HÃ¶chstÃ¤dt,10,48.6032,10.5827,Hydro
+Germany,Hï¿½heinï¿½d Solar Power Plant,2.1,49.2862,7.5806,Solar
+Germany,Hï¿½rlkofen Solar Power Plant,3.7,48.2391,11.9467,Solar
+Germany,Hï¿½ttigweiler Solar Power Plant,2.3,49.3843,7.0614,Solar
+Germany,IHKW Andernach,12.5,50.4349,7.4321,Waste
+Germany,IHKW Heidenheim,26.5,48.6701,10.1506,Gas
+Germany,IKS PCK Schwedt,333.5,53.0982,14.2345,Oil
+Germany,IKW,101,52.1674,14.627,Other
+Germany,IKW RÃ¼dersdorf,30,52.4903,13.8299,Waste
+Germany,ILK-EKT,14,51.7999,11.7581,Other
+Germany,ILK-GuD,135.7,51.2998,12.0193,Gas
+Germany,INEOS Kraftwerk,24,51.4693,6.6436,Gas
+Germany,ISAR-2,1485,48.6049,12.2936,Nuclear
+Germany,IbbenbÃ¼ren-B power station,794,52.2888,7.7479,Coal
+Germany,Idenheim Solar Power Plant,3.9,49.8895,6.5593,Solar
+Germany,Igenhausen Solar Power Plant,3.7,48.472,11.0329,Solar
+Germany,Ilbesheim Solar Power Plant,6.4,49.6931,8.0423,Solar
+Germany,Ilfeld Solar Power Plant,5.6,51.5744,10.7796,Solar
+Germany,Immenreuth Solar Power Plant,5.8,49.9171,11.8802,Solar
+Germany,Inden Solar Power Plant,3.8,50.8436,6.339,Solar
+Germany,Industrie-Kraftwerk,79,51.5649,6.5782,Coal
+Germany,Industriekraftwerk Bernburg (IKB),66,51.8012,11.7544,Gas
+Germany,Industriekraftwerk Breuberg,11.4,49.8108,9.0117,Gas
+Germany,Industriekraftwerk Greifswald,37.7,54.1379,13.6671,Gas
+Germany,Industriekraftwerk Ludwigshafen,12,49.4532,8.4336,Gas
+Germany,Industriepark Werk Gendorf,49,48.1768,12.7306,Gas
+Germany,Ingolstadt,19.8,48.7503,11.4122,Hydro
+Germany,Itzehoe,88,53.9664,9.4495,Oil
+Germany,Janschwalde power station,2790,51.8344,14.459,Coal
+Germany,Jesserndorf Solar Power Plant,1,50.0923,10.6846,Solar
+Germany,Jochenstein,66,48.5196,13.7085,Hydro
+Germany,Jocksdorf Solar Power Plant,103.9,51.6597,14.6261,Solar
+Germany,Jï¿½lich Solar Power Plant,1.5,50.915,6.3876,Solar
+Germany,K&N PFK AG EV,12.75,51.0513,13.0166,Gas
+Germany,KW Hafen,33,53.1248,8.7289,Waste
+Germany,KW Kirchlengern,201.5,52.1951,8.6482,Gas
+Germany,KW MittelsbÃ¼ren,198,53.1289,8.6852,Oil
+Germany,KW Rheinfelden,46.7,47.5699,7.8101,Hydro
+Germany,KW Voerde,1390,51.5765,6.6894,Coal
+Germany,KW Walsum,1200,51.5267,6.7187,Coal
+Germany,KW West,640,51.5796,6.6789,Coal
+Germany,KW Wyhlen,37.9,47.5524,7.6581,Hydro
+Germany,KWH,102,52.3667,9.7167,Gas
+Germany,KWK AOS GmbH,30.7,53.6575,9.502,Gas
+Germany,KWK GÃ¼tersloh,12.1,51.9154,8.4003,Biomass
+Germany,KWK Neumarkt,15.6,49.2613,11.4516,Biomass
+Germany,KWK-Anlage Barby,18,51.9832,11.8766,Gas
+Germany,KWK-Anlage Krefeld DT,25.8,51.3392,6.6642,Gas
+Germany,KWK-Anlage Krefeld VM,14,51.3392,6.6642,Gas
+Germany,KWKK Heidelberg,13.5,49.4216,8.6728,Gas
+Germany,KWM,690,52.315,10.0914,Coal
+Germany,Kachlet,53.7,48.5797,13.4083,Hydro
+Germany,Kaisersesch Solar Power Plant,9.3,50.2331,7.1644,Solar
+Germany,Kalenberg Solar Power Plant,3.7,50.5717,6.5995,Solar
+Germany,Kamenz Solar Power Plant,3.8,51.2947,14.1298,Solar
+Germany,Karnap,38,51.5154,6.9938,Waste
+Germany,Karwitz Solar Power Plant,10.1,53.08,11.0319,Solar
+Germany,Kaufering,16.7,48.084,10.8649,Hydro
+Germany,Kemnat Solar Power Plant,1.1,48.4694,11.3003,Solar
+Germany,Kempfeld Solar Power Plant,2.7,49.7936,7.2509,Solar
+Germany,Kernkraft Gundremmingen,2572,48.515,10.4016,Nuclear
+Germany,Kessel 2,2.9,50.777,6.486,Gas
+Germany,Kessel 4,9.3,50.777,6.486,Coal
+Germany,Kesselhaus Zuckerfabrik,15.1,53.8563,13.7101,Gas
+Germany,Kiel power station,323,54.3394,10.1766,Coal
+Germany,KirchmÃ¶ser,160,52.3942,12.4181,Gas
+Germany,Klanxbï¿½ll Solar Power Plant,6,54.8645,8.6481,Solar
+Germany,Klausheide Solar Power Plant,4.1,52.4601,7.174,Solar
+Germany,Kleinaitingen Solar Power Plant,5,48.2145,10.8664,Solar
+Germany,Klettbach Solar Power Plant,1.9,50.9204,11.1657,Solar
+Germany,Klingenberg,164,52.4889,13.497,Coal
+Germany,KlÃ¤ranlage,12,48.5529,8.4074,Waste
+Germany,Klï¿½den Solar Power Plant,6,52.6416,11.6552,Solar
+Germany,Knapsack Natural Gas I,1230,50.8617,6.8424,Gas
+Germany,Koblenz,16,50.3659,7.5817,Hydro
+Germany,Kodersdorf Solar Power Plant,3.8,51.2301,14.9078,Solar
+Germany,Koepchenwerk,153,51.4105,7.4531,Hydro
+Germany,Kohlekraftwerk,14.4,50.7055,6.6536,Coal
+Germany,Kombi-HKW,50,51.2791,9.484,Gas
+Germany,Kombikraftwerk,46.6,51.4656,12.592,Gas
+Germany,Kopswerk I,247,46.9684,10.0599,Hydro
+Germany,Kraftwerk,10,50.9456,6.665,Coal
+Germany,Kraftwerk,66.3,50.8305,6.9594,Oil
+Germany,Kraftwerk 2,34.2,50.5691,9.6813,Gas
+Germany,Kraftwerk 3,18.5,48.1539,12.6524,Hydro
+Germany,Kraftwerk Bexbach,721,49.3635,7.2371,Coal
+Germany,Kraftwerk Ensdorf,389,49.2932,6.7709,Coal
+Germany,Kraftwerk Fulda,24.8,50.5664,9.6861,Oil
+Germany,Kraftwerk Grenzach-Wyhlen,40,47.5397,7.7069,Gas
+Germany,Kraftwerk Hausham,92.8,47.7524,11.8398,Oil
+Germany,Kraftwerk II,296.2,51.6804,7.0969,Coal
+Germany,Kraftwerk III,139,51.6804,7.0969,Gas
+Germany,Kraftwerk L 57,26,51.3698,6.6615,Coal
+Germany,Kraftwerk Mainz,434.2,50.0264,8.2379,Gas
+Germany,Kraftwerk Meggle,12.6,48.0564,12.1852,Gas
+Germany,Kraftwerk Mitte,490,49.5137,8.4316,Gas
+Germany,Kraftwerk N 230,110,51.3698,6.6615,Coal
+Germany,Kraftwerk Nord,56,48.5529,8.4074,Other
+Germany,Kraftwerk Plattling,97.9,48.7874,12.8825,Gas
+Germany,Kraftwerk Salzgitter,288.5,52.1579,10.3958,Other
+Germany,Kraftwerk Schwedt GmbH & Co.KG,28.9,53.0831,14.3214,Waste
+Germany,Kraftwerk SÃ¼d,390,49.5136,8.4316,Gas
+Germany,Kraftwerk Waldshut,150,47.6178,8.1926,Hydro
+Germany,Kraftwerk Walheim,136,49.0175,9.1574,Oil
+Germany,Kraftwerk Werdohl-Elverlingsen,310,51.2764,7.7057,Coal
+Germany,Kraftwerksgruppe Pfreimd,127,49.53,12.2848,Hydro
+Germany,Krassow Solar Power Plant,8.5,53.8813,11.5827,Solar
+Germany,Kremmen Solar Power Plant,6.7,52.7473,13.0419,Solar
+Germany,Krumbach Solar Power Plant,5.2,48.2289,10.3431,Solar
+Germany,Kï¿½ching Solar Power Plant,5.6,48.5553,13.0228,Solar
+Germany,Kï¿½rlitz Solar Power Plant,2,51.3623,12.7965,Solar
+Germany,Kï¿½then Solar Power Plant,45,51.7212,11.96,Solar
+Germany,Laisa Solar Power Plant,2.8,50.9941,8.6225,Solar
+Germany,Landau,12.6,48.6679,12.66,Hydro
+Germany,Landesbergen Biomasse,20,52.577,9.1101,Biomass
+Germany,Langenhahn Solar Power Plant,5.3,50.589,7.923,Solar
+Germany,Langenzenn Solar Power Plant,2.2,49.4844,10.79,Solar
+Germany,Laubusch Solar Power Plant,3,51.4685,14.1321,Solar
+Germany,Laufenburg,104.4,47.5559,8.0494,Hydro
+Germany,Lauingen - Gehrlicher Solar Power Plant,25.7,48.5369,10.4235,Solar
+Germany,Lauingen - Juwi Solar Power Plant,2.8,48.5782,10.3857,Solar
+Germany,Lauta Solar Power Plant,23.5,51.4567,14.1095,Solar
+Germany,Lefchfeld Nord Solar Park,24.9,48.2205,10.8935,Solar
+Germany,Lehmen,20,50.2747,7.459,Hydro
+Germany,Leideneck Solar Power Plant,1,50.0403,7.365,Solar
+Germany,Leitzach 1,136,47.8739,11.871,Hydro
+Germany,Leiwen Solar Power Plant,3.6,49.8005,6.873,Solar
+Germany,Lettewitz Solar Power Plant,13.3,51.6005,11.8638,Solar
+Germany,Lichterfelde,432,52.4252,13.3098,Gas
+Germany,Lieberose Solar Power Plant,53,51.9241,14.4084,Solar
+Germany,Liepolding Bï¿½gen Solar Power Plant,2.5,48.8938,12.7437,Solar
+Germany,Lippendorf power station,875,51.1821,12.3733,Coal
+Germany,Listerfehrda Solar Power Plant,2.9,51.8168,12.8626,Solar
+Germany,Litten Solar Power Plant,38.3,51.1954,14.5194,Solar
+Germany,Lobï¿½bach-Lobenfeld Solar Power Plant,5.9,49.3451,8.8586,Solar
+Germany,Lochau Solar Power Plant,3.3,51.3969,12.0772,Solar
+Germany,Luckau Solar Power Plant,21,51.8683,13.7868,Solar
+Germany,Luckenwalde Solar Power Plant,6,52.1083,13.1635,Solar
+Germany,Lutstrut Solar Power Plant,4.5,48.9277,9.973,Solar
+Germany,LÃ¼nen power station (KSBG),473,51.614,7.4643,Coal
+Germany,Lï¿½nnewitz Solar Power Plant,25.9,51.5495,13.2212,Solar
+Germany,MHKW,44,53.1146,8.8182,Waste
+Germany,MHKW  WKW,9,47.8561,12.1341,Waste
+Germany,MHKW Burgkirchen,12.5,48.1851,12.7361,Waste
+Germany,MHKW Frankfurt,72.5,50.1617,8.636,Waste
+Germany,MHKW Mainz,15.6,50.0259,8.2418,Waste
+Germany,MHKW Pirmasens,15,49.2282,7.5955,Waste
+Germany,MHKW Rothensee,58.4,52.1853,11.6791,Waste
+Germany,MKVA Krefeld,33.1,51.3804,6.6373,Waste
+Germany,MT  DÃ¼ren,14,50.7728,6.49,Gas
+Germany,MVA Bielefeld,34,52.0427,8.6072,Waste
+Germany,MVA Hamm,14.6,51.6804,7.7442,Waste
+Germany,MVA Ingolstadt,25.5,48.7645,11.4918,Waste
+Germany,MVA Weisweiler,24,50.8386,6.3212,Waste
+Germany,MVR MÃ¼llverwertung Rugenberger Damm GmbH & Co. KG,24,53.5209,9.9348,Waste
+Germany,Mahlwinkel Solar Power Plant,18.8,52.387,11.8192,Solar
+Germany,Markersbach,1045.2,50.5194,12.8798,Hydro
+Germany,Markranstï¿½dt Solar Power Plant,4.1,51.3144,12.2191,Solar
+Germany,Meerwind SÃ¼dIOst,288,54.392,7.704,Wind
+Germany,Meitingen,11.3,48.547,10.8651,Hydro
+Germany,Meldorf Solar Power Plant,3.5,54.0836,9.0425,Solar
+Germany,Mengersgereuth-Hï¿½mmern Solar Power Plant,1.4,50.3933,11.102,Solar
+Germany,Mengkofen Solar Power Plant,21.7,48.6988,12.3842,Solar
+Germany,Merching,12,48.2704,10.9773,Hydro
+Germany,Metzdorf Solar Power Plant,6,52.6546,14.1568,Solar
+Germany,Meuro Solar Power Plant,166,51.5446,13.9795,Solar
+Germany,Meï¿½kirch Solar Power Plant,1,47.976,9.1071,Solar
+Germany,MiRO,70,49.0608,8.3244,Oil
+Germany,Miegersbach Solar Power Plant,5.2,48.3232,11.2014,Solar
+Germany,Missen Solar Power Plant,10.1,51.7185,14.0594,Solar
+Germany,Mitte,444,52.5117,13.4209,Gas
+Germany,Mittelwasungen Solar Power Plant,2.1,50.2651,11.1246,Solar
+Germany,Moabit (Oil),51,52.5374,13.3461,Oil
+Germany,Modellkraftwerk,179,49.249,6.8792,Coal
+Germany,Moos Solar Power Plant,15.8,49.6845,9.8697,Solar
+Germany,Mooshof Solar Power Plant,4.7,47.8134,8.9887,Solar
+Germany,Morbach Solar Power Plant,1.1,49.8261,7.106,Solar
+Germany,Muggensturm Solar Power Plant,1.8,48.8807,8.2803,Solar
+Germany,Mutterstadt Solar Power Plant,1.6,49.4366,8.319,Solar
+Germany,MÃ¼den,16.4,52.5219,10.3604,Hydro
+Germany,MÃ¼hltal,11.2,47.9963,11.4854,Hydro
+Germany,MÃ¼llheizkraftwerk Kassel,14.7,51.2976,9.5241,Waste
+Germany,MÃ¼llheizkraftwerk Offenbach,10.4,50.0653,8.769,Waste
+Germany,MÃ¼llheizkraftwerk Wuppertal,30,51.2251,7.1422,Waste
+Germany,MÃ¼llkraftwerk Schwandorf,54,49.31,12.0879,Waste
+Germany,MÃ¼llverwertung BorsigstraÃŸe MVB,20,53.5319,10.0746,Biomass
+Germany,Mï¿½hlhausen Solar Power Plant,4.4,51.2295,10.4751,Solar
+Germany,Mï¿½nchweiler Solar Power Plant,1.7,49.5609,7.895,Solar
+Germany,Mï¿½sthinsdorf Solar Power Plant,5.1,51.6361,12.0165,Solar
+Germany,NECKARWESTHEIM-2,1400,49.0408,9.1759,Nuclear
+Germany,Natural Gas Turbine #1,28,49.2095,7.936,Gas
+Germany,Natural Gas Turbine #2,19.5,51.6627,10.3531,Gas
+Germany,Natural Gas Turbine #3,36,51.1514,13.9776,Gas
+Germany,Natural Gas Turbine #6,217.8,51.2212,6.7319,Gas
+Germany,Natural Gas Turbine #7,18.6,49.4059,11.1329,Gas
+Germany,Natural Gas Turbine #8,28.8,48.401,10.9358,Gas
+Germany,Natural Gas Turbine #9,51.9,50.8305,6.9594,Gas
+Germany,Natural Gas- u. Dampfturbinenanlage SÃ¼draum,38.6,49.2137,6.9781,Gas
+Germany,Natural Gasblock,293,51.2214,6.7313,Gas
+Germany,Natural Gaskraftwerk #1,45.3,50.7055,6.6536,Gas
+Germany,Natural Gasmotore,23.3,47.8561,12.1341,Gas
+Germany,Nauroth Solar Power Plant,8.5,50.703,7.8651,Solar
+Germany,Neckarsulm - Audi Solar Power Plant,1.9,49.202,9.2276,Solar
+Germany,Neef,16.4,50.0874,7.1358,Hydro
+Germany,Nemsdorf Solar Power Plant,4.8,51.3567,11.6712,Solar
+Germany,Nessa Solar Power Plant,1,51.1372,12.0127,Solar
+Germany,Neubrandenburg Solar Power Plant,2.9,53.5447,13.3304,Solar
+Germany,Neuburg Fï¿½rstobl Solar Power Plant,1.3,48.5149,13.4059,Solar
+Germany,Neuenhagen Solar Power Plant,7.2,52.5371,13.7086,Solar
+Germany,Neuhardenberg Solar Power Plant,76.7,52.6123,14.2411,Solar
+Germany,Neuhausen Solar Power Plant,10.6,51.6844,14.4243,Solar
+Germany,Neurath power station,2068,51.0395,6.615,Coal
+Germany,Neuruppin Solar Power Plant,7.9,52.946,12.792,Solar
+Germany,Neuschï¿½nau Solar Power Plant,1.2,48.8693,13.4482,Solar
+Germany,NeuÃ¶tting,26.1,48.2486,12.6883,Hydro
+Germany,Niebï¿½ll- GP Joule Solar Power Plant,5,54.8002,8.8177,Solar
+Germany,Niederaichbach,16.2,48.6039,12.3023,Hydro
+Germany,Niederaussem power station,3430,50.993,6.6685,Coal
+Germany,Niederwartha,39.8,51.0915,13.6098,Hydro
+Germany,Nord 2,332.7,48.1805,11.6393,Coal
+Germany,Nordband Solar Power Plant,4.9,49.2439,6.8803,Solar
+Germany,Nordendorf Solar Power Plant,7.4,48.5882,10.8441,Solar
+Germany,Nordhausen Solar Power Plant,3,51.489,10.8254,Solar
+Germany,Norstedt Solar Power Plant,1.4,54.5888,9.1179,Solar
+Germany,NuÃŸdorf,36.6,47.7447,12.1357,Hydro
+Germany,O10,94.2,51.0695,6.8467,Other
+Germany,OWP Nordsee Ost,295.2,54.445,7.683,Wind
+Germany,Oberaudorf-Ebbs,30,47.6413,12.199,Hydro
+Germany,Oberdreis Solar Power Plant,2.9,50.6232,7.6851,Solar
+Germany,Oberehring Solar Power Plant,3.9,48.8991,12.3237,Solar
+Germany,Oberhï¿½rbach Solar Power Plant,1.9,48.5161,13.1066,Solar
+Germany,Oberlauda Solar Power Plant,2.2,49.5703,9.6413,Solar
+Germany,Obernach,12.8,47.5547,11.2914,Hydro
+Germany,Obernburg,100,49.8293,9.1482,Gas
+Germany,Oberostendorf Solar Power Plant,2.6,47.9485,10.7634,Solar
+Germany,Oberottmarshausen Solar Power Plant,5.6,48.2205,10.8935,Solar
+Germany,Oberpeiching,11.9,48.6464,10.8791,Hydro
+Germany,Oberrï¿½blingen Solar Power Plant,8.1,51.435,11.315,Solar
+Germany,Oberseifertsdorf Solar Power Plant,10,50.9363,14.8011,Solar
+Germany,Oberï¿½tzdorf Solar Power Plant,1.7,48.5817,13.7106,Solar
+Germany,Offshore Windfarm Danysk,284.4,55.1416,7.1945,Wind
+Germany,Oppin Solar Power Plant,6.9,51.5504,12.0475,Solar
+Germany,Oranienburg Solar Power Plant,3.8,52.7321,13.2208,Solar
+Germany,Oschatz Solar Power Plant,3.8,51.3064,13.1089,Solar
+Germany,Ostseeflughafen Stralsund,31.55326,54.3426,12.7109,Solar
+Germany,Oxea GmbH,38,51.5246,6.8011,Other
+Germany,P&L Werk Appeldorn,11.4,51.7297,6.3586,Gas
+Germany,P&L Werk Euskirchen,14.5,50.658,6.8101,Coal
+Germany,P&L Werk JÃ¼lich,24.6,50.9152,6.3693,Coal
+Germany,P&L Werk KÃ¶nnern,20.3,51.6978,11.7581,Coal
+Germany,P&L Werk Lage,10.2,51.9861,8.8073,Gas
+Germany,PD energy GmbH,9.9,51.6296,12.2892,Waste
+Germany,PHILIPPSBURG-2,1468,49.2529,8.4364,Nuclear
+Germany,PKV Kraftwerk,60,53.4032,8.1282,Gas
+Germany,PSW Langenprozelten,164,50.0531,9.5814,Hydro
+Germany,PSW Vianden,1096,49.9523,6.1783,Hydro
+Germany,PVA Dallgow-Dï¿½beritz,20.956,52.5345,13.1163,Solar
+Germany,PWG,10.6,47.7895,11.0554,Gas
+Germany,Panitzsch Solar Power Plant,7.5,51.3538,12.5477,Solar
+Germany,Pasewalk Solar Power Plant,4.8,53.5091,13.9799,Solar
+Germany,Passau-Ingling,43.2,48.5533,13.4337,Hydro
+Germany,Peitz Solar Power Plant,3,51.8667,14.4116,Solar
+Germany,Penzing Solar Power Plant,3.7,48.0822,10.8953,Solar
+Germany,Perach,19.4,47.9536,12.7499,Hydro
+Germany,Perleberg Solar Power Plant,35,53.0734,11.8234,Solar
+Germany,Pfeffenhausen Solar Power Plant,5.6,48.6619,11.9387,Solar
+Germany,Pferdsfeld Solar Power Plant,28.5,49.8594,7.5919,Solar
+Germany,Pforzheim power station,26.9,48.8973,8.7245,Coal
+Germany,Pfrombach,22.3,48.4413,11.9923,Hydro
+Germany,Pielweichs,12.6,49.7943,10.1813,Hydro
+Germany,Plattling Solar Power Plant,1.6,48.7644,12.8953,Solar
+Germany,Plessa Solar Power Plant,3.1,51.4698,13.602,Solar
+Germany,Pocking 1 Solar Power Plant,10,48.3711,13.3016,Solar
+Germany,Pocking 2 Solar Power Plant,12,48.3696,13.2931,Solar
+Germany,Polch Solar Power Plant,12.5,50.3156,7.3151,Solar
+Germany,Preist Solar Power Plant,2.6,49.911,6.6424,Solar
+Germany,Prem,19.2,47.6927,10.7976,Hydro
+Germany,Prittriching,12.1,48.2106,10.9049,Hydro
+Germany,Puchheim Solar Power Plant,1.1,48.1756,11.3434,Solar
+Germany,Pumpspeicherkraftwerk Glems,90,48.505,9.2869,Hydro
+Germany,Pumpspeicherwerk RÃ¶nkhausen,138,51.2248,7.9928,Hydro
+Germany,Pï¿½lling Solar Power Plant,2.6,49.2849,11.4219,Solar
+Germany,Pï¿½ssensheim Solar Power Plant,5.5,49.881,10.1332,Solar
+Germany,Pï¿½tnitz Solar Power Plant,18.8,54.2666,12.457,Solar
+Germany,Pï¿½ttlingen Solar Power Plant,4.9,49.3234,6.8779,Solar
+Germany,RADAG,79.5,47.5863,8.1321,Hydro
+Germany,RAG Anthrazit IbbenbÃ¼ren GmbH,33.4,52.2859,7.7461,Gas
+Germany,REMONDIS Thermische Abfallverwertung GmbH,24,51.8661,11.5763,Waste
+Germany,RMVA KÃ¶ln,45.1,51.0003,6.9436,Waste
+Germany,RZR Herten II,29.6,51.5573,7.1641,Waste
+Germany,Rackwitz Solar Power Plant,4.2,51.4292,12.3676,Solar
+Germany,Raffineriekraftwerk,92.5,51.2998,12.0193,Oil
+Germany,Raffineriekraftwerk KÃ¶ln Godorf,80,50.8548,6.9808,Oil
+Germany,Rain,10.9,48.6924,10.8978,Hydro
+Germany,Ramin Solar Power Plant,9,53.4304,14.2864,Solar
+Germany,Rapshagen Solar Power Plant,9.4,53.2171,12.2407,Solar
+Germany,Raï¿½nitz Solar Power Plant,7.1,51.3993,12.0801,Solar
+Germany,Reckahn Solar Power Plant,37.7,52.3449,12.5523,Solar
+Germany,Reno De Medici,19,51.3914,8.073,Coal
+Germany,Rentweinsdorf Solar Power Plant,13,50.0695,10.8322,Solar
+Germany,Repperndorf Solar Power Plant,8.3,49.7492,10.1044,Solar
+Germany,Restabfallbehandlungsanlage,11.2,50.6388,10.687,Waste
+Germany,RestmÃ¼ll-Heizkraftwerk Stuttgart-MÃ¼nster (Waste),19.5,48.8125,9.2189,Waste
+Germany,RestmÃ¼llheizkraftwerk BÃ¶blingen,9.5,48.6855,9.0495,Waste
+Germany,Reurieth Solar Power Plant,4.3,50.4633,10.6616,Solar
+Germany,Reuter Waste Facility,36,52.5321,13.2461,Waste
+Germany,Reuï¿½enkï¿½ge Solar Power Plant,2.7,54.5839,8.9157,Solar
+Germany,Rheinhafen-Dampfkraftwerk,1547,49.0134,8.3065,Coal
+Germany,Rheinhafen-Dampfkraftwerk,353,49.013,8.304,Gas
+Germany,Rheinkraftwerk Iffezheim,146,48.8314,8.1122,Hydro
+Germany,Rheinkraftwerk Reckingen,19,47.5714,8.3383,Hydro
+Germany,Rheinkraftwerk Ryburg-SchwÃ¶rstadt,30,47.5854,7.8327,Hydro
+Germany,Rheinkraftwerk SÃ¤ckingen,36.8,47.5585,7.9557,Hydro
+Germany,Ribnitz Solar Power Plant,2.6,54.2505,12.5055,Solar
+Germany,Richelbach Solar Power Plant,14.3,49.6838,9.3871,Solar
+Germany,Rickelshausen Solar Power Plant,6,47.7438,8.9224,Solar
+Germany,Riedstadt-Leeheim Solar Power Plant,1.9,49.8612,8.4595,Solar
+Germany,Riethnordhausen Solar Power Plant,7.3,51.4195,11.2458,Solar
+Germany,Rietschen Solar Power Plant,2.2,51.3929,14.791,Solar
+Germany,Rockenhausen Solar Power Plant,1.8,49.6411,7.8412,Solar
+Germany,Rodenï¿½s Solar Power Plant,2.6,54.8925,8.6641,Solar
+Germany,Rohr Solar Power Plant,4.7,50.5708,10.4902,Solar
+Germany,Rohrbuckel Solar Power Plant,1.1,49.3169,8.9867,Solar
+Germany,Roitzsch - Capital Stage Solar Power Plant,12.7,51.5811,12.2448,Solar
+Germany,Roitzsch - Enerparc Solar Power Plant,10,51.5697,12.2724,Solar
+Germany,Ronneburg - Juwi Solar Power Plant,19.9,50.8398,12.1799,Solar
+Germany,Rosenheim,35.1,47.8383,12.1533,Hydro
+Germany,Rostock Solar Power Plant,6.2,54.1731,12.0186,Solar
+Germany,Rostock power station,514,54.1428,12.1329,Coal
+Germany,Rote Jahne Solar Power Plant,13.2,51.5079,12.6807,Solar
+Germany,Rothenburg Solar Power Plant,37,51.362,14.9512,Solar
+Germany,Rothenschirmbach Solar Power Plant,1.2,51.4493,11.5534,Solar
+Germany,RoÃŸhaupten,45.5,47.6515,10.7355,Hydro
+Germany,Roï¿½la Solar Power Plant,6,51.4646,11.0559,Solar
+Germany,Rudolf-Fettweis-Werk 2,65,48.6732,8.3557,Hydro
+Germany,Ruhland Solar Power Plant,2.2,51.4552,13.8874,Solar
+Germany,Rï¿½dersdorf Solar Power Plant,7.5,52.5004,13.7733,Solar
+Germany,Rï¿½dgen Solar Power Plant,7,51.639,12.1944,Solar
+Germany,SCA Mannheim,59.2,49.5349,8.4636,Biomass
+Germany,SITA Abfallverwertung GmbH,25.4,51.1816,12.0197,Waste
+Germany,SKW Diesel,10.5,47.6835,10.3191,Oil
+Germany,SKW Natural Gasturbine,24,47.6835,10.3191,Oil
+Germany,STW,13.5,50.8741,13.3944,Gas
+Germany,SWM Wind Havelland GmbH & Co. KG,171,52.3869,12.5636,Wind
+Germany,Saalhaupt Solar Power Plant,2.6,48.8814,12.0587,Solar
+Germany,Sachsenham Solar Power Plant,1.2,48.5237,13.1431,Solar
+Germany,Saerbeck Solar Power Plant,5.7,52.2039,7.6185,Solar
+Germany,Salching Solar Power Plant,1.3,48.8137,12.5671,Solar
+Germany,Salmdorf Solar Power Plant,1,48.1315,11.7225,Solar
+Germany,Sangerhausen Solar Power Plant,1,51.4781,11.3229,Solar
+Germany,Sankt Wendel Solar Power Plant,3.3,49.4819,7.1247,Solar
+Germany,Schelklingen Solar Power Plant,4.9,48.3888,9.6414,Solar
+Germany,Scheuring,12.2,48.1802,10.8833,Hydro
+Germany,Schierling Solar Power Plant,2.4,48.8329,12.1775,Solar
+Germany,Schipkau Solar Power Plant,2.2,51.5103,13.8879,Solar
+Germany,Schkopau power station,900,51.3985,11.9504,Coal
+Germany,Schleiz Solar Power Plant,11.2,50.5497,11.7909,Solar
+Germany,Schmidtheim Solar Power Plant,3.1,50.4125,6.5483,Solar
+Germany,Schneebergerhof Solar Power Plant,1.1,49.6779,7.8911,Solar
+Germany,Scholven power station,690,51.6024,7.0099,Coal
+Germany,Schwabstadl,12,48.1484,10.867,Hydro
+Germany,Schwabstadl Solar Power Plant,10,48.1501,10.8514,Solar
+Germany,Schwammenauel,14,50.6285,6.4791,Hydro
+Germany,Schwarze Pumpe power station,1500,51.5348,14.3531,Coal
+Germany,Schwarzheide Solar Power Plant,12.73116,51.4937,13.8424,Solar
+Germany,Schwege Solar Power Plant,8.2,52.0627,7.9332,Solar
+Germany,Schweizer Berg Solar Power Plant,3.8,49.2175,6.8196,Solar
+Germany,SchÃ¤rding-Neuhaus,48,48.4356,13.4415,Hydro
+Germany,Schï¿½newalde Solar Power Plant,3.7,51.8214,13.2322,Solar
+Germany,Seitendorf Solar Power Plant,1.8,49.316,10.8513,Solar
+Germany,Senftenberg Solar Power Plant,18,51.5593,13.9878,Solar
+Germany,Sengkofen Solar Power Plant,2,48.9171,12.2929,Solar
+Germany,Serrig,12.1,49.567,6.5923,Hydro
+Germany,Sietzsch Solar Power Plant,10,51.4896,12.1908,Solar
+Germany,Sigmundshall,19,52.4185,9.3681,Gas
+Germany,Sinzheim Solar Power Plant,1.4,48.7805,8.15,Solar
+Germany,Solar Schipkau II GmbH & Co. KG,81,51.5683,13.7377,Solar
+Germany,Solarpark Amsdorf,28.344,51.4582,11.735,Solar
+Germany,Solarpark Baasdorf,12.70439,52.7213,13.4108,Solar
+Germany,Solarpark Baumgarten,11.30404,53.8184,11.8518,Solar
+Germany,Solarpark Burg,20.0044,51.7743,14.1116,Solar
+Germany,Solarpark Calau,10.0515,51.7519,13.9579,Solar
+Germany,Solarpark Elmenhorst,25,53.5403,10.5034,Solar
+Germany,Solarpark Finsterwalde,20.3862,51.7305,13.687,Solar
+Germany,Solarpark Marienflieï¿½,25.55914,53.3366,12.2014,Solar
+Germany,Solarpark Neiï¿½e-Malxetal,22.12467,51.6609,14.6296,Solar
+Germany,Solarpark Stedten,28.34412,51.4333,11.7383,Solar
+Germany,Solarpark Turnow,34.8,51.9321,14.4073,Solar
+Germany,Solarpark Wittstock,68,53.2018,12.5187,Solar
+Germany,Solms Solar Power Plant,2.9,50.5342,8.4139,Solar
+Germany,Sontra Solar Power Plant,1.1,51.0538,9.923,Solar
+Germany,Spangdahlem Solar Power Plant,2.1,49.9831,6.6885,Solar
+Germany,Spitzenlastanlage Barmen,60,51.2689,7.2003,Oil
+Germany,Spitzenlastkraftwerk GroÃŸkayna,120,51.2919,11.9465,Oil
+Germany,Spitzenlastkraftwerk Sermuth,17,51.1614,12.7815,Oil
+Germany,Spitzenlastkraftwerk Wolfen,40,51.6431,12.2289,Gas
+Germany,Sprotta Solar Power Plant,2.6,51.4726,12.7008,Solar
+Germany,Staig Solar Power Plant,4.5,48.3092,9.9753,Solar
+Germany,Stammham,23.2,48.2493,12.8647,Hydro
+Germany,Staudinger power station,1132,50.0886,8.9534,Coal
+Germany,Staï¿½furt 1 Solar Power Plant,5,51.864,11.6055,Solar
+Germany,Staï¿½furt 2 Solar Power Plant,2.5,51.8684,11.5811,Solar
+Germany,Stefanskirchen Solar Power Plant,1.2,48.271,12.3414,Solar
+Germany,Steinbeis Energie,17,53.7818,9.4258,Waste
+Germany,Steinitz,11.4,52.83,11.1033,Gas
+Germany,Stockstadt am Main Solar Power Plant,2.5,49.9932,9.0579,Solar
+Germany,Stora Enso Maxau,78,49.0393,8.3113,Biomass
+Germany,Straubing,21.5,48.8966,12.5575,Hydro
+Germany,Straï¿½kirchen Solar Power Plant,54,48.8074,12.7586,Solar
+Germany,Stutensee Solar Power Plant,1.2,49.0761,8.4578,Solar
+Germany,Stuttgart-Muenster,159.9,48.8158,9.2211,Coal
+Germany,Suxdorf Solar Power Plant,2.5,54.1688,10.918,Solar
+Germany,SÃ¤ckingen,360,47.5654,7.954,Hydro
+Germany,SÃ¼d DT1,79.7,48.1351,11.582,Gas
+Germany,SÃ¼d DT60,127.6,48.1351,11.582,Gas
+Germany,SÃ¼d GT 61,444.6,48.1351,11.582,Gas
+Germany,TREA Breisgau,13.6,47.8906,7.6161,Waste
+Germany,TREA Leuna,32.6,51.2998,12.0193,Waste
+Germany,TRV Buschhaus,37.5,52.1714,10.9764,Waste
+Germany,Tannheim,12.3,48.008,10.1185,Hydro
+Germany,Tapfheim Solar Power Plant,1.3,48.6896,10.6935,Solar
+Germany,Taucha Solar Power Plant,5.3,51.3876,12.507,Solar
+Germany,Templin Solar Power Plant,128.4,53.0295,13.5425,Solar
+Germany,Teufelsbruck,25,48.0574,12.2209,Hydro
+Germany,Teutschenthal Solar Power Plant,7.1,51.4734,11.7896,Solar
+Germany,Thermische Abfallbehandlung LautaÂ GmbH & Co.Â oHG,15.7,51.4507,14.1121,Waste
+Germany,Thierhaupten Solar Power Plant,5,48.5478,10.8974,Solar
+Germany,Thundorf Solar Power Plant,2.1,50.1981,10.3032,Solar
+Germany,Thyrow,296,52.2302,13.3019,Gas
+Germany,Tiefstack power station,194,53.5262,10.0632,Coal
+Germany,Torgau Solar Power Plant,8.9,51.5732,12.9833,Solar
+Germany,Treia Solar Power Plant,2.4,54.5022,9.2906,Solar
+Germany,Trianel Kohlekraftwerk LÃ¼nen,746,51.6124,7.4653,Coal
+Germany,Trianel Natural Gaskraftwerk,838,51.6739,7.9291,Gas
+Germany,Trianel Windpark Borkum,200,54.0416,6.4667,Wind
+Germany,Trier,18.8,49.728,6.6245,Hydro
+Germany,Troisdorf Oberlar Solar Power Plant,3.5,50.8067,7.1403,Solar
+Germany,Turbosatz 1,22.7,49.793,9.9941,Waste
+Germany,Tutow Solarpark 1 FF,6.8,53.9226,13.2531,Solar
+Germany,Tutow Solarpark 2 FF Infrastruktur,25.5,53.9214,13.2192,Solar
+Germany,Tutow Solarpark 5,19.3,53.915,13.2272,Solar
+Germany,TÃ¶ging,85.3,48.2518,12.5873,Hydro
+Germany,Tï¿½pchin - Enerparc Solar Power Plant,4.2,52.1667,13.5649,Solar
+Germany,UPM Augsburg,29,48.3801,10.9014,Gas
+Germany,UPM Schongau,10.5,47.8032,10.9043,Hydro
+Germany,UPM Schwedt,13.3,53.0867,14.3194,Biomass
+Germany,UTB,16,52.0778,13.5173,Biomass
+Germany,UW Bertikow,340,53.2641,14.048,Wind
+Germany,Ulm-Eggingen Solar Power Plant,6.5,48.355,9.8689,Solar
+Germany,Unterbergen,12.4,48.2374,10.9272,Hydro
+Germany,Unterbreizbach,33.6,50.8132,9.9775,Gas
+Germany,Unterliezheim Solar Power Plant,1.5,48.6801,10.5418,Solar
+Germany,Unteropfingen,14.2,48.0613,10.1284,Hydro
+Germany,Untersteinach Solar Power Plant,10,50.1422,11.5303,Solar
+Germany,Uphusum Solar Power Plant,3.8,54.852,8.8939,Solar
+Germany,Uppenborn 1,25,48.4735,11.9548,Hydro
+Germany,Uppenborn 2,18,48.5152,12.101,Hydro
+Germany,Urspring,10.1,47.716,10.8258,Hydro
+Germany,Viernau Solar Power Plant,1.6,50.659,10.5631,Solar
+Germany,Vilseck Solar Power Plant,10,49.6282,11.7526,Solar
+Germany,Vilshofen an der Donau Solar Power Plant,2,48.5979,13.1785,Solar
+Germany,Viï¿½l Solar Power Plant,4,54.5567,9.1691,Solar
+Germany,Vockerode Solar Power Plant,9.6,51.8499,12.3392,Solar
+Germany,Vogtsburg Solar Power Plant,7.8,48.073,7.6065,Solar
+Germany,Vohburg,23.3,48.7781,11.6012,Hydro
+Germany,Voigstedt Solar Power Plant,3.7,51.4013,11.3351,Solar
+Germany,WKW,24,47.5985,8.171,Hydro
+Germany,Wachtberg power station,118,50.8976,6.7931,Coal
+Germany,Waehlitz power station,31,51.1666,12.0762,Coal
+Germany,Walbeck Solar Power Plant,2.5,51.6556,11.4809,Solar
+Germany,Walchensee,124,47.6314,11.3371,Hydro
+Germany,Waldalgesheim Solar Power Plant,2.5,49.9474,7.8113,Solar
+Germany,Waldbrunn Solar Power Plant,4.6,50.5174,8.1065,Solar
+Germany,Waldeck 2,480,51.1671,9.0468,Hydro
+Germany,Waldeck1/Bringhausen,143,51.1671,9.0468,Hydro
+Germany,Waldpolenz Solar Power Plant,45,51.3289,12.6554,Solar
+Germany,Waldrehna Solar Power Plant,52.7,51.7733,13.601,Solar
+Germany,Walheim power station,267,49.0177,9.1577,Coal
+Germany,Wallhausen Solar Power Plant,5.4,51.4582,11.2152,Solar
+Germany,Wange Solar Power Plant,5.2,54.8445,8.6666,Solar
+Germany,Wasserburg,24.1,48.057,12.2207,Hydro
+Germany,Waste Incinerator #1,11.6,51.0167,6.9833,Waste
+Germany,Wedel,101,53.5663,9.7285,Oil
+Germany,Wedel power station,260,53.567,9.7244,Coal
+Germany,Weeze Solar Power Plant,14,51.6055,6.1529,Solar
+Germany,Wehr,910,47.6453,7.9182,Hydro
+Germany,Weiher,655.6,49.3341,7.0314,Coal
+Germany,Weil Solar Power Plant,1.4,48.3797,11.2861,Solar
+Germany,Weimar - Hydrema Solar Power Plant,1,50.994,11.3403,Solar
+Germany,Weisweiler power station,1800,50.8392,6.3211,Coal
+Germany,Welzow II Flughafen,18.6,51.5891,14.1413,Solar
+Germany,Wendefurth,79.7,51.7422,10.9188,Hydro
+Germany,Werdau Solar Power Plant,1.7,50.7144,12.3825,Solar
+Germany,Werkskraftwerk Sappi Alfeld 1,16.8,51.9848,9.8228,Biomass
+Germany,Werkskraftwerk Sappi Alfeld 2,20,51.9851,9.8225,Gas
+Germany,Werkskraftwerk Sappi Ehingen,21.2,48.267,9.7262,Biomass
+Germany,Werneuchen - Enerparc Solar Power Plant,18.8,52.634,13.7603,Solar
+Germany,Werneuchen - S&Z Solar Power Plant,2.2,52.6423,13.7523,Solar
+Germany,Weserkraftwerk Bremen,9.9,53.0611,8.8649,Hydro
+Germany,Westerwiehe 1 Solar Power Plant,2,51.8119,8.5154,Solar
+Germany,Westerwiehe 2 Solar Power Plant,1,51.8178,8.5236,Solar
+Germany,Westfalen,1049,51.6805,7.9696,Coal
+Germany,Westheim Solar Power Plant,2.9,49.2283,8.3208,Solar
+Germany,Wetschhauser Hof Solar Power Plant,4.1,49.4275,7.2159,Solar
+Germany,Wi-Biebrich,31.7,50.0405,8.2532,Biomass
+Germany,Wiesenena Solar Power Plant,5.2,51.4507,12.1909,Solar
+Germany,Wilhelmshaven (Oil),56,53.5658,8.1462,Oil
+Germany,Wilhelmshaven power station,757,53.5658,8.1462,Coal
+Germany,Wilmersdorf,828,52.4816,13.3076,Oil
+Germany,Windpark Arneburg 2,31.5,52.7002,11.9387,Wind
+Germany,Windpark Arneburg 2,117,52.7002,11.9387,Wind
+Germany,Windpark Dahme,76.5,51.8686,13.5491,Wind
+Germany,Windpark Druxberge,116.7,52.1651,11.2742,Wind
+Germany,Windpark Fehmarn,143,54.4856,11.1097,Wind
+Germany,Windpark Hakenstedt,82.7,52.1663,11.2847,Wind
+Germany,Windpark HÃ¼selitz,92.4,52.5174,11.7882,Wind
+Germany,Windpark Klettwitz,89.1,51.5452,13.8652,Wind
+Germany,Windpark ReuÃŸenkÃ¶ge,189.312,54.6409,9.0139,Wind
+Germany,Windpark Riffgat,113.4,53.692,6.475,Wind
+Germany,Windparks Biere und Borne,94.5,51.9605,11.6207,Wind
+Germany,Wintershall,109.5,50.894,9.9972,Gas
+Germany,Wintrich,20,49.8798,6.9488,Hydro
+Germany,Wismar Solar Power Plant,8.6,53.8985,11.4851,Solar
+Germany,Wisselsing Solar Power Plant,6.2,48.6965,12.9739,Solar
+Germany,Wittenberge Solar Power Plant,3.9,53.0172,11.758,Solar
+Germany,Witznau,220,47.6879,8.2516,Hydro
+Germany,Woldegk Solar Power Plant,9,53.4596,13.5638,Solar
+Germany,Wulfen Solar Power Plant,2.7,51.8221,11.9222,Solar
+Germany,Wuppertal-Elberfeld power station,85,51.2484,7.1187,Coal
+Germany,Wustermark Solar Power Plant,3,52.5614,12.9516,Solar
+Germany,Wï¿½lfersheim Solar Power Plant,5.3,50.3953,8.8275,Solar
+Germany,Wï¿½nsdorf Solar Power Plant,7.8,52.1844,13.476,Solar
+Germany,Wï¿½rrstadt Solar Power Plant,5.6,49.8289,8.1322,Solar
+Germany,X-Kraftwerk,27,51.0144,6.9873,Gas
+Germany,ZWSF,2.5,52.535,12.3626,Waste
+Germany,Zachow Solar Power Plant,5.5,53.3646,11.8763,Solar
+Germany,Zahna Solar Power Plant,3.3,51.9172,12.7656,Solar
+Germany,Zellstoff Stendal GmbH,138.9,52.7271,12.0112,Biomass
+Germany,Zeltingen,13.6,49.9511,7.0232,Hydro
+Germany,Zerbst Solar Power Plant,12,51.9955,12.1298,Solar
+Germany,Zielitz,52,52.2985,11.6796,Gas
+Germany,Zolling power station,528,48.4554,11.7995,Biomass
+Germany,Zweimen Solar Power Plant,4,51.352,12.1334,Solar
+Germany,Zwochau Solar Power Plant,3.8,51.4611,12.2528,Solar
