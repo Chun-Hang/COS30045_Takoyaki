@@ -1,4 +1,4 @@
-﻿Country,Code,Year,Renewables (% electricity),Hydro (% electricity),Solar (% electricity),Wind (% electricity),Others (% electricity)
+﻿Country,Code,Year,Renewables,Hydro,Solar,Wind,Others
 China,CHN,1985,22.496,22.496,0,0,0
 China,CHN,1986,21.033,21.033,0,0,0
 China,CHN,1987,20.115,20.115,0,0,0

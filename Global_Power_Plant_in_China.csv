@@ -1,4 +1,4 @@
-﻿Country,Powerplant Name,Capacity (MW),Latitude,Longitude,Primary Fuel
+﻿Country,Powerplant_Name,Capacity,Latitude,Longitude,Primary_Fuel
 China,APP Zhenjiang Jindong Mill power station,290,32.1944,119.6998,Coal
 China,Aba Minjiang River Jiangseba,128,31.4837,103.6032,Hydro
 China,Abag Banner Huiteng Liang Phase 1,49,43.35,115.9,Wind

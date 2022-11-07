@@ -1,4 +1,4 @@
-﻿Country,Powerplant Name,Capacity (MW),Latitude,Longitude,Primary Fuel
+﻿Country,Powerplant_Name,Capacity,Latitude,Longitude,Primary_Fuel
 Germany,ADS-Anlage,96.5,50.0918,8.5311,Gas
 Germany,AHKW Neunkirchen,11.6,49.3386,7.17,Waste
 Germany,AMK - Abfallentsorgungsgesellschaft des MÃ¤rkischen Kreises mbH,12.6,51.3971,7.6967,Waste

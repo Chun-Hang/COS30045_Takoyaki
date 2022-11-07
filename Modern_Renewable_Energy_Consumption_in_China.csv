@@ -1,4 +1,4 @@
-﻿Country,Code,Year,Wind Generation - TWh,Solar Generation - TWh,Geo Biomass Other - TWh,Hydro Generation - TWh
+﻿Country,Code,Year,Wind,Solar,Others,Hydro
 China,CHN,1965,0,0,0,22.097
 China,CHN,1966,0,0,0,22.4859072
 China,CHN,1967,0,0,0,19.3834884

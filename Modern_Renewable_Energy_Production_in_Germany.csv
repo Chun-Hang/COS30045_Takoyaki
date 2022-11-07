@@ -1,4 +1,4 @@
-﻿Entity,Code,Year,Electricity from wind (TWh),Electricity from hydro (TWh),Electricity from solar (TWh),Electricity from other renewables including bioenergy (TWh)
+﻿Entity,Code,Year,Wind,Hydro,Solar,Others
 Germany,DEU,1965,0,16.212,0,0
 Germany,DEU,1966,0,17.534,0,0
 Germany,DEU,1967,0,16.652,0,0

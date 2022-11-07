@@ -1,4 +1,4 @@
-﻿Entity,Code,Year,Wind Generation - TWh,Solar Generation - TWh,Geo Biomass Other - TWh,Hydro Generation - TWh
+﻿Entity,Code,Year,Wind,Solar,Others,Hydro
 Germany,DEU,1965,0,0,0,16.2122092
 Germany,DEU,1966,0,0,0,17.5339978
 Germany,DEU,1967,0,0,0,16.6523118
