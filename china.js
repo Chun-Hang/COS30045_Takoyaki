@@ -1,11 +1,11 @@
 function china(){
-	var w =600;
-	var h =400;
+	var w =800;
+	var h =600;
 
 	var projection = d3.geoMercator()
 	.center([100,40])
 	.translate([w/2,h/2])
-	.scale(500);
+	.scale(660);
 
 var path = d3.geoPath()
 .projection(projection);
@@ -85,5 +85,4 @@ svg.selectAll("path")
 						})
 					})
 				})
-	
 }
