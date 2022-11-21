@@ -10,21 +10,27 @@
 	<title>Takoyaki </title>
 	<!--Insert description of exercise  -->
 
-    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <script src="https://d3js.org/d3.v7.js"></script>
     <script src="project.js"></script>
+	<script src="china.js"></script>
+	<script src="germany.js"></script>
+	<script src="line.js"></script>
+	<script src="barChina.js"></script>
+	<script src="barGermany.js"></script>
+	
 
 </head>
 <body >
 	<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
 		<div class="container-fluid">
-		  <a class="navbar-brand" href="#">TAKOYAKI</a>
+		  <a class="navbar-brand" href="http://localhost/takoyaki/project.html">TAKOYAKI</a>
 		  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
 			<span class="navbar-toggler-icon"></span>
 		  </button>
 		  <div class="collapse navbar-collapse" id="collapsibleNavbar">
 			<ul class="navbar-nav">
-				<li class="nav-item dropdown">
-				
+
 			</ul>
 		  </div>
 		</div>
@@ -34,10 +40,36 @@
 
       <br>
 	  <div class="row">
-		<div class="col"><p id ="map1">Germany map</p></div>
-		<div class="col"><p id ="map2">China map</p></div>
+		<div class="col"></div>
+		<div class="col"><p id ="map1"></p></div>
+		<div class="col"></div>
+		<div class="col"><p id ="map2"></p></div>
+		<div class="col"></div>
 	  </div>
-	  <div><p id ="chartLine">Line Chart</p></div>
+	  <div class="row">
+		<div class="col"></div>
+		<div class="col"><p >Germany map</p></div>
+		<div class="col"></div>
+		<div class="col"><p >China map</p></div>
+		<div class="col"></div>
+	  </div>
+	  <div class="row">
+		<div class="col"></div>
+		<div class="col"><p >China Renewable Energy Production: </p></div>
+		<div class="col"><select id="selectButton1"></select></div>
+		<div class="col"><p >Germany Renewable Energy Production: </p></div>
+		<div class="col"><select id="selectButton2"></select></div>
+		<div class="col"></div>
+		</div>
+		<div class="row">
+			<div class="col"></div>
+			<div class="col"><p id ="chartLine"></p></div>
+			<div class="col"></div>
+	    </div>
+		<div class="row">
+		<div class="col"><button onclick="window.location.href='http://localhost/takoyaki/bar1.html';">China</button></div>
+		<div class="col"><button onclick="window.location.href='http://localhost/takoyaki/bar2.html';">Germany</button></div>
+		</div>
 	  <div class="row">
 		<div class="col"><p id ="pie1">Germany Pie Chart</p></div>
 		<div class="col"><p id ="pie2">China Pie Chart</p></div>
