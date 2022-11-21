@@ -1,39 +1,23 @@
 ﻿Country,Powerplant_Name,Capacity,Latitude,Longitude,Primary_Fuel
-China,APP Zhenjiang Jindong Mill power station,290,32.1944,119.6998,Coal
 China,Aba Minjiang River Jiangseba,128,31.4837,103.6032,Hydro
 China,Abag Banner Huiteng Liang Phase 1,49,43.35,115.9,Wind
 China,Ahai,4750,27.3488,100.5061,Hydro
-China,Aksu Cogen power station,700,41.1542,80.3997,Coal
-China,Aksu Xuzhou power station,400,41.0791,80.1685,Coal
 China,Alashan,9,34.5434,102.6284,Hydro
-China,Alashan Left Qi Wusitai power station,600,39.4463,106.6676,Coal
 China,Alashanzuoqi Bayanha,20,39.14,105.95,Solar
-China,Anda Cogen power station,100,46.3996,125.2982,Coal
 China,Angu,772,29.52,103.64,Hydro
 China,Anguoer,25,35.2327,103.5145,Hydro
-China,Anhui Bengbu power station,2520,32.7845,117.115,Coal
-China,Anhui Huaibei Qinan Coal Mine Methane,3,33.42,117,Gas
-China,Anhui Hwasu power station,600,32.5856,117.2532,Coal
 China,Anhui Laian Baoshan Wind,49,32.6739,118.4318,Wind
 China,Anhui Laian Longtougang Wind,49,32.601,118.535,Wind
 China,Anhui Laian Longwosi Wind,49,32.67,118.45,Wind
-China,Anhui Xuancheng power station,1320,30.8695,118.8648,Coal
 China,Anjiang,140,27.2869,110.0994,Hydro
 China,Ankang,800,32.6,108.88,Hydro
 China,Anning River Canyon (Phase 1) Dechang County,16,27.128,102.977,Wind
 China,Anning River Wanao Xichang City,33,27.5667,102.1922,Hydro
 China,Anningdu Hydro,20,32.1131,109.5711,Hydro
-China,Anqing City Landfill,24,30.5244,116.5239,Gas
 China,Ansai Wangjiawan,49,37.2436,109.0554,Wind
 China,Ansha Dam,115,26.0279,117.1125,Hydro
-China,Anshan Steel Company No 2 power station,345,41.133,122.9649,Coal
 China,Antu 303,6,42.5611,128.2203,Hydro
 China,Antu Gudonghe I Hydro,3,42.7547,128.1975,Hydro
-China,Anwen Songzao power station,1620,28.6411,106.7531,Coal
-China,Anyang Tanggou Landfill,3,36.0328,114.2806,Gas
-China,Aoweiqianyuan Captive power station,100,39.2507,111.143,Coal
-China,Aral Xinhu Cogen power station,800,40.5897,81.1955,Coal
-China,Baguanhe Washery power station,270,26.5957,101.6119,Coal
 China,Baibuluo,111.75,41.16,114.37,Wind
 China,Baiguoshu,6,28.4625,108.5092,Hydro
 China,Baihetan Dam,13050,28.2606,103.6484,Hydro
@@ -43,123 +27,54 @@ China,Bailianhe,300,30.59,115.45,Hydro
 China,Bailongtan,192,23.86,108.13,Hydro
 China,Baimianxia Shaanxi,4,33.0527,107.9625,Hydro
 China,Baise,540,23.927,106.4557,Hydro
-China,Baise Coal,1320,23.7882,106.8155,Coal
-China,Baise Smelter power station,700,23.7857,106.8202,Coal
-China,Baise Tianyang power station,300,23.7883,106.815,Coal
 China,Baishan,1500,42.73,127.22,Hydro
-China,Baishan - Hunjiang 2 Coal,600,41.97,126.473,Coal
 China,Baishi,30,40.9583,121.1056,Wind
 China,Baishi (Guizhou) Dam,420,26.9558,109.4709,Hydro
 China,Baishi (Liaoning) Dam,9.6,41.6794,121.0039,Hydro
 China,Baishui River Shiji,32,33.0178,113.4861,Hydro
-China,Baitao cogen power station,100,29.5856,107.5165,Coal
 China,Baiyang Songpan Sichuan,30,32.1847,104.1042,Hydro
-China,Baiyanghe power station,890,36.4719,117.8427,Coal
 China,Baiyun Ebo Inner Mongolia Luneng Phase 2,49,41.6778,109.9572,Wind
 China,Baiyunebo,45,41.7061,109.9742,Wind
 China,Banduo,360,35.31,100.27,Hydro
 China,Banmei,52.8,23.02,116.55,Wind
 China,Banna Liusha River Fifth Level,8,22.1531,100.6931,Hydro
-China,Banshan Coal,250,30.3612,120.1435,Coal
-China,Banshan Gas,1170,30.36,120.14,Gas
-China,Baoding Landfill,1,38.859,115.5378,Gas
-China,Baoding Northwest Suberb power station,350,38.9618,115.3672,Coal
-China,Baoji Lingyuan Landfill,1,34.4253,107.1047,Gas
 China,Baoquan,1200,35.48,113.48,Hydro
 China,Baoshan Longling Gongyanghe 3rd Hydro,16,24.2076,98.7909,Hydro
 China,Baoshan Supahe Chaoyang,40,24.4244,98.7592,Hydro
-China,Baoshan Works power station,1050,31.4424,121.4361,Coal
-China,Baosteel Zhanjiang power station,700,21.0699,110.494,Coal
-China,Baotou Aluminum power station,1360,40.5572,110.1484,Coal
-China,Baotou Donghua power station,600,40.5781,110.0738,Coal
-China,Baotou East Hope power station,1320,40.5956,109.7828,Coal
-China,Baotou Hexi power station,1200,40.5694,109.79,Coal
-China,Baotou Olefins power station,600,40.6081,109.6368,Coal
-China,Baotou Works power station,200,40.6601,109.7585,Coal
 China,Baozhusi,700,32.52,105.61,Hydro
 China,Bapanxia,220,36.14,103.41,Hydro
-China,Baqiao power station,850,34.2851,109.0496,Coal
 China,Bashan Dam,140,32.1022,108.4624,Hydro
 China,Baxianyuan,27,33.3948,107.213,Hydro
-China,Bayanhua Jinshan power station,1200,44.9317,118.7082,Coal
 China,Bayannaoer Chuanjingsumu 3 Wind,49,41.95,108.27,Wind
 China,Bayannaoer Chuanjingsumu Wind,49,41.9783,118.285,Wind
 China,Bayannur Wulanyiligeng Wind Farm,300,42.03,108.38,Wind
 China,Bayanur Wuliji Wind Phase 2,49,41.5333,106.4167,Wind
 China,Bayinhanggai,43.5,41.83,108.34,Wind
 China,Bayinxile,44,41.11,112.48,Wind
-China,Beian power station,100,48.2328,126.5287,Coal
-China,Beihai Bebuwan power station,640,21.5821,109.581,Coal
-China,Beihai New Area Heating power station,900,38.0229,117.9726,Coal
-China,Beijing - Northeast Gas,1400,39.95,116.62,Gas
-China,Beijing - Northwest,2100,39.9417,116.1257,Gas
-China,Beijing - Shijingshan Coal,880,39.923,116.1375,Coal
-China,Beijing - Southeast Gas,700,39.89,116.27,Gas
-China,Beijing - Yizhuang Gas,150,39.78,116.5,Gas
 China,Beijing Energy Huitengxile Wind,49,41.2025,112.6783,Wind
 China,Beijing Guanting Wind Phase 2,85,40.3375,115.675,Wind
-China,Beijing No 3,400,39.81,116.14,Gas
-China,Beijing Taiyanggong Trigeneration,780,39.98,116.44,Gas
 China,Beijing Yanqing Low Windspeed Pilot,15,40.3761,115.8182,Wind
 China,Beiping Hydro Electric,25,31.9743,108.6971,Hydro
-China,Beitun Cogen power station,270,47.325,87.7678,Coal
 China,Beizhen Jiazishan Wind,49,41.6242,121.8569,Wind
 China,Beizhen Yangjiadian Wind,49,41.707,121.858,Wind
-China,Bejing Southwest,1538,39.94,116.13,Gas
-China,Bijie power station,300,27.2765,105.3479,Coal
 China,Bikou,300,32.76,105.22,Hydro
-China,Binhai Port Unit 1,2000,34.3071,120.2469,Coal
 China,Binxian Dadingshan,49,45.8361,126.9278,Wind
-China,Binzhou - Huji 1-4 Coal,1320,37.3495,117.7784,Coal
-China,Binzhou Heating Supply Center power station,780,37.3482,117.8909,Coal
-China,Black Point Power Station,2500,22.41,113.91,Gas
-China,Bohe Coal,2000,22.9657,112.1079,Coal
-China,Bole Cogen power station,300,44.8617,82.1179,Coal
-China,Bulian power station,1320,39.3012,109.9682,Coal
 China,CECEP Gansu Wuwei,20,38.11,102.27,Solar
 China,CECEP Qinghai Dachaidan,20,37.18,95.309,Solar
 China,CECIC Shizuishan Phase 1,10,39.34,106.74,Solar
 China,CECIC Taiyangshan Phase 1,10,37.5,106.55,Solar
-China,CEFR,20,39.74,116.03,Nuclear
 China,CGN Aletai Ginghe Phase I,20,46.3,90.038,Solar
 China,CGN Damao Bailingmiao,20,41.61,110.4,Solar
 China,CGN Dunhuang,10,40.07,94.518,Solar
 China,CGN Dunhuang Phase II,9,40.11,94.478,Solar
 China,CGN Jinta Hongliuwa,9,39.96,98.993,Solar
 China,CGN Kashi Yingjisha Phase I,20,38.95,75.796,Solar
-China,CHALCO Shandong Branch Power Station,138,36.7484,118.0694,Coal
-China,CKI Lamma power station,2500,22.2185,114.1082,Coal
-China,CNPC Fushun Petrochemical power station,280,41.8275,124.0455,Coal
-China,CPI Baicheng power station,1320,45.5261,122.7759,Coal
-China,CPI Changshu-1 power station,3320,31.7563,120.9731,Coal
-China,CPI Chifeng Daban power station,1200,43.5893,118.7119,Coal
-China,CPI Chifeng New City Region power station,600,42.2934,118.9133,Coal
-China,CPI Dabieshan power station,1200,31.1419,114.8922,Coal
-China,CPI Fenyi power station,540,27.7754,114.6173,Coal
-China,CPI Huolinhe power station,1200,45.4616,119.5386,Coal
-China,CPI Nanyang power station,420,33.0306,112.5108,Coal
-China,CPI Ningxia Zaoquan power station,1320,38.0462,106.6058,Coal
-China,CPI Pingwei power station,4540,32.6842,116.9021,Coal
-China,CPI Qinghe power station,1600,42.5299,124.1403,Coal
-China,CPI Shanxi Houma power station,700,35.5911,111.3757,Coal
-China,CPI Shentou power station,1320,39.5508,112.4887,Coal
-China,CPI Wusu power station,600,44.4364,84.7608,Coal
-China,CPI Xinchang power station,1400,28.8612,115.9764,Coal
-China,CPI Xining power station,1320,36.5847,101.4936,Coal
-China,CPI Zhongwei Cogen power station,700,37.623,105.235,Coal
-China,CR Changzhou power station,1260,31.9576,119.9921,Coal
-China,CR Liuzhi power station,1320,26.3883,105.395,Coal
 China,CTGNE Golmud phase II,20,36.38,95.265,Solar
 China,CTGNE Pishan Phase I,20,37.54,78.249,Solar
 China,CTGNE Shanshan Phase I,20,42.97,89.999,Solar
 China,Caishenliang Wind Inner Mongolia,49,40.795,112.725,Wind
-China,Cangzhou Bohai power station,700,38.3617,117.6248,Coal
-China,Cangzhou power station,660,38.3658,116.8168,Coal
 China,Caoduozi,44.5,41.2,112.68,Wind
-China,Caofeidian Works power station,600,38.9446,118.4927,Coal
 China,Caojie On Jiangling River Chongqing City,500,29.9036,106.3901,Hydro
-China,Caojing Gas,600,30.76,121.41,Gas
-China,Castle Peak power station,4108,22.376,113.9214,Coal
 China,Cecep Gansu Yumen Changma Daba South,48,40.0143,96.7164,Wind
 China,Cecep Urumqi Tuoli200Mw Phase 2 Wind,49,43.5056,87.7011,Wind
 China,Cecep Zhangbei Danjinghe Phase 2,49,41.2731,114.3392,Wind
@@ -191,31 +106,14 @@ China,Chaiwopu,82.8,43.59,87.798,Wind
 China,Chalinhe,54,28.8703,109.6681,Hydro
 China,Chalong Dam,10.8,31.453,92.3309,Hydro
 China,Changbai County Baoquan Smallscale Hydro,8,41.5575,127.6378,Hydro
-China,Changchun City Landfill Gas,3,43.862,125.477,Gas
-China,Changchun Southeast power station,700,43.651,125.5693,Coal
-China,Changchun-2 power station,1220,43.8835,125.3942,Coal
-China,Changchun-3 power station,600,43.7778,125.1429,Coal
-China,Changde Coal,1320,29.197,111.5607,Coal
-China,Changji Coal,250,43.9914,87.3125,Coal
-China,Changji Fukang power station,270,44.1419,88.017,Coal
-China,Changjiang,1220,19.46,108.9,Nuclear
 China,Changli Datan Wind,48,39.505,119.1797,Wind
 China,Changling Wind,9,44.1622,123.5919,Wind
 China,Changning Kawan Hydroelectric,18,25.316,99.133,Hydro
 China,Changniping,20,27.123,109.503,Hydro
 China,Changshatou,10,30.63,110.53,Hydro
-China,Changshu Landfill,12,31.5936,120.6592,Gas
-China,Changshu-2 power station,1950,31.7578,120.979,Coal
 China,Changtanhe,80,29.4683,111.0192,Hydro
-China,Changxing - Zheneng Gas,870,30.98,119.92,Gas
-China,Changxing Island Hengli Petrochemical power station,720,39.5742,121.2547,Coal
-China,Changzhi Tunliu power station,270,36.3653,112.8506,Coal
-China,Changzhi power station,660,36.1926,113.0116,Coal
 China,Changzhou,630,23.42,111.21,Hydro
-China,Changzhou Zhongtian Iron & Steel power station,230,31.7078,120.0878,Coal
-China,Chaoyang Yanshanhu power station,1200,41.5065,120.3194,Coal
 China,Chaoyang Yongsheng County,3,26.4478,101.025,Hydro
-China,Chaozhou Sanbaimen power station,3200,23.5655,117.0973,Coal
 China,Chayouhouqi Hongmu Phase 1,20,41.15,113.15,Solar
 China,Chayuan First Cascade Hydroelectric,15,28.6969,102.4475,Hydro
 China,Cheliwusu,49,41.7366,114.0023,Wind
@@ -223,10 +121,6 @@ China,Chenergy Fangzheng County Hutieling Wind,49,45.8392,129.385,Wind
 China,Chengbihe,30,23.95,106.64,Hydro
 China,Chengbu County Laozhai,16,25.9917,110.2656,Hydro
 China,Chengbu Miao Liuma Hydro,6,26.29,110.0231,Hydro
-China,Chengdu Jiujiang Municipal Solid Waste Incineration,36,30.083,102.9,Gas
-China,Chengdu Luodai,24,30.647,104.283,Gas
-China,Chengdu Xiangfu Municipal Solid Waste Incineration,36,30.822,104.233,Gas
-China,Chengfeng Cogen power station,150,36.4996,112.9666,Coal
 China,Chengkou County Huangan River Lijiaba Hydroelectric,12,31.8272,109.0761,Hydro
 China,Chengshan Sancun,48.75,36.96,122.07,Wind
 China,Chengzigou Plant,115,33.1144,104.9364,Hydro
@@ -234,58 +128,35 @@ China,Chicheng Dananshan,49,40.9333,115.5625,Wind
 China,Chifeng Ningcheng Dachengzi Wind,49,41.7242,118.665,Wind
 China,Chifeng Ongniud Banner Wufendi Wind,49,43.2069,118.4275,Wind
 China,Chifeng Songshanqu Sandaogou,49,42.5906,118.1705,Wind
-China,Chifeng Yuanbaoshan power station,1800,42.3033,119.325,Coal
-China,China Resources Caofeidian power station,600,38.9962,118.4877,Coal
-China,China Resources Dengkou power station,660,40.3838,107.004,Coal
-China,China Resources Gucheng power station,640,32.872,114.0436,Coal
 China,Chint Qinghai Golmud,20,36.39,95.193,Solar
-China,Chiping Haoji power station,1400,36.4865,116.3336,Coal
-China,Chiping Xinfa power station,620,36.6079,116.2456,Coal
 China,Chitan,400,26.71,117.12,Hydro
-China,Chizhou Jiuhua power station,600,30.7524,117.5909,Coal
 China,Chonghu'er,110,48.18,87.152,Hydro
-China,Chongming Gas,828,31.59,121.47,Gas
-China,Chongqing Baihe power station,600,31.2691,108.4561,Coal
 China,Chongqing Chengkou Baiguoping,10,32.1136,108.4286,Hydro
 China,Chongqing Chengkou County Jianjiawan,26,32.0149,108.6097,Hydro
-China,Chongqing Coal,600,29.4844,106.5395,Coal
 China,Chongqing Jinjiaba Hydroelectric,75,28.37,108.41,Hydro
-China,Chongqing Lee & Man Paper power station,150,29.0363,105.855,Coal
 China,Chongqing Liujiagou Hydro,20,31.4047,109.5194,Hydro
-China,Chongqing Longqiao power station,400,29.7079,107.304,Coal
 China,Chongqing Longshui Hydro,8,31.5375,108.8703,Hydro
-China,Chongqing Nine Dragons Cogen power station,180,29.2918,106.3968,Coal
-China,Chongqing Pingxiang Coal Mine Methane,3,28.6903,106.8542,Gas
 China,Chongqing Qijiang Zhutan,8,28.9239,106.6833,Hydro
-China,Chongqing Qineng power station,660,29.0043,106.5688,Coal
 China,Chongqing Shizhu County Yangdong River (Dukou),48,30.2686,110.6072,Hydro
-China,Chongqing Shizhu power station,700,30.3907,108.2201,Coal
-China,Chongqing Shuanghuai power station,1920,30.1621,106.5474,Coal
 China,Chongqing Wanzhou Xiangjiazui,12,30.7544,108.7092,Hydro
 China,Chongqing Wulong Quantang,6,29.4908,107.7335,Hydro
 China,Chongqing Wuxi Yushan Hydro,4,31.4383,109.8306,Hydro
 China,Chongqing Youyang County Youchou,120,28.967,109.148,Hydro
-China,Chuangyuan Smelter power station,990,45.4373,119.4275,Coal
 China,Chuanjiang,98.8,41.97,108.3,Wind
 China,Chuanjing Inner Mongolia Luneng Phase 2,49,41.9878,107.9239,Wind
 China,Chuanjingsumu 4 Wind,49,41.9589,108.2972,Wind
 China,Chuhe,276,32.93,109.7,Hydro
 China,Chunduole,24,28.0761,98.9019,Hydro
-China,Coloane A,271,22.14,113.58,Oil
-China,Coloane B,136.4,22.14,113.58,Gas
 China,Cwi Shangyi Shijing Phase 1,49,41.2456,114.2431,Wind
 China,Da Chao Shan,1350,24.0256,100.3698,Hydro
 China,Daan Haituo Phase 1,49,45.2737,123.7123,Wind
 China,Daan Haituo Phase 2,49,45.2172,123.718,Wind
 China,Daan Laifu Phase 2,49,45.6028,123.6178,Wind
 China,Daan Laifu Phase 3,49,45.6281,123.6558,Wind
-China,Daba power station,2520,37.9897,105.9258,Coal
 China,Dabancheng Wind Farm,500,43.6,87.854,Wind
-China,Dabu Coal,1200,24.5852,113.5831,Coal
 China,Dacaoba Mian Countychina,3,33.2464,106.7042,Hydro
 China,Daditaihong Wind Power Farm Phase 2,49,41.975,114.342,Wind
 China,Dadonggou,121.5,41.1,112.69,Wind
-China,Dafang power station,1200,27.1014,105.5658,Coal
 China,Dafutan,195,27.98,110.27,Hydro
 China,Dagangshan,2600,29.45,102.22,Hydro
 China,Daguangba,240,19.02,108.98,Hydro
@@ -295,39 +166,21 @@ China,Dahao Wind,20,23.2407,116.794,Wind
 China,Dahe Solar,50,41.0667,114.3833,Solar
 China,Dahua,600,23.85,108.13,Hydro
 China,Dahuashui,200,26.82,107.26,Hydro
-China,Daihai power station,2430,40.5204,112.6674,Coal
 China,Daimangou,50.5,44.75,130.9,Wind
 China,Dala River Estuary Plant Diebu County,52,33.972,103.512,Hydro
-China,Dalate power station,3180,40.367,109.997,Coal
 China,Dali (Maolin),91.86,43.41,116.26,Wind
-China,Dalian ETDC power station,700,39.0353,121.8157,Coal
-China,Dalian Ganjingzi power station,600,39.0262,121.5494,Coal
-China,Dalian Taishan power station,270,38.9081,121.5535,Coal
 China,Dalian Tuchengzi Wind,30,40.01,121.84,Wind
 China,Dalian Tuoshan Wafangdian,49,39.8067,121.6444,Wind
 China,Dalian Tuoshan Wind,49,39.8333,121.6083,Wind
 China,Dalinjiang,37,25.2908,111.6158,Hydro
-China,Dandong Jinshan power station,600,40.1055,124.3192,Coal
 China,Danghe Upstream 3rd Cascade,20,39.3828,95.2561,Hydro
-China,Dangtang Shendong power station,700,41.7566,123.6365,Coal
 China,Danjiangkou,900,32.56,111.49,Hydro
 China,Daode Wind,49,44.0102,114.2493,Wind
-China,Daqing Ethylene Plant power station,320,46.4449,125.2246,Coal
-China,Daqing Oil Central power station,900,46.5524,125.0734,Coal
-China,Daqing Oil Hongwei power station,200,46.5749,124.8213,Coal
 China,Dashantai Phase 2 Wind,49,39.6517,112.2689,Wind
-China,Datang 803 power station,600,40.2089,97.359,Coal
-China,Datang Anhui Huainan Tianjiaan power station,640,32.6691,117.0253,Coal
-China,Datang Anyang-2 power station,1240,36.1195,114.2758,Coal
 China,Datang Anzishan Wind,45,34.791,111.587,Wind
-China,Datang Baoding cogen power station,650,38.8753,115.4332,Coal
-China,Datang Baoji power station,660,34.3819,107.2942,Coal
 China,Datang Bazhou Bohu Phase I,20,41.74,86.893,Solar
-China,Datang Binchang power station,1260,35.1359,107.9315,Coal
-China,Datang Binzhou power station,700,37.4674,118.047,Coal
 China,Datang Changqing Phase 1 Wind,49,36.328,116.599,Wind
 China,Datang Changqing Phase 2 Wind,49,36.348,116.654,Wind
-China,Datang Changshan power station,660,45.317,124.4893,Coal
 China,Datang Changyi Phase 1,49,37.132,121.08,Wind
 China,Datang Chifeng Bolike Ii Wind,49,42.6333,118.0167,Wind
 China,Datang Chifeng Danianzi Wind,49,42.62,117.93,Wind
@@ -335,35 +188,19 @@ China,Datang Delingha,10,37.3445,97.1769,Solar
 China,Datang Dongping Wind,49,37.028,116.22,Wind
 China,Datang Duolun Daxishan Farm Ii,30,42.258,116.3391,Wind
 China,Datang Duolun Daxishan Phase 3,49,42.2742,116.3378,Wind
-China,Datang Fuzhou power station,2000,27.7855,116.5638,Coal
-China,Datang Gangu power station,660,34.7557,105.1008,Coal
 China,Datang Guangyuan Fangdiping,30,32.535,105.7703,Wind
 China,Datang Haiyang Xujiadian Phase 1,49,37.1208,121.0525,Wind
 China,Datang Hami,20,43.01,93.602,Solar
-China,Datang Harbin power station,600,45.7117,126.4655,Coal
-China,Datang Heshan power station,1330,23.8218,108.8669,Coal
-China,Datang Hunchun power station,660,42.8953,130.2891,Coal
-China,Datang Hutubi power station,600,44.1508,86.8229,Coal
 China,Datang Jia County Yunyang,34,33.8772,113.3644,Wind
 China,Datang Jiaonan Liuwang Phase 1,49,35.9367,119.735,Wind
 China,Datang Jiaonan Liuwang Phase 2 Wind,49,35.9612,119.8183,Wind
 China,Datang Jilin Datong,49,45.413,122.417,Wind
 China,Datang Jilin Shuangliao,49,43.5218,123.2,Wind
-China,Datang Jingtai power station,1320,37.2316,104.1681,Coal
 China,Datang Jixian Taiping Wind,49,46.875,130.75,Wind
 China,Datang Kazuo Shuangmiao,49,41.1065,119.6645,Wind
 China,Datang Kezuohouqi Hariwusu,49,42.921,122.441,Wind
-China,Datang Liancheng-2 power station,600,36.5195,102.8682,Coal
-China,Datang Linzhou power station,700,36.1087,113.8627,Coal
-China,Datang Lueyang power station,660,33.3467,106.1422,Coal
-China,Datang Luoyang Shouyangshan power station,1040,34.7325,112.7554,Coal
-China,Datang Luoyang power station,1045,34.682,112.3777,Coal
-China,Datang Maanshan Dangtu power station,1320,31.5347,118.4139,Coal
-China,Datang Matou power station,1020,36.4873,114.4246,Coal
-China,Datang Nanjing Xiaguan-3 power station,1320,32.2127,119.2096,Coal
 China,Datang New Energy Chayouhouqi Hanwula,49,41.3694,112.9222,Wind
 China,Datang New Energy Lingao Offshore Experimental,6,20.0172,109.7072,Wind
-China,Datang Ningde power station,2520,26.7575,119.7359,Coal
 China,Datang Ningxia Ningdong,49,37.7396,106.4229,Wind
 China,Datang Ningxia Ningdong (Baitugang Town Changliushui),49,37.7747,106.393,Wind
 China,Datang Ningxia Taiyangshan Phase 2,49,37.5034,106.4418,Wind
@@ -372,61 +209,30 @@ China,Datang Pingdu Xinhe,49,36.9971,119.5721,Wind
 China,Datang Pingyin Phase 1 Wind,49,36.252,116.508,Wind
 China,Datang Pingyin Phase 2 Wind,49,36.128,116.341,Wind
 China,Datang Qingyuan Phase 2 Wind,34,36.7728,111.4175,Wind
-China,Datang Qingyuan power station,600,38.7954,115.481,Coal
-China,Datang Qitaihe power station,1900,45.7596,131.0536,Coal
 China,Datang Qixia Sujiadian Phase 1,49,37.3958,120.7017,Wind
 China,Datang Qixia Zangjiazhuang Garden,49,37.5615,120.8431,Wind
-China,Datang Sanmenxia power station,2900,34.6847,111.0274,Coal
-China,Datang Shentou power station,2000,39.3648,112.5333,Coal
-China,Datang Shuangyashan power station,400,46.6801,131.169,Coal
 China,Datang Tulufan,20,43.13,89.313,Solar
-China,Datang Tuoketuo power station,6720,40.1947,111.3589,Coal
 China,Datang Tuquan Laoyeling Phase 2,49,45.555,121.354,Wind
-China,Datang Weihe power station,600,34.431,108.8997,Coal
 China,Datang Wendeng Phase 2 Wind,49,36.96,122.11,Wind
 China,Datang Wendeng Wind,49,36.9317,122.0858,Wind
-China,Datang Wuan power station,600,36.8184,114.187,Coal
-China,Datang Wushashan power station,2400,29.505,121.6627,Coal
-China,Datang Xigu power station,990,36.1289,103.6228,Coal
-China,Datang Xinyang power station,1940,32.1099,114.1406,Coal
-China,Datang Xinyu power station,440,27.7763,114.9088,Coal
-China,Datang Xutang power station,1200,34.3486,117.9318,Coal
-China,Datang Yungang power station,1040,40.061,113.2192,Coal
 China,Datang Zhaoyuan Jinling Phase 1,49,37.3156,120.2664,Wind
-China,Datang Zhuzhou-2 power station,1260,27.2444,113.4603,Coal
-China,Datong - SDIC Coal,270,39.9474,113.1053,Coal
-China,Datong - Tashan Coal,4520,39.9261,113.0843,Coal
-China,Datong power station,3990,40.0279,113.2933,Coal
-China,Datun Mine power station,390,34.8684,116.9414,Coal
 China,Dawalong,24,28.7,100.3,Hydro
 China,Daxia,324.5,36.15,104.01,Hydro
-China,Daya Bay,1888,22.6,114.54,Nuclear
 China,Dayangpuzi,100.5,41.13,112.75,Wind
-China,Dazhou,1400,31.11,107.48,Gas
 China,Dehe Zhangbei Phase 1,49,41.0864,114.7414,Wind
 China,Dehe Zhangbei Phase 2,49,41.1,114.79,Wind
-China,Dengfeng-1 power station,420,34.3739,113.0552,Coal
-China,Dengfeng-2 power station,1900,34.3925,113.1997,Coal
 China,Dengkou,20,40.4,107.01,Solar
 China,Dengxinqiao,5,32.3211,108.6056,Hydro
 China,Deqin County Cizhong River,24,28.0225,98.8638,Hydro
-China,Diandong Yuwang power station,1200,25.1016,104.6172,Coal
-China,Diandong power station,2400,25.1995,104.6826,Coal
-China,Dianta Coal,1320,38.9728,110.4514,Coal
 China,Diaobingshan Wind,49,42.44,123.5128,Wind
-China,Diaobingshan power station,600,42.494,123.5656,Coal
 China,Diaoluohe Hydro,7,18.43,109.43,Hydro
 China,Diebu Lazikou Ii Hydro,5,34.0764,103.8944,Hydro
 China,Diebu Lazikou Iii,5,34.0392,103.9092,Hydro
 China,Diluo Hydroelectric,100,27.5811,103.0447,Hydro
-China,Dingzhou power station,2520,38.5122,114.8434,Coal
 China,Diqing Prefecture Niru River Muxingtu,120,27.7341,100.2935,Hydro
 China,Dong Feng,695,26.86,106.15,Hydro
 China,Dong River Dongyuan,20,23.8667,114.9061,Hydro
 China,Dongbaishan,15,29.4828,120.4423,Wind
-China,Dongfeng Captive power station,180,32.6499,110.7383,Coal
-China,Dongfeng Xiangfan Factory power station,100,32.1219,112.1713,Coal
-China,Dongga Power Plant,283.5,29.65,90.959,Gas
 China,Donghai Bridge,102,30.77,121.98,Wind
 China,Dongjiang,500,25.87,113.31,Hydro
 China,Dongling,45,32.59,120.95,Wind
@@ -435,26 +241,13 @@ China,Dongping Dam,110,30.1438,109.6162,Hydro
 China,Dongshan,57.2,42.62,117.94,Wind
 China,Dongtai Tidal Flat Solar Park 1,30,32.64,120.91,Solar
 China,Dongtai Tidal Flat Solar Park 2,30,32.64,120.95,Solar
-China,Dongtang Coal,270,23.1395,113.729,Coal
-China,Dongtang Plant power station,285,23.08,113.6292,Coal
 China,Dongxinrong (Huaneng),250.95,44.71,122.74,Wind
 China,Dongying,7,37.48,118.75,Solar
-China,Dongying Coastal power station,600,37.4288,118.8581,Coal
-China,Dongying Huatai Chemical power station,200,37.409,118.8752,Coal
-China,Dongyuan Tech power station,200,39.4815,106.6882,Coal
 China,Dongzhangjia,50.25,42.81,124.18,Wind
-China,Douhe power station,1300,39.773,118.2729,Coal
-China,Duanwang Coal Mine Methane,4,37.9427,112.9673,Gas
 China,Dujiawan Small,4,36.5906,102.8339,Hydro
 China,Dukouba Chongqing City,129,31.14,109.05,Hydro
 China,Dundunliang,52.5,37.31,105.91,Wind
-China,Duolun Coal Chemical power station,280,42.2123,116.577,Coal
-China,Dushanzi Ethene power station,475,44.3791,84.8671,Coal
-China,East Hope Metals Wucaiwan power station,7000,44.6885,89.1138,Coal
 China,Ebian Yi County Shugujiao,8,28.9414,103.1997,Hydro
-China,Enhong Coal,300,25.2339,104.1108,Coal
-China,Enipedia,60,36.4897,113.0475,Coal
-China,Erdaojiang power station,600,41.7797,126.0148,Coal
 China,Erligetu,49,41.7709,113.9226,Wind
 China,Erlongshan,50,38.5557,100.2726,Hydro
 China,Ertan,3300,26.82,101.78,Hydro
@@ -462,45 +255,29 @@ China,Eryuan Huian,12,26.1128,99.7686,Hydro
 China,Eshan Wind Haiyang City,49,37.044,121.202,Wind
 China,Everbright Suqian & Huaining Bundled,10.28,30.77,116.8,Solar
 China,Everbright Zhenjiang,13.3,32.17,119.65,Solar
-China,Ezhou Landfill,1,30.3444,114.9436,Gas
 China,Fang County Jimingkou,7,31.6197,110.1264,Hydro
 China,Fang'an,75,40.37,120.57,Wind
-China,Fangchenggang,2000,21.67,108.56,Nuclear
-China,Fangchenggang Coal,2580,21.5918,108.3947,Coal
-China,Fangjiashan,2024,30.44,120.94,Nuclear
 China,Fangjiatun,49.5,42.69,122.86,Wind
-China,Fangjiazhuang Coal,660,37.845,106.7872,Coal
-China,Fangshan power station,100,37.6707,111.1813,Coal
 China,Fanjiazhai,49,37.1967,105.29,Wind
 China,Feilaixia Dam,140,23.8017,113.259,Hydro
-China,Fengda Gas,360,22.98,114.49,Gas
 China,Fengguang,24,23.645,114.675,Hydro
 China,Fengman,809,43.72,126.69,Hydro
-China,Fengrun power station,600,39.8061,118.0861,Coal
 China,Fengshuba Dam,150,24.4121,115.3607,Hydro
 China,Fengtan,800,28.72,110.27,Hydro
-China,Fengxian Gas,760,30.98,121.5,Gas
-China,Fengying power station,120,35.3442,113.3955,Coal
-China,Fengzhen - Huaneng Coal,800,40.4043,113.1446,Coal
-China,Fengzhen - Jinlong Coal,1200,40.4029,113.155,Coal
-China,Fengzhen Xinfeng power station,600,40.4705,113.0873,Coal
 China,Fourth Cascade Buguanhe River,6,24.5695,101.1765,Hydro
 China,Fuan,30,27.1797,119.6633,Hydro
 China,Fuchuan Longtou Phase 1,49,24.7833,111.2833,Wind
 China,Fuchunjiang,297.2,29.71,119.65,Hydro
 China,Fugong Labuluo,24,26.33,98.52,Hydro
 China,Fugong Latudi River,18,26.9003,98.8456,Hydro
-China,Fugu Qingshuichuan power station,600,39.2049,111.119,Coal
 China,Fujian Dongshan Wujiaobay Wind,30,24.31,117.39,Wind
 China,Fujian Fuqing Gaoshan Phase 1 Wind,20,25.485,119.605,Wind
-China,Fujian Hongshan power station,3200,24.7277,118.7497,Coal
 China,Fujian Hua`An Mianliang,44,24.91,117.51,Hydro
 China,Fujian Huian Xiaozuo Wind,22,24.9616,119.0243,Wind
 China,Fujian Jiangle Gaotang,42,26.6833,117.45,Hydro
 China,Fujian Jianyang Huangtangjia,11,27.2561,118.2705,Hydro
 China,Fujian Jianyang Huilong,5,27.4758,118.4433,Hydro
 China,Fujian Jianyang Longjiang,3,27.556,118.384,Hydro
-China,Fujian Jinjiang LNG,1516,24.56,118.64,Gas
 China,Fujian Lianjiang Beijiao Wind,48,26.2082,119.5354,Wind
 China,Fujian Longyan Tingzhou,25,25.47,116.6617,Hydro
 China,Fujian Muyangxi River Fengyuan,80,27.0982,119.4524,Hydro
@@ -516,7 +293,6 @@ China,Fujian Pingnan Tingtougang,8,26.95,118.95,Hydro
 China,Fujian Pingnan Yuanping Expansion,16,26.8964,119.2193,Hydro
 China,Fujian Pingtan Changjiangao Wind,100,25.5626,119.7714,Wind
 China,Fujian Pucheng Taipingqiao,6,28.115,118.5686,Hydro
-China,Fujian Putian,1528,25.22,119,Gas
 China,Fujian Putian Nanri Phase 3 Wind,48,25.2047,119.4917,Wind
 China,Fujian Qingfeng Wind,48,25.38,119.45,Wind
 China,Fujian Shanghang Huilong,9,25.3686,116.3389,Hydro
@@ -526,7 +302,6 @@ China,Fujian Shaowu Jinwei,16,27.03,117.686,Hydro
 China,Fujian Shouning Pingfeng,30,27.4206,119.3053,Hydro
 China,Fujian Wutong,25,25.73,118.745,Hydro
 China,Fujian Wuyishan Kengkou,6,27.87,117.97,Hydro
-China,Fujian Xiamen Dongbu,764,24.55,118.23,Gas
 China,Fujian Xietan,15,27.3001,119.5364,Hydro
 China,Fujian Yongan Fenghai,30,26.0193,117.2029,Hydro
 China,Fujian Zhangping Huakou Plant,36,25.2806,117.523,Hydro
@@ -537,36 +312,22 @@ China,Fumeng Maniuhu,49,42.2667,121.3667,Wind
 China,Fumin Dafengyakou Wind,33,25.167,102.483,Wind
 China,Fumin Mayingshan Wind,40,25.2014,102.4242,Wind
 China,Funchunjiang Dam,297.2,29.7096,119.6533,Hydro
-China,Funing Coal,30,33.778,119.8087,Coal
 China,Funing County Baida,12,23.6675,106.0892,Hydro
 China,Funing County Gula Township Nalin,12,23.5711,106.0389,Hydro
-China,Fuqing,4000,25.4426,119.444,Nuclear
 China,Fuqing Jiaru,48,25.5703,113.548,Wind
 China,Fuqing Jiaru Wind Power Phase 2,48,25.571,119.554,Wind
 China,Fuqing Zeqi,48,25.4708,119.4777,Wind
-China,Fushun CPI power station,600,41.8897,123.9342,Coal
 China,Futangba,360,31.38,103.52,Hydro
-China,Fuxi power station,1200,28.666,104.6893,Coal
-China,Fuxin Jinshan Power Station,600,41.7848,121.4302,Coal
 China,Fuxin Kaidi Tailama Dongshan Wind,49,42.0768,121.273,Wind
-China,Fuxin power station,1100,41.9976,121.6635,Coal
-China,Fuyang power station,1280,33.0047,115.8448,Coal
-China,Fuzhou Kemen power station,2400,26.3736,119.7621,Coal
 China,GD Power & Shenzhou PV,10,38.65,105.63,Solar
-China,GEPIC Jinchang power station,1320,38.3784,102.0968,Coal
-China,GEPIC Zhangye power station,650,39.0709,100.4621,Coal
 China,Gangxi,69,37,122.09,Wind
 China,Ganluo Aga,21,28.7597,102.8567,Hydro
 China,Ganluo Camp,24,28.7253,102.7817,Hydro
 China,Ganluo County Dazi,9,28.6611,102.9133,Hydro
 China,Ganluo Wagujiao,24,28.8322,102.8225,Hydro
-China,Ganneng Fengcheng power station,1400,28.1997,115.7097,Coal
-China,Ganquanbao TBEA power station,700,44.1247,87.7707,Coal
 China,Gansu Bailong River Suoertou Hydroelectric,66,33.78,104.3583,Hydro
 China,Gansu Baishuijiang Hengdan,25,32.8547,104.8564,Hydro
-China,Gansu Baiyin power station,700,36.5295,104.2271,Coal
 China,Gansu Bazang,51,33.9273,104.004,Hydro
-China,Gansu Chongxin power station,1320,35.2796,106.9196,Coal
 China,Gansu Dang River,35,39.4923,97.3423,Hydro
 China,Gansu Datonghe Liancheng 2nd Stage,12,36.5456,102.8778,Hydro
 China,Gansu Diebu Duoer,32,33.3,103.3,Hydro
@@ -618,9 +379,7 @@ China,Gelantan Dam,390,22.7049,102.0574,Hydro
 China,Gengsheng,37.6,44.63,122.71,Wind
 China,Gezhen Dam,80,19.1801,108.9683,Hydro
 China,Gezhouba,3190,30.7397,111.2695,Hydro
-China,Gold Huasheng Mill power station,100,31.3062,120.8446,Coal
 China,Golden Jumping Group,12,44.68,130.51,Solar
-China,Golmud,300,36.38,94.97,Gas
 China,Golmud,200,36.4,95.157,Solar
 China,Gong Guo Qiao,750,25.59,99.335,Hydro
 China,Gongba River Small,13,33.245,104.019,Hydro
@@ -630,29 +389,18 @@ China,Gongshan County Pula Hydro,24,27.7944,98.5875,Hydro
 China,Gongshan County Qiqi,24,27.745,98.6053,Hydro
 China,Gongzui,2100,29.31,103.48,Hydro
 China,Gou Pi Tan,3000,27.3744,107.633,Hydro
-China,Great Waste Coal power station,270,39.4133,112.39,Coal
-China,GreenGen power station,250,38.925,117.7271,Coal
 China,Guadian Dam,2400,27.8221,101.9025,Hydro
 China,Guandi,2400,27.82,101.88,Hydro
-China,Guangan power station,2400,30.5288,106.8256,Coal
 China,Guangdong Chaonan Chengtian Wind,49,23.1015,116.4304,Wind
 China,Guangdong Chaonan Shalong Wind,49,23.1083,116.4806,Wind
 China,Guangdong Guanshan Wind,49,23.038,116.2994,Wind
 China,Guangdong Hejiang,7,24.16,115.57,Hydro
-China,Guangdong Huilai power station,3200,23.0056,116.5468,Coal
-China,Guangdong Huizhou,1080,22.76,114.61,Gas
-China,Guangdong Huizhou Pinghai power station,2000,22.6059,114.7419,Coal
 China,Guangdong Jiahu,48,22.81,115.93,Wind
-China,Guangdong Jinwan power station,1200,21.9691,113.1797,Coal
 China,Guangdong Lankou Hydro,26,23.9322,115.0456,Hydro
 China,Guangdong Leiling Wind,49,23.1283,116.3722,Wind
 China,Guangdong Liucheng Hydro,25,24.015,115.11,Hydro
 China,Guangdong Nanao Huaneng Wind,45,23.36,116.6783,Wind
-China,Guangdong Shajiao power complex,3970,22.7489,113.6807,Coal
 China,Guangdong Shaoguan Yizhou Hydro,20,24.8492,113.5378,Hydro
-China,Guangdong Shaoguan power station,1800,24.5852,113.5831,Coal
-China,Guangdong Shenzhen Laohukeng Landfill,3,22.8314,113.8412,Gas
-China,Guangdong Shenzhen Qianwan,1083,22.51,113.85,Gas
 China,Guangdong Taishan Shangchuandao Island Phase 1,48,21.5806,112.7697,Wind
 China,Guangdong Taishan Shangchuandao Island Phase 2,36,21.6058,112.77,Wind
 China,Guangdong Wenbiling Wind,49,21.6351,111.6516,Wind
@@ -670,7 +418,6 @@ China,Guangxi Jindong,10,25.5761,108.7564,Hydro
 China,Guangxi Liuzhou Luzhai County Luoqingjiang Xian,18,24.701,109.8467,Hydro
 China,Guangxi Longsheng Furong River,25,25.8964,110.1326,Hydro
 China,Guangxi Longsheng Lejiang,4,25.9139,109.875,Hydro
-China,Guangxi Luzhai power station,700,24.456,109.6935,Coal
 China,Guangxi Nabi,48,24.1219,105.7961,Hydro
 China,Guangxi Qiaogong,456,23.6253,108.9461,Hydro
 China,Guangxi Tianlin County Weimi,16,24.2911,104.6928,Hydro
@@ -682,16 +429,7 @@ China,Guangxi Youjiang Naji Dam,66,23.78,106.77,Hydro
 China,Guangxi Yulin Darongshan Wind,25,22.8722,110.2332,Wind
 China,Guangxi Ziyuan Jinzishan,49,26.1642,110.5211,Wind
 China,Guangzhoao Dam,1040,25.96,105.25,Hydro
-China,Guangzhou Lixin power station,660,23.0942,113.565,Coal
-China,Guangzhou Nansha,360,22.86,113.51,Gas
-China,Guangzhou Nansha power station,600,22.8635,113.5228,Coal
 China,Guangzhou Pump Storage,2400,23.7657,113.9536,Hydro
-China,Guangzhou Refinery power station,240,23.1196,113.47,Coal
-China,Guangzhou Wanglong Cogen power station,200,23.0929,113.5648,Coal
-China,Guangzhou Xingfeng Landfill,19,23.1052,113.194,Gas
-China,Guangzhou Zhujiang,700,22.81,113.57,Gas
-China,Guangzhou Zhujiang power station,1280,22.8141,113.5678,Coal
-China,Guangzhou power station,240,23.142,113.2243,Coal
 China,Guanmenyan,33,29.3132,110.4816,Hydro
 China,Guanyinge Dam,19.5,41.3149,124.1499,Hydro
 China,Guanyinyan,3000,26.52,101.44,Hydro
@@ -699,15 +437,9 @@ China,Gucheng Heibaishuihe Tianshengqiao Hydro,6,27.1547,100.3927,Hydro
 China,Guertu River Cascade Stage 3,13,44.3117,83.8517,Hydro
 China,Guertu River Cascade Stage 4,20,44.3117,83.8517,Hydro
 China,Guihua Small,12,32.29,108.58,Hydro
-China,Guilin Chongkou Landfill,1,25.2047,110.178,Gas
-China,Guixi power station,1880,28.2891,117.2231,Coal
 China,Guizhou Beilei Hydro,8,25.75,108.6875,Hydro
-China,Guizhou Dalong power station,600,27.2954,109.0147,Coal
 China,Guizhou Dushan Heishen River Cascade,14,25.7661,107.5972,Hydro
-China,Guizhou Faer power station,2400,26.3251,104.7706,Coal
-China,Guizhou Hongguo Coal Mine Methane,6,25.8011,104.4617,Gas
 China,Guizhou Huidong,50,25.38,106.3039,Hydro
-China,Guizhou Jinqiao Coal Mine Methane,3,27.2832,106.4218,Gas
 China,Guizhou Louxiahe Small,9,25.475,104.8842,Hydro
 China,Guizhou Pan County Yingwudashan Smallscale Hydro,9,25.7694,104.8628,Hydro
 China,Guizhou Qingshuihe Maojiahe,180,26.2719,104.5494,Hydro
@@ -716,70 +448,34 @@ China,Guizhou Tongzihe Yangjiayuan,40,28.1619,106.3747,Hydro
 China,Guizhou Tongzihe Yuanmanguan,20,28.0749,106.459,Hydro
 China,Guizhou Xishui Jinyang,20,28.2344,106.3878,Hydro
 China,Guizhou Yinlu First Stage (Yinwang),17,25.9803,104.9422,Hydro
-China,Guizhou Zunyi Landfill,1,27.7203,106.8776,Gas
-China,Guodian Anshun power station,1200,26.2203,105.6866,Coal
-China,Guodian Baoji-2 power station,2520,34.498,107.2176,Coal
-China,Guodian Baoqing power station,1320,27.2021,111.3966,Coal
-China,Guodian Beilun power station,5060,29.9433,121.8131,Coal
 China,Guodian Beipiao Taojiagou Wind,48,42.1347,120.6397,Wind
-China,Guodian Changyuan Jingzhou power station,600,30.2971,112.3086,Coal
-China,Guodian Dananhu power station,1320,42.3202,93.1914,Coal
-China,Guodian Dawukou power station,660,39.036,106.3846,Coal
-China,Guodian Dongsheng power station,660,39.8228,110.0344,Coal
-China,Guodian Duyun power station,1200,26.6304,107.5429,Coal
-China,Guodian Feixian power station,1300,35.3197,117.9057,Coal
-China,Guodian Guangdong Zhaoqing Dawang power station,700,23.3006,112.8563,Coal
 China,Guodian Huachuan Zhongfu,49,47.0222,131.0181,Wind
-China,Guodian Huangjinbu power station,1300,28.4508,116.8603,Coal
-China,Guodian Jiangnan power station,660,43.7942,126.5902,Coal
-China,Guodian Jiangyin power station,1200,25.4393,119.3394,Coal
-China,Guodian Jilin power station,1300,47.3783,124.0519,Coal
 China,Guodian Jingbian Jishanliang Phase 2,49,37.2658,108.2806,Wind
 China,Guodian Jingbian Jishanliang Phase 3,49,37.2536,108.3256,Wind
-China,Guodian Jingmen power station,1200,31.0371,112.2316,Coal
-China,Guodian Jingyuan power station,880,36.7288,104.7625,Coal
-China,Guodian Jiujiang power station,1360,29.7404,116.0345,Coal
-China,Guodian Jiuquan power station,660,39.68,98.5065,Coal
 China,Guodian Juxian Wind Power Phase 1,48,35.9456,119.0247,Wind
-China,Guodian Kuqa power station,870,41.7381,82.8874,Coal
-China,Guodian Langfang power station,700,39.4793,116.7695,Coal
 China,Guodian Laoting Daqinghe Wind,49,39.2494,118.8306,Wind
 China,Guodian Linghai Qingsong,49,40.9583,121.3653,Wind
-China,Guodian Nanning power station,1320,22.7891,108.9395,Coal
 China,Guodian Ningxia Pingluop Solar,10,38.9025,106.5514,Solar
 China,Guodian Ningxia Qingtongxia Niushoushan Phase 1,49,37.7483,106.013,Wind
 China,Guodian Ningxia Qingtongxia Niushoushan Phase 2,49,37.7922,106.0161,Wind
 China,Guodian Ningxia Qingtongxia Niushoushan Phase 3,49,37.7108,106.029,Wind
 China,Guodian Ningxia Zhongwei,10,37.56,105.04,Solar
 China,Guodian Penglai Hushan Phase 1,49,37.5828,120.7532,Wind
-China,Guodian Penglai power station,660,37.7553,120.5945,Coal
-China,Guodian Pingnan power station,700,45.5446,126.6582,Coal
 China,Guodian Power Youyu Gaojiapu Phase 2,49,39.7373,112.3946,Wind
 China,Guodian Shaanxi Jingbian Jishanliang,49,37.2547,108.2519,Wind
-China,Guodian Shangqiu Minquan power station,1260,34.6189,115.2925,Coal
 China,Guodian Shanxi Jingle Suopo Wind,49,38.5864,112.2554,Wind
 China,Guodian Shanxi Pinglubeishan Phase 1 Wind,49,39.5834,112.1334,Wind
 China,Guodian Shanxi Youyu Caojiashan Phase 2 Wind,49,40.18,112.603,Wind
 China,Guodian Shanxi Youyu Caojiashan Wind,49,40.18,112.563,Wind
-China,Guodian Shenyang power station,660,41.7251,123.1886,Coal
-China,Guodian Shizuishan-2 power station,2020,39.2848,106.788,Coal
 China,Guodian Shuozhou Haifeng Liujiayao,49,39.6445,111.9681,Wind
-China,Guodian Suqian power station,270,33.8392,118.3687,Coal
-China,Guodian Taian power station,700,36.0764,117.1369,Coal
-China,Guodian Taizhou power station,4000,32.1872,119.9145,Coal
 China,Guodian Upc Kangping Haoguan Liaoning,49,42.6667,123.5,Wind
 China,Guodian Weifang Binhai Phase 1,48,37.2321,119.1353,Wind
 China,Guodian Weihai Shanmayu,49,37.281,121.708,Wind
 China,Guodian Wuchuan Xiwulanbulang Hongshan Phase 1 Wind,49,41.2583,111.0583,Wind
 China,Guodian Wuchuan Xiwulanbulang Hongshan Phase 2,49,41.2556,111.025,Wind
 China,Guodian Wulian Yuli Wind Power Phase 1,49,35.812,118.9968,Wind
-China,Guodian Yongfu power station,600,25.1013,110.069,Coal
 China,Guodian Youyu Laoqianshan Phase 1,49,40.175,112.5553,Wind
-China,Guodian Yuyuan power station,300,35.0579,112.5792,Coal
-China,Guodian Yuzhong power station,220,36.0323,103.8761,Coal
 China,Guodian Zhaoyuan Xiadian Phase 1,49,37.1478,120.2458,Wind
-China,Guodian Zhijin power station,1320,26.8326,105.8193,Coal
-China,Guodian Zhuanghe power station,1200,39.6766,123.2059,Coal
 China,Guohua Binzhou Zhanhua (Phase 1),49,38.06,118.05,Wind
 China,Guohua Chicheng Dushikou West,48,41.3017,115.6183,Wind
 China,Guohua Chicheng Mayinggushan,49,41.325,115.688,Wind
@@ -798,7 +494,6 @@ China,Guohua Guyuan Xiaoerhao,49,41.461,115.85,Wind
 China,Guohua Hekou (Phase 2),49,38.0744,118.2758,Wind
 China,Guohua Huitengliang Wind,48,43.31,116.03,Wind
 China,Guohua Hulunbeier Xinbaerhu Youqi,49,48.68,116.82,Wind
-China,Guohua Hulunbeier power station,1200,49.3476,119.7207,Coal
 China,Guohua Jiaonan Wind First Phase,49,35.9908,119.9302,Wind
 China,Guohua Qiqihaer Fuyu 1st Stage,49,47.3515,124.152,Wind
 China,Guohua Rongcheng Phase 2,49,37.3564,122.521,Wind
@@ -807,52 +502,32 @@ China,Guohua Rongcheng Phase 4,49,37.2353,122.2697,Wind
 China,Guohua Rongcheng Phase 5,49,37.1747,122.2672,Wind
 China,Guohua Shangyi Beishileng Phase 1,49,41.1993,114.1977,Wind
 China,Guohua Shangyi Kangleng Phase 1,49,41.1697,114.2822,Wind
-China,Guohua Shouguang power station,2000,37.2697,118.9069,Coal
 China,Guohua Shuangliao Lianhuashan Second Phase,49,44.0744,123.6453,Wind
-China,Guohua Taicang power station,1260,31.5877,121.2556,Coal
-China,Guohua Taishan power station,5000,21.8664,112.9228,Coal
 China,Guohua Tongliao Kezuo Zhongqi Phase 1,49,41.22,122.95,Wind
 China,Guohua Tongliao Kezuozhongqi Housijing,49,44.28,122.81,Wind
 China,Guohua Tongliao Kezuozhongqi Qiansijing,49,44.225,122.815,Wind
 China,Guohua Wulate Houqi Saiwusu Phase 1,49,41.5,106.4,Wind
 China,Guohua Wulate Zhongqi Chuanjing Phase 2,49,41.565,108.5253,Wind
-China,Guohua Xuzhou power station,2000,34.3858,117.256,Coal
 China,Guohua Yulin Jingbain,20,37.61,108.93,Solar
-China,Guohua Zhoushan power station,910,30.1032,122.185,Coal
 China,Guohua Zhucheng (Phase 1),49,35.9167,119.6667,Wind
 China,Guohua Zhucheng (Phase 2),49,35.85,119.55,Wind
-China,Guohuo Yuyao,790,30.07,121.1,Gas
 China,Guoshuitou Diaobingshan Quanyangou Wind,49,42.405,123.479,Wind
 China,Guxian Dam,60,34.2397,111.2776,Hydro
 China,Guyuan,30,41.36,115.45,Wind
-China,Haifengherui power station,165,28.716,105.1399,Coal
-China,Hailar Coal,400,49.2374,119.7403,Coal
 China,Hainan Danzhou Eman Phase 2 Wind,49,19.6289,109.2633,Wind
 China,Hainan Dongfang Gaopai Phase 1 Wind,48,18.9725,108.6475,Wind
 China,Hainan Dongfang Sigeng Phase 1,48,19.2218,108.6368,Wind
 China,Hainan Lingao,20,19.97,109.83,Solar
-China,Hainan Southwest power station,700,18.5383,108.6824,Coal
-China,Haining City Municipal Waste,7,30.4081,120.5392,Gas
-China,Hami 1-4 Coal,25,42.8936,93.4435,Coal
-China,Hancheng power station,2400,35.6002,110.5557,Coal
-China,Hanchuan power station,3260,30.6565,113.9173,Coal
-China,Handan Eastern Outskirt Cogen Power Station,700,36.5702,114.6509,Coal
-China,Handan power station,660,36.6421,114.4997,Coal
 China,Hanergy Gognhe Solar Park,50,36.18,100.62,Solar
 China,Hanergy Ningxia Taiyangshan,20,37.3,106.49,Solar
 China,Hanergy Pizhou,30,34.49,117.65,Solar
-China,Hanfeng power station,1320,36.4719,114.1523,Coal
-China,Hang Hau Longyan power station,600,25.281,117.155,Coal
 China,Hangjin Yihewusu Phase 1 Wind,49,40.0589,107.5411,Wind
 China,Hangjinqi Balagong,10,40.25,107.09,Solar
 China,Hangudi,5,25.6333,99.005,Hydro
-China,Hangzhou 2 Landfill Gas,6,30.3894,120.2019,Gas
-China,Hangzhou Hadian Banshan,1170,31.23,118.37,Gas
 China,Hanpingzui,72,32.8389,105.1003,Hydro
 China,Hebei Bode Shenlong Xiaoertai Wind,40,41.047,114.87,Wind
 China,Hebei Bodeyulong Phase Four,49,41.0633,114.9356,Wind
 China,Hebei Bodeyulong Phase Three,49,41.068,114.8913,Wind
-China,Hebei Cangzhou,15,38.3211,116.9111,Gas
 China,Hebei Chengde Huifeng,49,34.575,117.6026,Wind
 China,Hebei Chengde Runfeng,49,42.5503,117.62,Wind
 China,Hebei Chengde Songshan,49,42.35,117.4,Wind
@@ -865,8 +540,6 @@ China,Hebei Guyuan County Dongxinying Wind,199,41.4415,115.5253,Wind
 China,Hebei Huadian Shangyi Ergongdi,49,41.5031,114.0015,Wind
 China,Hebei Kangbao Wolongtushan,30,41.51,114.28,Wind
 China,Hebei Leting Phase 1,49,39.3608,119.1842,Wind
-China,Hebei Lingda,12,37.9008,114.5089,Gas
-China,Hebei Longshan power station,1200,36.5976,113.6916,Coal
 China,Hebei Shangyi Chaoligai,49,41.0695,114.0923,Wind
 China,Hebei Shangyi Dongshan,49,41.2865,114.2816,Wind
 China,Hebei Shangyi Hanjiazhuang Phase 2,49,41.0802,114.0944,Wind
@@ -874,7 +547,6 @@ China,Hebei Shangyi Longyuan Wind,150,41.1267,113.9347,Wind
 China,Hebei Shangyi Manjing East,49,40.4957,114.56,Wind
 China,Hebei Shangyi Manjing North,49,41.08,114.27,Wind
 China,Hebei Shangyi Moshishan,49,41.0768,114.1729,Wind
-China,Hebei Shengyuan Xuandong Coal Mine Methane,20,40.55,115.15,Gas
 China,Hebei Shiren Ii Wind,25,40.9797,114.3,Wind
 China,Hebei Weichang Dishuihu Wind,49,42.267,117.917,Wind
 China,Hebei Weichang Guangfayong Wind,49,42.2167,117.85,Wind
@@ -890,17 +562,10 @@ China,Hebei Zhangbei Batou Phase 1,99,41.0667,114.25,Wind
 China,Hebei Zhangbei Lijiaying,49,41.0866,114.6477,Wind
 China,Hebei Zhangbei Xishungou,49,41.0456,114.6739,Wind
 China,Hebei Zhangjiakou Kangbao Tunken 2nd Phase,102,41.966,114.773,Wind
-China,Hebi Fenghe power station,1800,35.8512,114.1798,Coal
-China,Hefei Longquanshan Landfill Gas,3,31.805,117.5588,Gas
-China,Hefei power station,1260,31.9137,117.2521,Coal
-China,Hefei-2 power station,700,31.8043,117.5072,Coal
-China,Hefeng power station,600,46.6088,86.5936,Coal
-China,Hegang - Longmay Coal,700,47.2354,130.2256,Coal
 China,Heilongjiang Bianfushan Wind,49,46.7431,130.8577,Wind
 China,Heilongjiang Dabaishan Wind,49,47.73,129.811,Wind
 China,Heilongjiang Dailingdongshan Wind,37,47.0465,129.1703,Wind
 China,Heilongjiang Hailin Weihushan Wind,45,44.9168,129.0405,Wind
-China,Heilongjiang Hegang Mining power station,200,47.2992,130.255,Coal
 China,Heilongjiang Heihe Daheishan Wind,49,50.1989,126.4789,Wind
 China,Heilongjiang Huafu Muling,31,44.7333,130.9167,Wind
 China,Heilongjiang Huanan Changshoushan Wind,49,46.057,130.648,Wind
@@ -910,7 +575,6 @@ China,Heilongjiang Jiamusi Jianshan,49,46.7,130.2833,Wind
 China,Heilongjiang Laobaishan Wind,49,47.6639,129.6681,Wind
 China,Heilongjiang Mishan Linchang Liumao,49,45.423,132.058,Wind
 China,Heilongjiang Mudanjiang Xiaoguokui Wind,20,45.282,129.841,Wind
-China,Heilongjiang Qiqihar power station,600,47.379,124.051,Coal
 China,Heilongjiang Wangyunfeng Wind,49,47.9094,130.6655,Wind
 China,Heilongjiang Xingkaihu Fengmishan,49,45.449,131.999,Wind
 China,Heilongjiang Yilan Chenguang Wind,49,46.2601,129.5217,Wind
@@ -921,49 +585,18 @@ China,Heimifeng,1200,28.46,113.01,Hydro
 China,Heishan Fangshan Wind,49,41.9181,122.0611,Wind
 China,Heishan Yangtun Wind,49,41.9181,122.0944,Wind
 China,Hejiang County Yuanxing Hydro,15,28.7697,106.1511,Hydro
-China,Hejin power station,1300,35.6131,110.6558,Coal
 China,Hekou,23,27.3969,102.56,Hydro
 China,Helanshan Phase 5,40,38.1943,105.7755,Wind
-China,Henan Aluminum power station,250,34.8183,113.259,Coal
-China,Henan Hebi power station,270,35.7855,114.2404,Coal
-China,Henan Heqi power station,1320,35.7214,114.1855,Coal
-China,Henan Mengdian power station,600,35.4312,113.8325,Coal
-China,Henan Nengxin Cogen power station,420,34.0038,113.8667,Coal
 China,Henan Province Ye County Matoushan Wind Power Plant,46,33.4293,113.2163,Wind
-China,Henan Xinan power station,870,34.7406,112.0631,Coal
-China,Henan Xinmi power station,2700,34.5,113.5986,Coal
-China,Henan Yongcheng power station,630,33.9541,116.416,Coal
-China,Henan Yulian power station,900,34.7967,113.079,Coal
 China,Henan Yuxi Yanshan Wind,47,34.7728,111.4175,Wind
-China,Henan Zhengzhou,780,34.8,113.53,Gas
-China,Henan Zhongmai Yongan power station,200,34.6939,112.9314,Coal
-China,Hengfeng-2 power station,660,37.7527,115.6012,Coal
 China,Hengjiang Yanzipo,64,28.3175,104.2661,Hydro
-China,Henglian Wucaiwan power station,1320,44.7896,89.1977,Coal
-China,Hengmen Expansion Gas,1170,22.57,113.57,Gas
-China,Hengmen Gas,1030,22.57,113.57,Gas
-China,Hengshan Jiangsu power station,115,31.7652,120.1234,Coal
-China,Hengshui Hengxing power station,660,37.7527,115.601,Coal
-China,Hengtong Chemical Power Station,180,34.6268,118.3242,Coal
-China,Hengyun A Coal,545,23.0655,113.4984,Coal
-China,Hengyun B Coal,600,23.0638,113.5006,Coal
 China,Heping,49,41.8701,113.9566,Wind
-China,Hepo Coal,300,37.8458,113.6163,Coal
 China,Heqing County Liuhe Plant,30,26.4556,100.3211,Hydro
-China,Hesheng Shanshan power station,660,44.456,86.0984,Coal
-China,Heshuyuan power station,1470,24.3924,116.2608,Coal
 China,Hexigten Wind Farm,120,42.76,117.7,Wind
-China,Heyuan power station,1244,23.567,114.64,Coal
-China,Heze Huarun power station,1200,35.2526,115.686,Coal
-China,Heze power station,1510,35.2407,115.5335,Coal
-China,Hezhou power station,2090,24.7361,111.3464,Coal
-China,Hohhot Jinqiao power station,600,40.7085,111.7399,Coal
-China,Hohhot Jinshan power station,600,40.7069,111.4576,Coal
 China,Hongba Small,4,39.6406,94.8339,Hydro
 China,Honghua,228,24.23,109.53,Hydro
 China,Hongjiadu,600,26.87,105.86,Hydro
 China,Hongjiang,225,27.13,109.96,Hydro
-China,Hongjun Aluminum power station,1800,45.5,119.6545,Coal
 China,Hongkou Dam,200,26.8944,119.3279,Hydro
 China,Hongping,1200,29.06,115.36,Hydro
 China,Hongqiao Railway Station,6.68,31.2,121.32,Solar
@@ -972,39 +605,21 @@ China,Hongshi,200,42.95,127.13,Hydro
 China,Hongsongwa,155.7,42.56,117.74,Wind
 China,Hongxingqiao Yongsheng County,6,26.4439,101.0236,Hydro
 China,Hongyan Luoping County,8,25.2742,104.3644,Hydro
-China,Hongyanchi-1 power station,660,43.728,87.6292,Coal
-China,Hongyanchi-2 power station,800,43.7436,87.6576,Coal
-China,Hongyang Lianyungang power station,120,34.5515,119.5797,Coal
-China,Hongyang Nengyuan power station,600,41.357,123.2217,Coal
-China,Hongyanhe,4183,39.8,121.48,Nuclear
 China,Hongyuan Small,10,34.22,103.53,Hydro
-China,Hongyuan Waste Coal Cogen power station,60,44.4196,126.9663,Coal
 China,Houchang Small Shuicheng County,9,26.1343,105.1011,Hydro
 China,Houpabu,31.5,37.12,119.64,Wind
-China,Houshi power station,4200,24.3031,118.1261,Coal
 China,Huaan Xipi,44,25.2,117.467,Hydro
 China,Huachuan (Baoshan) Wind,49,47.0053,130.9842,Wind
 China,Huachuan (Daqingbeishan) Wind,49,46.56,130.555,Wind
 China,Huade Changshun Wind,49,41.8556,113.9422,Wind
-China,Huadian Baotou Tuyou power station,1320,40.5836,110.6228,Coal
 China,Huadian Beijing Miyunp,20,40.4428,116.7506,Solar
-China,Huadian Bejing,508,39.89,116.27,Gas
-China,Huadian Changde power station,1320,29.031,111.7,Coal
-China,Huadian Changsha power station,1200,28.4877,112.7985,Coal
 China,Huadian Daan Fengshuishan Phase 1,49,45.2667,123.4167,Wind
 China,Huadian Daan Fengshuishan Phase 2,49,45.2956,123.4108,Wind
-China,Huadian Fengjie power station,1200,31.1188,109.4473,Coal
-China,Huadian Fulaerji-2 power station,1200,47.1656,123.5848,Coal
 China,Huadian Fuqing Niutouwei Wind,30,25.4193,119.2791,Wind
 China,Huadian Gansu Jiayuguan,10,39.76,98.112,Solar
-China,Huadian Gongxian power station,1200,28.2713,104.6697,Coal
-China,Huadian Guigang power station,1200,23.1128,109.7656,Coal
 China,Huadian Guyuan Phase 3,49,41.5608,115.6369,Wind
 China,Huadian Guyuan Yueliangshan Wind Phase 1,49,36.2012,105.6177,Wind
 China,Huadian Haiyuan Wuyuan First Phase Wind,49,36.661,105.628,Wind
-China,Huadian Hami power station,270,42.8941,93.4415,Coal
-China,Huadian Harbin-1 power station,950,45.7099,126.6955,Coal
-China,Huadian Harbin-3 power station,1640,45.9656,126.6637,Coal
 China,Huadian Hebei Guyuan,100,41.5392,115.5719,Wind
 China,Huadian Hebei Yuzhou Huanghualiang Wind,49,39.6203,114.6506,Wind
 China,Huadian Hebei Yuzhou Zhenjiawan Wind,49,39.6417,114.7297,Wind
@@ -1012,135 +627,56 @@ China,Huadian Heilongjiang Tangyuan Qushou,49,46.7469,129.6939,Wind
 China,Huadian Inner Mongolia Guyang Hongnijing,49,41.45,109.7333,Wind
 China,Huadian Inner Mongolia Keqi Wutaohai Phase 1,49,44.1542,117.1263,Wind
 China,Huadian Inner Mongolia Naiman Banner First Phase Wind,49,42.8587,120.9167,Wind
-China,Huadian Jiangling power station,660,30.0912,112.3106,Coal
 China,Huadian Jilin Shuangliao Namusi Wind,49,43.456,123.393,Wind
-China,Huadian Jurong power station,2000,32.1949,119.2494,Coal
 China,Huadian Kailu Yihetala Phase One,49,43.8,120.9417,Wind
 China,Huadian Kailu Yihetala Phase Two,49,43.8,120.95,Wind
-China,Huadian Kashi power station,900,39.4812,76.0498,Coal
 China,Huadian Kulun,201,41.7181,112.6019,Wind
 China,Huadian Laizhou,40,37.1778,119.8067,Wind
-China,Huadian Laizhou power station,2078,37.4323,120.0177,Coal
-China,Huadian Longkou power station,880,37.6809,120.3132,Coal
-China,Huadian Luan power station,1320,31.6561,116.4914,Coal
-China,Huadian Luhua power station,660,38.0516,114.3177,Coal
-China,Huadian Luohe power station,660,33.5295,114.0979,Coal
 China,Huadian Ningxia Haiyuan Xiajiayao Wind,49,36.4139,105.5506,Wind
-China,Huadian Ningxia Lingwu power station,3320,38.1483,106.3463,Coal
 China,Huadian Ningxia Ningdong Phase 4,49,37.8169,106.7003,Wind
 China,Huadian Ningxia Ningdong Phase 5,49,37.7725,106.5514,Wind
 China,Huadian Ningxia Ningdong Yangjiayao,45,37.8858,106.6336,Wind
 China,Huadian Ningxia Ningdong Yangjiayao Expansion,12,37.8536,106.6141,Wind
 China,Huadian Shangde Dongtai,20,32.77,120.92,Solar
 China,Huadian Shangde Dongtaip,10,32.768,120.9117,Solar
-China,Huadian Shiliquan power station,2060,34.8144,117.5731,Coal
-China,Huadian Shuozhou power station,700,39.3575,112.483,Coal
 China,Huadian Sichuan Egongbao,132,28.2,100.52,Hydro
 China,Huadian Sichuan Mulihe Kajiwa,452,28.3938,100.5511,Hydro
-China,Huadian Suzhou power station,1260,33.8059,116.9821,Coal
 China,Huadian Tieling Lijiatun,48,42.375,123.874,Wind
-China,Huadian Turpan power station,270,42.7312,88.6173,Coal
-China,Huadian Urumqi power station,660,43.9007,87.6975,Coal
-China,Huadian Wangting power station,1920,31.4444,120.4364,Coal
-China,Huadian Weifang power station,2000,36.6656,119.2632,Coal
 China,Huadian Wind Huitengxile Inner Mongolia,202,41.6692,112.6248,Wind
-China,Huadian Wuda power station,300,39.4794,106.7344,Coal
-China,Huadian Wuhu power station,1320,31.2376,118.15,Coal
 China,Huadian Xinjiang Dabancheng First Phase Wind,49,43.55,87.95,Wind
 China,Huadian Xinjiang Hami Kushui Second,201,42.5703,95.2394,Wind
 China,Huadian Xinjiang Hami Shisanjianfang First Phase Wind,49,43.31,91.7,Wind
-China,Huadian Xinzhou Guangyu power station,970,38.4595,112.7516,Coal
-China,Huadian Xisaishan power station,2020,30.2031,115.1803,Coal
 China,Huadian Xuwen Huangtang Wind,49,20.5532,110.4632,Wind
 China,Huadian Xuwen Qianshan Wind,49,20.467,110.225,Wind
-China,Huadian Yangling Cogen power station,700,34.2592,108.1188,Coal
-China,Huadian Yaochi Power station Unit 2,200,35.0623,108.0755,Coal
 China,Huadian Yunnan Lijiang Ninglang Maoniuping Wind,49,27.217,100.933,Wind
 China,Huadian Yunnan Mengzi Duogu Phase 1,49,23.42,103.48,Wind
-China,Huadian Zhenxiong power station,1200,27.4929,104.9485,Coal
 China,Huadian Zhoushan Xiaosha,30,30.1255,122.0179,Wind
-China,Huadian Zhuozi power station,800,40.9221,112.6397,Coal
-China,Huadian Zibo power station,950,36.7602,118.0532,Coal
-China,Huai'an (Hebei) Coal,660,40.6458,114.405,Coal
-China,Huai'an - Guoxin Coal,660,33.5866,119.0126,Coal
-China,Huaibei Guoan power station,640,33.8445,116.9357,Coal
-China,Huaibei Haizi And Luling Coal Mine Methane,16,33.5635,116.46,Gas
-China,Huaibei Hushan power station,1320,33.8678,116.8598,Coal
-China,Huaibei Linhuan power station,1260,33.6127,116.5866,Coal
-China,Huaibei Pingshan power station,1320,33.8339,116.8311,Coal
-China,Huainan Fengtai power station,2520,32.7579,116.6492,Coal
-China,Huainan Guqiao power station,660,32.8142,116.569,Coal
-China,Huainan Luohe power station,2500,32.6837,117.0753,Coal
-China,Huainan Tianji power station,2580,32.7456,116.8134,Coal
-China,Huainan Xinzhuangzi power station,300,32.6371,116.8472,Coal
 China,Huan County Nanqiu Second Phase,49,36.9408,106.6656,Wind
-China,Huaneng Anyuan power station,1320,27.642,114.0058,Coal
-China,Huaneng Baishan power station,660,42.0319,126.5795,Coal
-China,Huaneng Baotou-1 power station,950,40.6567,109.6583,Coal
-China,Huaneng Baotou-2 power station,1000,40.6778,109.8913,Coal
-China,Huaneng Baotou-3 power station,600,40.6246,110.0028,Coal
 China,Huaneng Binhai,49,37.2103,119.0983,Wind
-China,Huaneng Changchun power station,700,44.04,125.2201,Coal
-China,Huaneng Changxing power station,1320,30.9144,119.9625,Coal
 China,Huaneng Changyi Phase 1,49,37.093,119.5178,Wind
-China,Huaneng Chaohu power station,1200,31.6516,117.8225,Coal
 China,Huaneng Dali Wuzipo Phase 1 Wind,49,25.4431,100.3533,Wind
-China,Huaneng Dalian power station,1400,39.0148,121.7244,Coal
-China,Huaneng Dandong power station,700,39.8385,124.1457,Coal
 China,Huaneng Daqing Aobao,48,46.195,124.2856,Wind
 China,Huaneng Daqing Heping,48,46.2583,124.4744,Wind
 China,Huaneng Daqing Wukeshu,48,46.1989,124.4175,Wind
 China,Huaneng Daqing Xinli,48,46.2744,124.54,Wind
-China,Huaneng Daqing power station,700,46.7046,124.847,Coal
-China,Huaneng Dezhou power station,2650,37.4493,116.2416,Coal
-China,Huaneng East Hailar power station,150,49.2631,119.8314,Coal
 China,Huaneng Eryuan Maanshan,49,26.1033,100.1083,Wind
 China,Huaneng Fanshi Shanglangjian (Shahe Phase 1) Wind,49,39.3442,113.6438,Wind
 China,Huaneng Fubei Liangguanyingzi,49,42.3605,121.4537,Wind
 China,Huaneng Fuxi Zhalanshan,49,42.1007,121.0811,Wind
 China,Huaneng Fuxin Phase 3,100,42.78,122.52,Wind
 China,Huaneng Fuxin Zhangbei,300,42.7631,122.5183,Wind
-China,Huaneng Fuzhou power station,2720,25.9909,119.4816,Coal
 China,Huaneng Gansu Jinchang,20,38.49,102.32,Solar
 China,Huaneng Geermu,20,36.39,95.099,Solar
 China,Huaneng Geermu III,20,36.36,95.109,Solar
 China,Huaneng Geermu Phase II,30,36.39,95.117,Solar
 China,Huaneng Guangdong Nanao East Island,15,23.45,117.1,Wind
-China,Huaneng Haikou power station,660,19.9595,110.0317,Coal
-China,Huaneng Haimen power station,4144,23.1899,116.6553,Coal
-China,Huaneng Hainan East power station,1400,19.0494,108.6364,Coal
-China,Huaneng Hegang power station,1200,47.0955,130.299,Coal
-China,Huaneng Hohhot power station,1100,40.7934,111.5977,Coal
-China,Huaneng Huaiyin power station,1320,33.5959,118.9628,Coal
 China,Huaneng Inner Mongolia Manzhouli Donghu,49,49.561,117.5809,Wind
 China,Huaneng Inner Mongolia Wuchuan Heishatu,49,41.1487,110.8354,Wind
-China,Huaneng Jiaxiang power station,660,35.3845,116.4432,Coal
-China,Huaneng Jinggangshan power station,1920,27.0467,115.0203,Coal
-China,Huaneng Jingmen power station,700,31.0582,112.2487,Coal
-China,Huaneng Jinling power station,2060,32.1716,119.0195,Coal
-China,Huaneng Jiutai power station,1340,44.1071,125.928,Coal
 China,Huaneng Kangbao Wind Power Phase 1,49,41.619,114.842,Wind
 China,Huaneng Keyouzhongqi Haoli,49,44.8161,121.9933,Wind
-China,Huaneng Laiwu power station,2660,36.1339,117.685,Coal
 China,Huaneng Laizhou Phase 2,49,37.32,119.8872,Wind
-China,Huaneng Linhe power station,600,40.7826,107.4909,Coal
-China,Huaneng Luntai power station,700,41.8215,84.0036,Coal
-China,Huaneng Luohuang power station,2640,29.3467,106.4339,Coal
-China,Huaneng Luoyang power station,970,34.5825,112.4002,Coal
-China,Huaneng Luoyuan power station,1320,26.4114,119.7643,Coal
-China,Huaneng Manzhouli Dalaihu power station,400,49.3957,117.6481,Coal
-China,Huaneng Manzhouli Guangming power station,400,49.5922,117.409,Coal
-China,Huaneng Mianchi power station,700,34.76,111.808,Coal
-China,Huaneng Nanjing Chemical Industrial Park power station,100,32.202,118.8794,Coal
-China,Huaneng Nanjing Jinling,780,32.17,119.01,Gas
-China,Huaneng Nanjing power station,640,32.2069,118.7532,Coal
 China,Huaneng Ningxia Qingtongxia,30.24,36.77,106.08,Solar
 China,Huaneng Panjin Dawa,49,40.8633,122.0386,Wind
-China,Huaneng Pingliang power station,2520,35.5014,106.7871,Coal
-China,Huaneng Qinbei power station,4400,35.1679,112.7162,Coal
-China,Huaneng Qinling power station,1200,34.5333,109.9381,Coal
-China,Huaneng Qufu power station,450,35.6078,116.9338,Coal
-China,Huaneng Ruijin power station,700,25.9241,115.1019,Coal
 China,Huaneng Shaanxi Jingbian Longzhou Phase 2,49,37.282,108.502,Wind
 China,Huaneng Shandong Hekou Phase 3,49,38.0492,118.4642,Wind
 China,Huaneng Shandong Hekou Phase 4,49,38.01,118.53,Wind
@@ -1149,12 +685,8 @@ China,Huaneng Shandong Rushan Phase 2 And Phase 3 Bundle,64,36.8014,121.5222,Win
 China,Huaneng Shandong Shouguang Phase 2 Wind,49,37.2548,118.959,Wind
 China,Huaneng Shandong Shouguang Phase 3 Wind,49,37.2845,118.8707,Wind
 China,Huaneng Shandong Yishui Mazhan Phase 1 Wind,49,36.1158,118.7694,Wind
-China,Huaneng Shangan power station,2540,38.057,114.1966,Coal
-China,Huaneng Shangdu power station,3720,42.2237,116.0293,Coal
-China,Huaneng Shanghai Baoshan,1200,31.46,121.4,Gas
 China,Huaneng Shanghai Chongming Qianwei,20,31.7005,121.605,Wind
 China,Huaneng Shanghai Chongming Qianwei Phase 2,40,31.737,121.527,Wind
-China,Huaneng Shantou power station,1200,23.3252,116.7364,Coal
 China,Huaneng Shanxi Ningwu Dongmafang Phase 1,49,38.7036,112.4244,Wind
 China,Huaneng Shanxi Pianguan,49,39.4119,111.8528,Wind
 China,Huaneng Shanxi Tianzhen Phase 1 Wind,49,40.1967,114.1509,Wind
@@ -1163,9 +695,7 @@ China,Huaneng Siping Phase 1,49,43.8917,123.6486,Wind
 China,Huaneng Siping Phase 3,48,43.8956,123.7075,Wind
 China,Huaneng Siping Xinfeng Phase 2,49,43.9064,123.7819,Wind
 China,Huaneng Siping Xinfeng Phase 4,49,43.8931,123.5714,Wind
-China,Huaneng Taicang power station,1900,31.6566,121.1799,Coal
 China,Huaneng Tieling Pingdingpu,49,42.3402,123.9705,Wind
-China,Huaneng Tongchuan power station,1200,34.8494,108.8891,Coal
 China,Huaneng Tongjiang Jiangsheng,49,47.9361,132.8886,Wind
 China,Huaneng Tongjiang Linjiang,49,47.9611,132.8606,Wind
 China,Huaneng Tongliao Baolongshan Phase 3,49,44.0386,122.5711,Wind
@@ -1186,61 +716,28 @@ China,Huaneng Tuokexun Baiyanghe Third Stage,49,43.081,88.7558,Wind
 China,Huaneng Weichang Yudaokou Phase 1,49,42.3321,117.0282,Wind
 China,Huaneng Wuchuan Lihanliang Phase 2,49,41.1325,110.8583,Wind
 China,Huaneng Wuchuan Shilatu,49,41.1078,110.8744,Wind
-China,Huaneng Wuhai Cogen power station,400,39.707,106.8297,Coal
-China,Huaneng Wuhai Haibowan power station,1060,39.3174,106.865,Coal
 China,Huaneng Wujiangyuan Baicaoping,49,26.9164,104.4964,Wind
-China,Huaneng Wulashan power station,600,40.6512,108.7674,Coal
-China,Huaneng Xinhua Daqing power station,530,46.1346,124.6006,Coal
-China,Huaneng Xining power station,700,36.6292,101.6288,Coal
 China,Huaneng Xinjiang Hami Santanghu Phase 1,49,44.2809,93.5486,Wind
 China,Huaneng Xinjiang Hami Santanghu Phase 2,49,44.2731,93.525,Wind
-China,Huaneng Yakeshi Huiliuhe power station,100,49.2836,120.8357,Coal
-China,Huaneng Yangliuqing power station,1300,39.1512,117.038,Coal
-China,Huaneng Yangluo power station,2400,30.6931,114.5437,Coal
-China,Huaneng Yantai power station,590,37.5326,121.3159,Coal
 China,Huaneng Yi County Laolongkou Wind,49,41.662,121.4833,Wind
-China,Huaneng Yichun power station,700,47.7384,128.7506,Coal
-China,Huaneng Yimin power station,3400,48.5497,119.7739,Coal
-China,Huaneng Yingcheng power station,400,30.9149,113.6611,Coal
-China,Huaneng Yingkou Coastal power station,700,40.5815,122.1921,Coal
-China,Huaneng Yingkou power station,1840,40.3042,122.1054,Coal
-China,Huaneng Yueyang power station,2524,29.4498,113.1623,Coal
-China,Huaneng Yuhuan power station,4200,28.1142,121.1398,Coal
 China,Huaneng Yunnan Eryuan Dalongtan,49,26.0867,100.1025,Wind
 China,Huaneng Yunnan Eryuan Ganhaizi,40,26.1572,100.1017,Wind
 China,Huaneng Yunnan Eryuan Huangcaopo,49,26.1711,100.1133,Wind
-China,Huaneng Yushe power station,600,36.9775,112.9547,Coal
 China,Huaneng Zhanjiang Nansan (Haifeng) Wind,49,21.1621,110.59,Wind
 China,Huaneng Zhenlai Mali Phase 2,49,45.8369,123.0028,Wind
-China,Huaneng Zuoquan power station,1262,37.0694,113.3526,Coal
 China,Huangang,108,32.52,121.14,Wind
-China,Huangdao power station,1770,36.039,120.2193,Coal
 China,Huangfeng Dam,225,35.8747,102.4334,Hydro
-China,Huanghua Cangzhou power station,2520,38.3094,117.879,Coal
-China,Huangjiaozhuang Coal,400,28.7166,104.5543,Coal
-China,Huangling waste coal power station,700,35.6603,108.9229,Coal
 China,Huanglongdai,8.8,23.77,113.74,Hydro
 China,Huanglongtan,510,32.68,110.52,Hydro
-China,Huangshi Landfill Gas,1,30.1997,114.99,Gas
-China,Huangshi power station,330,30.2287,115.0752,Coal
 China,Huangshui Huanghui,12,36.1794,103.1797,Hydro
-China,Huangtai power station,1360,36.7078,117.088,Coal
 China,Huanren,223,41.2897,125.3975,Hydro
-China,Huantai power station,180,36.9788,118.0399,Coal
-China,Huarun Cangnan power station,2000,27.4974,120.663,Coal
 China,Huashan,10,23.9,112.57,Hydro
-China,Huawei Hetian power station,270,37.1667,79.906,Coal
-China,Huayi Jinlong Cogen power station,200,44.4505,84.9699,Coal
-China,Huayin Zhuzhou power station,680,27.8581,113.1195,Coal
-China,Huayingshan power station,600,30.8882,107.0508,Coal
-China,Huaze Aluminum power station,600,35.6586,110.6691,Coal
 China,Hubei Baokang Siping,60,31.9874,111.1003,Hydro
 China,Hubei Chibi Lushuihe Jiedi Small,10,29.8206,113.7139,Hydro
 China,Hubei Dahebian,10,29.724,109.0675,Hydro
 China,Hubei Donggou,15,31.54,109.58,Hydro
 China,Hubei Enshi Laodukou,90,30.36,109.7261,Hydro
 China,Hubei Enshi Qinglonghu,40,30.1917,109.8611,Hydro
-China,Hubei Ezhou power station,1900,30.5519,114.6425,Coal
 China,Hubei Fang County Sanliping,70,31.9403,110.9719,Hydro
 China,Hubei Laifeng Jinlongtan,27,29.1475,109.2189,Hydro
 China,Hubei Lichuan Qiyueshan Wind,49,30.4156,108.7553,Wind
@@ -1253,12 +750,8 @@ China,Hubei Shenhe Hydro,4,32.0875,110.2183,Hydro
 China,Hubei Shiyan Longbeiwan,180,31.8806,110.0644,Hydro
 China,Hubei Shiyan Zhuxi Baishahe,45,32.0942,109.9196,Hydro
 China,Hubei Tianzhaihe,16,29.7553,109.1094,Hydro
-China,Hubei Xingfu power station,180,30.1919,112.6051,Coal
 China,Hubei Xuanen Jintan,8,29.7967,109.8386,Hydro
 China,Huhhot,1200,40.98,111.7,Hydro
-China,Huian Waste Incineration,24,24.9469,118.8506,Gas
-China,Huineng power station,270,34.7337,111.0823,Coal
-China,Huinong - Yinglite Coal,660,39.3075,106.7298,Coal
 China,Huitengliang (Beifeng),206,43.49,115.96,Wind
 China,Huitengliang Wind,49,43.5623,116.3,Wind
 China,Huitengxile,25,24.7,108.33,Wind
@@ -1266,11 +759,7 @@ China,Huitengxile,67.6,41.05,112.66,Wind
 China,Huitengxile Jingneng Wind,100,41.09,112.37,Wind
 China,Huitengxile Wind,100,41.11,112.35,Wind
 China,Huizhou,2400,23.27,114.31,Hydro
-China,Huizhou Cogen power station,660,22.7531,114.6271,Coal
-China,Huizhou LNG Gas,1080,22.76,114.61,Gas
-China,Huizhou Landfill,3,23.1091,114.3479,Gas
 China,Hulunbuir City Zhaluomude Datang Wind,49,49.1917,120.1667,Wind
-China,Hunan Changsha Qiaoyi Landfill,6,28.4211,112.9838,Gas
 China,Hunan Chenzhou Xiangdian Luhejin Wind,48,25.4422,112.7019,Wind
 China,Hunan Daxing Small,7,27.9023,110.9306,Hydro
 China,Hunan Dongping,72,28.2,111.2,Hydro
@@ -1284,11 +773,9 @@ China,Hunan Huitong Gaoyi,25,26.95,110.0167,Hydro
 China,Hunan Jinqiao Cascade Small,7,26.3569,110.5965,Hydro
 China,Hunan Laopokou,24,25.4,113.3014,Hydro
 China,Hunan Lengshuijiang Langshitan,36,26.7525,111.9678,Hydro
-China,Hunan Lianyuan power station,600,27.7662,111.8937,Coal
 China,Hunan Linwu Sanshiliuwan Wind,48,25.3736,112.4844,Wind
 China,Hunan Lizitang,9,26.7339,111.1075,Hydro
 China,Hunan Longhui Yuanmushan,16,27.085,111.0758,Hydro
-China,Hunan Loudi Miaopu Landfill Gas,1,27.7089,111.9908,Gas
 China,Hunan Luxi County Nengtan,6,28.228,109.968,Hydro
 China,Hunan Mayang Jinjiang Small,13,27.8878,110.0497,Hydro
 China,Hunan Qingxijiang,8,26.4792,110.3289,Hydro
@@ -1316,15 +803,7 @@ China,Hunan Zaoshi,120,29.6628,111.2369,Hydro
 China,Hunan Zhugaotan,33,28.5944,109.4644,Hydro
 China,Hunan Zishui First Cascade,25,27.0828,111.2986,Hydro
 China,Hunanzhen,270,28.69,118.84,Hydro
-China,Hunjiang power station,815,41.9655,126.4524,Coal
 China,Huolinhe Dongshan,48,45.4986,119.6994,Wind
-China,Huolinhe Zhanute power station,2380,45.4098,119.5971,Coal
-China,Huozhou power station,1200,36.5183,111.6823,Coal
-China,Huxian-2 power station,600,34.0749,108.6185,Coal
-China,Huzhou Municipal Solid Waste Incineration,15,30.8636,120.0964,Gas
-China,Ili Nangang Khorgas Cogen power station,100,44.1485,80.4372,Coal
-China,Ili Xintian Chemical power station,200,44.062,81.1886,Coal
-China,Inner Hangjin power station,660,39.92,109.1155,Coal
 China,Inner Mongolia Alashan,20,38.83,105.61,Solar
 China,Inner Mongolia Bayanur Wuliji Wind,49,41.3633,106.4625,Wind
 China,Inner Mongolia Bayinxile Wind,45,41.1611,112.7433,Wind
@@ -1390,17 +869,11 @@ China,Inner Mongolia Wujier Phase 1 Wind,49,40.11,107.21,Wind
 China,Inner Mongolia Wulanchabu Siziwangqi Phase II,60,41.31,111.44,Solar
 China,Inner Mongolia Wulatezhongqi Chuanjing Phase 5 Wind,49,41.9633,108.2617,Wind
 China,Inner Mongolia Wuliji Phase 2 Wind,50,41.2939,106.4002,Wind
-China,Inner Mongolia Xilin power station,600,43.9839,116.1314,Coal
-China,Inner Mongolia Xingan power station,680,46.0944,122.0225,Coal
 China,Inner Mongolia Xisu Zhurihe,49,42.3917,112.7778,Wind
 China,Inner Mongolia Yihewusu Phase 2 Wind,49,40.07,107.31,Wind
 China,Inner Mongolia Zhuozi Ii Wind,49,41.1056,112.6403,Wind
 China,Inner Mongolia Zhuozi Iii Wind,48,41.0661,112.6367,Wind
-China,Jiada Coal Mine Cmm And Vam,3,25.332,104.1858,Gas
 China,Jiami Phase 2 Yanyuan County,20,27.5167,101.0333,Hydro
-China,Jiamusi Zhongheng Cogen power station,125,46.8168,130.2887,Coal
-China,Jiamusi-2 power station,600,46.8322,130.4042,Coal
-China,Jianbi power station,2990,32.1779,119.5755,Coal
 China,Jiangbian Dam,330,28.6064,101.7055,Hydro
 China,Jiangkou (Chongqing) Dam,300,29.2365,107.8929,Hydro
 China,Jiangpinghe Dam,500,29.7389,110.3396,Hydro
@@ -1411,40 +884,24 @@ China,Jiangsu Dafeng Wind,200,33.1194,120.83,Wind
 China,Jiangsu Dongling,70,32.35,121.37,Wind
 China,Jiangsu Dongtai Phase 2 Wind,200,32.66,120.903,Wind
 China,Jiangsu Dongtai Wind,201,32.47,120.54,Wind
-China,Jiangsu Guohua Chenjiagang power station,1320,34.4242,119.7985,Coal
 China,Jiangsu Guoxin Dongling Phase 2,48,32.3282,121.4062,Wind
-China,Jiangsu Guoxin Jingjiang power station,1320,32.0307,120.3828,Coal
-China,Jiangsu Guoxin Yancheng power station,270,33.4002,120.117,Coal
 China,Jiangsu Huadian Guanyun,100,34.5138,119.6685,Wind
-China,Jiangsu Huadian Qishuyan,780,31.74,120.04,Gas
 China,Jiangsu Huadian Shangde Dongtai,20,32.8,120.93,Solar
-China,Jiangsu Huadian Wangting,780,31.44,120.44,Gas
-China,Jiangsu Jingshen Salt power station,60,33.5214,119.1132,Coal
-China,Jiangsu Kunshan Phase 2 Municipal Solid Waste Incineration,18,31.511,120.886,Gas
-China,Jiangsu Leeman Paper power station,150,31.7533,121.005,Coal
-China,Jiangsu Nanre Thermal power station,1200,32.2079,118.7531,Coal
-China,Jiangsu Nantong power station,3404,32.0321,120.7692,Coal
-China,Jiangsu OJI Paper Cogen power station,80,31.8268,120.9535,Coal
 China,Jiangsu Qidong Donghai Wind,94,31.7675,121.9094,Wind
 China,Jiangsu Qidong Wind,91,31.8333,121.85,Wind
 China,Jiangsu Rudong (Ii) Expansion Wind,100,32.3347,121.4533,Wind
 China,Jiangsu Rudong Chaojiandai Wind,150,32.4981,121.2486,Wind
 China,Jiangsu Rudong Huangang Dongling Wind,100,32.3508,121.3372,Wind
-China,Jiangsu Sheyanggang power station,1320,33.8185,120.4633,Coal
 China,Jiangsu Xiangshui Wind,201,33.947,119.497,Wind
-China,Jiangsu Zhangjiagang Huaxing,780,31.89,120.6,Gas
-China,Jiangsu Zhenjiang power station,1820,32.1852,119.2709,Coal
 China,Jiangxi Anfu Guanshan Small Bundling,6,27.3103,114.6844,Hydro
 China,Jiangxi Donggu,16,27.4433,114.5316,Hydro
 China,Jiangxi Duchang Jishanhu,30,29.2533,116.1589,Wind
-China,Jiangxi Fengcheng Mining Administration Coal Mine Methane,7,27.42,115.25,Gas
 China,Jiangxi Gongge,15,26.9469,114.5489,Hydro
 China,Jiangxi Huichang Baie Hydro,21,25.8472,115.5917,Hydro
 China,Jiangxi Huichang Yingnaogang,7,25.63,115.7,Hydro
 China,Jiangxi Jiujiang Changling,34,29.5261,116.0864,Wind
 China,Jiangxi Laohutou,7,25.61,115.78,Hydro
 China,Jiangxi Lean County Dongan Small,6,27.2361,115.8025,Hydro
-China,Jiangxi Leping Mining Administration Coal Mine Methane,5,29.15,117.29,Gas
 China,Jiangxi Liujinba Hydro,20,26.17,115.75,Hydro
 China,Jiangxi Longyuan,7,25.0683,114.798,Hydro
 China,Jiangxi Luohongkou,8,26.4081,114.2719,Hydro
@@ -1457,42 +914,23 @@ China,Jiangxi Xiuhe River Xiafang,36,29.235,114.8461,Hydro
 China,Jiangxi Yudu Xiashan,35,25.9164,115.1944,Hydro
 China,Jiangxi Yudu Yuezhou,36,25.9442,115.3606,Hydro
 China,Jiangya Dam,300,29.5416,110.739,Hydro
-China,Jiangyin Cogen power station,150,31.8436,120.4103,Coal
-China,Jiangyin Sulong power station,1214,31.9192,120.2054,Coal
-China,Jiangyin Xingcheng Steel Works power station,100,31.9511,120.3237,Coal
-China,Jiangyou,700,31.8,104.77,Gas
-China,Jiangyou power station,1260,31.8045,104.7679,Coal
 China,Jiangzi,360,27.52,115.13,Hydro
 China,Jianshanliangzi Wind,49,25.5636,101.2489,Wind
 China,Jiaojiping Hydroelectric,72,30.1,102.7,Hydro
-China,Jiaonan City Anaerobic Digestion,6,35.8519,120.025,Gas
 China,Jiaoyuanba,25,32.8306,105.0764,Hydro
 China,Jiaoziding Small Gulin County,6,28.0641,105.8211,Hydro
-China,Jiaozuo - Shenhua 7-8 Coal,1320,35.2234,113.2003,Coal
-China,Jiaozuo - Wanfang 3-4 Coal,270,35.2502,113.3725,Coal
-China,Jiaozuo - Wanfang 5-6 Coal,700,35.2502,113.3677,Coal
-China,Jiaozuo Boai power station,1320,35.221,113.1022,Coal
-China,Jiaozuo Wuzhi-1 Cogen power station,100,35.1245,113.3883,Coal
-China,Jiaozuo Zhouliu Landfill,2,35.1639,113.4358,Gas
-China,Jiaxing Xinjiaaisi Cogen power station,100,30.8441,120.7193,Coal
-China,Jiaxing power station,5000,30.6283,121.1436,Coal
-China,Jiayuguan - Datang Coal,1200,39.7951,98.3084,Coal
-China,Jiayuguan Aluminum power station,1400,39.8461,98.2122,Coal
 China,Jiema Hydro,20,31.01,102.31,Hydro
 China,Jiemian,300,25.94,118.04,Hydro
 China,Jiewei,3,28.7042,102.1131,Hydro
 China,Jilebulake,160,48.26,86.399,Hydro
-China,Jilin - Guodian Coal,650,44.0084,126.5367,Coal
 China,Jilin Baicheng Chaganhot Phase 2,15,45.903,122.4235,Wind
 China,Jilin Baicheng Chaganhot Wind,30,45.53,120.22,Wind
 China,Jilin Changling Phase 2,49,44.1982,123.8661,Wind
 China,Jilin Changling Wind Phase 1,49,44.1623,123.5919,Wind
-China,Jilin City Works power station,100,43.9039,126.5978,Coal
 China,Jilin Daan Dagangzi Wind Phase 3,49,45.2764,123.5022,Wind
 China,Jilin Daan Dagangzi Wind Phase 4,49,45.16,123.31,Wind
 China,Jilin Daan Dagangzi Wind Phase 5,42,45.22,123.38,Wind
 China,Jilin Daan Honggangzi Wind,48,45.616,123.942,Wind
-China,Jilin Hunchun Coal Mine Methane,4,42.8497,130.3019,Gas
 China,Jilin Longyuan Changling Shuanglong Phase 1 Wind,49,44.1667,123.9833,Wind
 China,Jilin Longyuan Changling Shuanglong Phase 2 Wind,49,44.2167,124.0003,Wind
 China,Jilin Longyuan Tongyu Phase 3 Wind,49,44.2167,122.0333,Wind
@@ -1515,126 +953,61 @@ China,Jilin Xiangyang 1st Phase Wind,400,45.2147,123.0671,Wind
 China,Jilin Zhenlai Mali Wind,49,45.8272,123.1358,Wind
 China,Jilintai,460,43.86,82.847,Hydro
 China,Jilintai II,100,43.84,82.784,Hydro
-China,Jinan Landfill Gas,3,36.4011,117,Gas
 China,Jinanqiao,2800,26.81,100.45,Hydro
-China,Jinchang - Gepic Coal,660,38.5013,102.2715,Coal
-China,Jincheng Chengzhuang Coal Mine Methane,18,35.5625,112.625,Gas
-China,Jinchuan Works power station,300,38.491,102.1687,Coal
-China,Jinchuan power station,270,42.1472,86.5134,Coal
 China,Jing Hong,1500,22.05,100.77,Hydro
-China,Jingdezhen power station,1320,29.1866,117.0842,Coal
 China,Jinggang,51,32.82,120.89,Wind
 China,Jinggangshan,36,26.417,114.15,Hydro
 China,Jinghong Mengsong,10,22.2003,100.8678,Hydro
-China,Jingling Sinopec power station,200,32.1541,118.9063,Coal
-China,Jingmei Wuhai Jinghai Waste Coal power station,660,39.6579,106.8622,Coal
 China,Jingneng Bejing Badaling,31,40.52,116.01,Solar
 China,Jingneng Chayouzhong Phase 2,48,41.22,112.7,Wind
-China,Jingneng Chifeng Waste Coal power station,270,42.289,119.0537,Coal
-China,Jingneng Energy Huaning Cogen power station,300,41.0193,113.16,Coal
-China,Jingneng Energy Jining power station,700,41.0533,113.1533,Coal
 China,Jingneng Huolinhe Phase 2,30,45.4188,119.3857,Wind
 China,Jingneng Inner Mongolia Keyou Zhongqi First Phase Wind,49,44.9987,121.6119,Wind
 China,Jingneng Jixiang Huaya Phase 2,49,43.47,115.77,Wind
-China,Jingneng Zhuozhou power station,350,39.5633,115.9992,Coal
 China,Jingshi Huili County,12,27.1292,102.4394,Hydro
-China,Jingtai Zhungeer Suancigou power station,600,39.7121,111.2012,Coal
-China,Jingui Mill power station,300,21.7697,108.5952,Coal
-China,Jingxi Xinfa Aluminum power station,825,23.2677,106.3854,Coal
-China,Jingyuan-2 power station,1240,36.73,104.7588,Coal
-China,Jingzhou City Waste Incineration,18,30.3997,112.1508,Gas
-China,Jinhai Mill power station,300,19.7726,109.1841,Coal
 China,Jinhanlazha  Niru Riverchina,58,27.748,100.232,Hydro
-China,Jining Yangcheng power station,300,35.7727,116.3194,Coal
-China,Jinjeng,700,39.89,116.53,Gas
 China,Jinji Hydro,25,23.22,110.83,Hydro
 China,Jinkouba,28,32.8477,104.8883,Hydro
-China,Jinling,700,32.17,119.02,Gas
-China,Jinneng Guojin power station,700,37.3532,112.0027,Coal
 China,Jinping I,3600,28.1823,101.6316,Hydro
 China,Jinping II,4400,28.2485,101.6445,Hydro
 China,Jinping Maguo River,10,22.825,103.4953,Hydro
-China,Jinsha Chayuan power station,1320,27.4934,106.4492,Coal
 China,Jinshan,30,47.23,132.27,Wind
 China,Jinshuitan,300,28.21,119.54,Hydro
 China,Jinxing Minhe County,24,36.3287,102.8785,Hydro
 China,Jinxiu Fengmuao Hydro,7,23.8803,110.0564,Hydro
-China,Jinyuan Thermal power station,50,31.722,117.2108,Coal
-China,Jinzhong Anping power station,300,37.643,113.6494,Coal
-China,Jinzhou Datang power station,600,41.1389,121.2154,Coal
-China,Jinzhushan power station,1950,27.6261,111.4819,Coal
-China,Jisco-1 power station,850,39.7938,98.3089,Coal
-China,Jisco-2 power station,700,39.7941,98.306,Coal
 China,Jishixia,1020,35.83,102.7,Hydro
 China,Jishou Huanglianxi,8,28.2144,109.8342,Hydro
 China,Jiudianxia,300,34.92,103.83,Hydro
-China,Jiujiang Petrochem power station,100,29.7423,116.0632,Coal
 China,Jiulong County Rekuhe Stage 2,10,29.044,101.576,Hydro
 China,Jiulong County Rekuhe Stage 3,13,29.018,101.561,Hydro
-China,Jiulong Paper Mill Hailong power station,270,31.5913,121.2502,Coal
-China,Jiulong Paper Mill Jiulong power station,320,31.5913,121.2502,Coal
-China,Jiulong Paper Mill power station,380,23.0351,113.5364,Coal
 China,Jiulong Xigu,249,28.8314,101.6158,Hydro
 China,Jiulongdi (Xianrendao),33.7,40.4,122.25,Wind
 China,Jiutiaoling Small,8,37.8864,102.1242,Hydro
-China,Jixi - Longmay Coal,185,45.3608,130.8341,Coal
-China,Jixi power station,850,45.345,130.865,Coal
-China,Jiyuan Landfill,1,35.0014,112.5461,Gas
 China,Jufudu Dam,285,22.9034,101.7724,Hydro
-China,Juhua Quzhou Complex power station,315,28.8974,118.8792,Coal
-China,Junliangcheng power station,700,39.0539,117.4131,Coal
-China,Junzheng Wuhai power station,500,39.4643,106.7014,Coal
 China,Kafang Smallscale Hydro,12,33.1345,107.3222,Hydro
-China,Kaidi Languang power station,270,33.6135,113.374,Coal
-China,Kaifeng-2 power station,1260,34.8063,114.4451,Coal
-China,Kailuan Guye power station,600,39.73,118.4582,Coal
 China,Kaixian Shengshan Small Hydro,9,31.2058,108.39,Hydro
 China,Kaiyuan Yemin Wind,49,42.4284,123.9156,Wind
-China,Kaiyuan power station,600,23.7434,103.2208,Coal
 China,Kanfeng Min County,15,34.3004,103.4502,Hydro
 China,Kangbao Tunken,100,41.987,114.781,Wind
 China,Kangbao Zhaoyanghe,49,42.133,114.583,Wind
-China,Kangbashi power station,700,39.5978,109.9087,Coal
 China,Kangleng,133.5,41.11,114.1,Wind
-China,Kangping power station,1200,42.7009,123.3658,Coal
 China,Kangyang,284.9,36.06,101.95,Hydro
-China,Kanshan power station,1200,34.41,117.5773,Coal
-China,Karamay power station,700,45.5427,85.0243,Coal
 China,Kashgar Tarim River Xiabandi,150,37.8385,75.5727,Hydro
 China,Keyouzhongqi Emuting Gaole Phase 1,49,45.3833,121.3667,Wind
 China,Keyouzhongqi Shenneng Hangali,50,45.0717,121.4933,Wind
-China,Keyouzhongqi power station,330,44.9819,121.4244,Coal
 China,Kuitun River Laolongkou,10,44.3558,84.7817,Hydro
 China,Kuitun River Stage 6,18,44.3203,84.7814,Hydro
-China,Kuitun-2 power station,100,44.4061,84.9285,Coal
 China,Kulun Banner Eleshun Nanliangshaoruo Wind,49,42.9786,121.6784,Wind
 China,Kunming Shilin,100,24.78,103.43,Solar
-China,Kunming power station,600,25.0148,102.3329,Coal
-China,Kunshan Coal,50,31.4091,120.923,Coal
-China,Laibin power station,1320,23.6949,109.1629,Coal
-China,Laicheng power station,1200,36.2547,117.6725,Coal
 China,Laizhou Diaolongzui,48,37.1,119.56,Wind
 China,Lajiaogou First Stage,16,30.2,102.19,Hydro
-China,Lamma Extension Gas,335,22.21,114.11,Gas
-China,Lamma Gas,920,22.22,114.1,Gas
-China,Landfill Linyi Landfill,1,35.3172,118.2975,Gas
 China,Langao Niping,14,32.15,108.9272,Hydro
 China,Langyashan,658,32.31,118.27,Hydro
-China,Lanhua Daning Coal Mine Methane,35,35.225,112.2506,Gas
 China,Lanxi Small Chengkou County Chongqing City,8,31.5402,108.5,Hydro
-China,Lanxi power station,2400,29.1861,119.5068,Coal
-China,Lanzhou Fanjiaping power station,660,36.0755,103.6774,Coal
-China,Lanzhou LanlÃ¼ power station,300,36.1564,103.3317,Coal
-China,Laogang Landfill,15,31.0636,121.8714,Gas
 China,Laohushao,390,40.9022,125.9744,Hydro
 China,Laowuhe Erji,10,26.6514,98.8975,Hydro
 China,Laxiwa,4200,36.0703,101.1855,Hydro
-China,Lee & Man Paper power station,216,22.938,113.5898,Coal
 China,Leibo County Changhe,18,28.2847,103.3828,Hydro
 China,Leibo County Mala,24,28.2525,103.3636,Hydro
-China,Leiyang Baiyang Coal,120,26.3667,112.873,Coal
-China,Leiyang Baiyang power station,120,26.4595,112.8681,Coal
-China,Leiyang power station,1020,26.3851,112.859,Coal
 China,Leizhou Dongli Wind,49,20.7,110.45,Wind
 China,Letan,600,23.97,108.61,Hydro
 China,Li County Suoluogou 1st Stage,10,31.4138,102.9807,Hydro
@@ -1642,14 +1015,12 @@ China,Lianbu Hydroelectric,130,27.8106,103.0257,Hydro
 China,Liancheng,40.25,37.92,120.75,Wind
 China,Liangfengke,52,32.8306,105.0764,Hydro
 China,Lianghekou Small,15,35.49,103.55,Hydro
-China,Liangjiang,934,29.78,106.51,Gas
 China,Liangjiang,20,42.58,128.09,Hydro
 China,Liangshan Chunheweishui Small,4,28.5289,102.8072,Hydro
 China,Liangshan Lianghong,24,29.0275,102.8039,Hydro
 China,Liangshan Paomaping,120,28.1833,101.3653,Hydro
 China,Liangzhou District Solar Park,50,38.11,102.34,Solar
 China,Lianhua,550,45.43,129.79,Hydro
-China,Liaocheng Zhonghua power station,1200,36.4659,115.9094,Coal
 China,Liaoning Changtu,49,42.48,124.1,Wind
 China,Liaoning Changtu Manjing Wind,49,42.83,124.12,Wind
 China,Liaoning Changtu Shihu Wind,49,42.867,124.217,Wind
@@ -1676,7 +1047,6 @@ China,Liaoning Kangping Zhangqiang Wind,49,42.6667,123,Wind
 China,Liaoning Linghai Nanxiaoliu,49,40.9428,121.4489,Wind
 China,Liaoning Linghai Shengli,49,42.9583,121.3819,Wind
 China,Liaoning Longyuan Kangping Shajintai Wind,49,42.6917,122.9147,Wind
-China,Liaoning Nanpiao power station,500,41.1257,120.6967,Coal
 China,Liaoning Nuhetu Wind,49,42.2244,122.3083,Wind
 China,Liaoning Province Zhangwu Mazongshan,49,42.4569,122.7842,Wind
 China,Liaoning Qianfoshan,49,42.5269,122.8669,Wind
@@ -1687,61 +1057,35 @@ China,Liaoning Xidayingzi,49,42.575,122.842,Wind
 China,Liaoning Xingcheng Liutaizi,49,40.3286,120.4739,Wind
 China,Liaoning Zhangwu,24,42.36,122.46,Wind
 China,Liaoning Zhangwu Pingandi,49,42.63,122.72,Wind
-China,Liaoning-2 power station,400,41.9234,124.0902,Coal
-China,Liaoning-3 power station,700,41.9222,124.0924,Coal
-China,Liaoyang Chemical power station,200,41.2037,123.2373,Coal
-China,Liaoyang Guocheng power station,50,41.2068,123.2357,Coal
-China,Liaoyuan Datang power station,660,42.872,125.1607,Coal
-China,Ligang power station,3960,31.9403,120.0764,Coal
 China,Lijiaxia Dam,1632,36.1179,101.8073,Hydro
 China,Lincang County Meiziqing 3rd Level,13,23.5297,100.1603,Hydro
 China,Lincang Mangnuohe Small,10,23.4186,100.0739,Hydro
 China,Lincang Yun County Xintangfang,18,24.15,100.0667,Hydro
-China,Linfen power station,600,36.1534,111.4849,Coal
-China,Ling Ao,3914,22.6,114.55,Nuclear
 China,Lingyun County Haokun,25,24.9281,106.4958,Hydro
-China,Linhai Msw Incineration,12,28.0167,120.2833,Gas
 China,Linjintan,270,28.76,111.21,Hydro
 China,Linkou Shengli,49,45.2778,129.9944,Wind
 China,Lintan Qingshishan Expansion,5,34.5806,103.6381,Hydro
 China,Lintao County Anjiaju Hydroelectric,15,35.679,103.691,Hydro
 China,Lintao County Ruilong,12,35.445,103.8506,Hydro
 China,Linxiang Langyahe,6,23.7292,100.2539,Hydro
-China,Linyi Huasheng power station,405,34.957,118.3057,Coal
-China,Linyi Xincheng Jinluo Cogen power station,50,35.2487,118.2952,Coal
-China,Linyi power station,1260,35.0071,118.3239,Coal
 China,Liu'ao,79.6,23.86,117.49,Wind
 China,Liujiashan,49,37.2097,105.3039,Wind
 China,Liujiaxia,1225,35.93,103.34,Hydro
-China,Liulin 1 Coal,1400,37.419,110.8243,Coal
-China,Liulin Liansheng power station,2000,37.4079,110.7761,Coal
 China,Liuping,120,31.8839,103.544,Hydro
 China,Liusha River First Cascade,12,21.5952,100.3553,Hydro
 China,Liuxihe,48,23.75,113.77,Hydro
 China,Liuyuan,25,32.9981,104.5589,Hydro
 China,Liuzhi Hydro,3,25.8925,105.8942,Hydro
-China,Liuzhou City power station,440,24.3655,109.3787,Coal
-China,Lixin Banji power station,2000,32.8972,116.2425,Coal
 China,Liyang,1200,31.24,119.38,Hydro
 China,Liyuan,2400,27.68,100.29,Hydro
-China,Liyuan Cogen power station,700,35.172,119.037,Coal
-China,Liyujiang-2A power station,630,25.9428,113.214,Coal
-China,Liyujiang-2B power station,1300,25.9404,113.1925,Coal
-China,Long Chen Paper Jingzhou captive power station,105,30.2609,111.5907,Coal
 China,Long Tou Shi,700,29.34,102.25,Hydro
-China,Longchuan power station,270,37.7947,113.7041,Coal
-China,Longgang Coal,270,34.1673,113.44,Coal
-China,Longgu Cogen power station,110,34.9527,116.8029,Coal
 China,Longhai Longjiao,48,24.2856,118.1036,Wind
-China,Longhua Baicheng power station,400,45.6331,122.8798,Coal
-China,Longhua Yanji power station,400,42.9123,129.5705,Coal
 China,Longjiang (Yunnan) Dam,240,24.2407,98.1103,Hydro
 China,Longkaikou,1900,26.53,100.42,Hydro
 China,Longkou,420,39.4208,111.3,Hydro
 China,Longli Phase 2 (Pingzi),48,26.3069,106.8344,Wind
 China,Longma Dam,240,22.8748,101.6463,Hydro
 China,Longnan Shimen Hydro,12,33.4722,104.7264,Hydro
-China,Longsheng Cogen power station,60,43.5175,124.86,Coal
 China,Longsheng Nanshan Phase 1,49,26.125,110.0633,Wind
 China,Longsheng Nanshan Phase 2,49,26.085,110.0517,Wind
 China,Longshou II Dam,157,38.7553,100.1008,Hydro
@@ -1750,46 +1094,29 @@ China,Longxigou Second Stage,18,28.8549,101.5763,Hydro
 China,Longyangxia,1280,36.12,100.92,Hydro
 China,Longyuan Huitengliang Wind Farm,300,43.45,116.15,Wind
 China,Longyuan Rudong Intertidal,131.3,32.53,121.22,Wind
-China,Luanhe power station,990,40.9401,117.761,Coal
 China,Luanjingtan Eco-immigrant Demonstration Area,10,37.93,105.38,Solar
-China,Luannan power station,116,39.4993,118.6465,Coal
-China,Lubanshan North And South Coal Mine Methane,8,28.12,104.61,Gas
 China,Lubasi,51,34.6081,103.3067,Hydro
 China,Lubei,106,25.61,119.76,Wind
-China,Lubei power station,660,38.0824,117.742,Coal
 China,Lubuge,450,24.82,104.54,Hydro
 China,Ludila,2160,26.2,100.82,Hydro
 China,Luding,920,29.95,102.23,Hydro
 China,Luertai Lintan County,12,34.3726,103.1833,Hydro
 China,Lufeng Jiadong First Phase,30,22.75,115.4167,Wind
-China,Luoding power station,270,22.8043,111.6189,Coal
 China,Luodu Small,10,28.0994,104.8403,Hydro
 China,Luogu,10,28.3458,103.1406,Hydro
 China,Luogu Hydroelectric,110,27.826,102.9953,Hydro
-China,Luohe Landfill,2,33.5056,113.9997,Gas
 China,Luoning Yumenhechina,10,34.3083,111.4063,Hydro
 China,Luopoba,30,29.93,109.2128,Hydro
-China,Luoyang Longyu Hongguang Power Station,165,34.549,112.1958,Coal
-China,Luoyang Mengjin power station,1200,34.8648,112.5307,Coal
-China,Luoyang Shoulong power station,110,34.7425,112.7729,Coal
-China,Luoyang Shouyangshan-3 power station,1260,34.7371,112.684,Coal
-China,Luoyang Zhangluoping Landfill,1,34.6347,112.3381,Gas
 China,Luquan County Baishui River III Hydroelectric,18,26.206,102.666,Hydro
 China,Luquan County Jiangbian,42,25.5233,102.4218,Hydro
 China,Lushi Yajiuhe,4,33.995,110.983,Hydro
-China,Lusigang power station,2640,32.0577,121.7267,Coal
 China,Luxi Nanmahe Ii Small Hydro,4,24.299,98.6228,Hydro
-China,Luzhou Chuannan power station,1200,28.7755,105.284,Coal
-China,Maanshan - Masteel Coal,525,31.7328,118.4892,Coal
-China,Maanshan Steel power station,375,31.7175,118.4667,Coal
 China,Mabian County Heizu,16,28.517,103.363,Hydro
-China,Macau Power Station,64.2,22.2,113.55,Gas
 China,Madushan Dam,240,23.0468,103.2845,Hydro
 China,Maguan Daliangzi Hydro,32,23.023,104.3933,Hydro
 China,Malong River 2#,12,24.1625,99.5864,Hydro
 China,Malong River 3#,10,24.1564,99.5444,Hydro
 China,Malutang Dam,400,23.0165,104.743,Hydro
-China,Manas power station,1020,44.318,86.1689,Coal
 China,Manasi River Stage 1 of Hongshanzui Plant,50,43.58,85.57,Hydro
 China,Manla Dam,20,28.847,89.8338,Hydro
 China,Manwan,1605,24.62,100.45,Hydro
@@ -1797,75 +1124,36 @@ China,Manzhouli Shenneng North,49,49.442,117.6,Wind
 China,Manzhouli Shenneng North Lingquan,49,49.4319,117.5514,Wind
 China,Manzhouli Shennengyuan,19,49.425,117.53,Wind
 China,Mao County Mutuo,6,31.53,103.67,Hydro
-China,Maoming - Ruineng Coal,510,21.676,110.8784,Coal
 China,Maoming Dianbai Lingmen,49,21.6161,111.3697,Wind
-China,Maoming Refinery power station,100,21.6737,110.8745,Coal
 China,Maoming Zhongao First Phase Wind,49,22.279,111.428,Wind
 China,Maoyandong Stage 4 Luxi County,15,24.3417,103.8244,Hydro
-China,Mawan power station,1840,22.4818,113.872,Coal
 China,Mayang County Jiangkou Smallscale,10,27.7017,109.7333,Hydro
 China,Meigu County Silipin,6,28.7694,103.2167,Hydro
 China,Meijiashan,49,25.5253,101.2911,Wind
-China,Meixin captive power station,700,34.9653,108.9758,Coal
-China,Meizhou Landfill Gas,2,23.1167,113.25,Gas
-China,Meizhou Wan power station,2786,25.1609,119.0334,Coal
 China,Mengshan Xingupai Hydro,10,24.23,110.48,Hydro
-China,Mengtai Beijiao power station,660,39.8465,109.9844,Coal
 China,Mianhutan,600,24.662,116.5955,Hydro
 China,Mianning County Longjiagou,6,28.2657,101.5217,Hydro
-China,Mianyang Landfill Gas,2,31.4139,104.7183,Gas
 China,Miaojiaba Dam,240,32.8396,105.0013,Hydro
 China,Minqin Hongshagang Chenjiaqianjing Nanjing Wind,49,34.79,102.061,Wind
 China,Minqin Hongshagang Xianshuijing West Wind,49,39.06,102.0014,Wind
 China,Miyi Wantan Hydroelectric,32,27.38,101.55,Hydro
 China,Mohu Huaiji County,17,23.817,112.2335,Hydro
 China,Mowu Dam,30,27.0143,117.6992,Hydro
-China,Mudanjiang Guojiagou Landfill Gas,3,44.6297,129.5328,Gas
-China,Mudanjiang-2 power station,1230,44.6571,129.6504,Coal
 China,Muguadun Hydroelectric,20,32.3605,104.81,Hydro
 China,Musa River 1st Level Small,15,26.1219,98.805,Hydro
 China,Nagqu Geothermal,1,31.4615,92.05,Geothermal
 China,Nalao Small,8,24.21,105.25,Hydro
-China,Nanchang Changbei Mill power station,100,28.771,115.8999,Coal
 China,Nandan River 3rd Level,6,24.8247,98.035,Hydro
 China,Nandong Hydro,12,26.2,108.16,Hydro
-China,Nanhai Changhai power station,125,22.9398,113.1428,Coal
-China,Nanhai Foshan-2 power station,660,22.8859,112.9178,Coal
-China,Nanhai Waste Incineration 2,30,23.1575,113.0328,Gas
 China,Nanjiangkou Small Yunan County,12,23.068,111.818,Hydro
-China,Nanjing Chemical Industrial Park Cogen power station,710,32.2721,118.8161,Coal
-China,Nanjing Meishan power station,110,31.9007,118.614,Coal
-China,Nanjing Mine power station,600,34.3733,117.3289,Coal
-China,Nanjing Tianjingwa Landfill Gas,6,27.11,110.59,Gas
 China,Nanlao Small Leishan County,4,26.245,108.0586,Hydro
 China,Nanpian River,5,24.5519,97.7189,Hydro
-China,Nanpu Quanzhou power station,1940,25.2038,118.9439,Coal
-China,Nanre Coal,1200,31.9473,118.6301,Coal
-China,Nanshan Aluminum Donghai power station,1730,37.7286,120.4433,Coal
-China,Nanshan Gas,132,18.32,109.16,Gas
-China,Nanshan Thermal power station,420,37.5931,120.4704,Coal
-China,Nantun Mine power station,100,35.3761,116.87,Coal
-China,Nanya Cogen power station,148,31.333,120.9784,Coal
-China,Nanyang Yahekou power station,1900,33.3082,112.6451,Coal
-China,Nayong-1 power station,1200,26.6527,105.1822,Coal
-China,Nayong-2 power station,1200,26.5976,105.2029,Coal
-China,Neijiang Baima 2 Coal,600,29.5253,105.0136,Coal
-China,Neijiang Baima power station,900,29.5245,105.0121,Coal
-China,Neijiang Gaoba power station,100,29.5545,105.0846,Coal
 China,Nepg Qingtongxia Niushoushan Phase 1,49,37.7057,106.0739,Wind
 China,Nepg Qingtongxia Niushoushan Phase 2,49,37.6994,106.0735,Wind
 China,Niaoerchao,20,28.83,110.8667,Hydro
 China,Nierji,250,48.26,86.399,Hydro
 China,Nina,160,36.06,101.27,Hydro
-China,Ningbo Boxboard Mill power station,278,29.963,121.7698,Coal
-China,Ningbo Works power station,450,29.9126,121.9032,Coal
-China,Ningbo Yinzhou Landfill,2,29.7519,121.3896,Gas
-China,Ningde,4072,27.0446,120.2855,Nuclear
-China,Ningdong - Gangue Coal,600,38.1825,106.5131,Coal
-China,Ningdong Maliantai power station,660,38.1734,106.5704,Coal
-China,Ningdong Younglight power station,660,38.192,106.6813,Coal
 China,Ninger Mengxian River Second Cascade Hydro,16,22.8214,101.1931,Hydro
-China,Ninghai power station,4400,29.481,121.5109,Coal
 China,Ninglang County Shenjiacun Hydro,6,27.4936,100.8759,Hydro
 China,Ningxia Dalisi,40,38.333,105.886,Wind
 China,Ningxia Datang International Qingtongxia Stage 2,20,37.94,105.83,Solar
@@ -1885,13 +1173,10 @@ China,Ningxia Hongsipup PV No.1 Plant,50,37.5953,106.0942,Solar
 China,Ningxia Jingneng Lingwu Baitugang,49,37.6667,106.5333,Wind
 China,Ningxia Jingneng Taiyangshan,10,37.48,106.58,Solar
 China,Ningxia Jinyang,30,37.57,105.07,Solar
-China,Ningxia Jinyuyuan Chemical power station,100,37.8828,106.022,Coal
-China,Ningxia Liupanshan power station,660,36.0452,106.2919,Coal
 China,Ningxia Mahuang Mountain Huianpu Hanas Phase One,49,31.225,106.9,Wind
 China,Ningxia Mahuang Mountain Huianpu Master Phase One,49,37.18,106.95,Wind
 China,Ningxia Mahuangshan Phase 1,49,37.3633,107.1258,Wind
 China,Ningxia Mahuangshan Phase 2,49,37.3478,107.1797,Wind
-China,Ningxia Meili power station,150,37.5124,105.2777,Coal
 China,Ningxia Ningdong (Lingwu Changliushui) Datang Angli,49,37.8088,106.3677,Wind
 China,Ningxia Ningdong (Lingwu Shagou) Datang Angli,49,37.7717,106.3857,Wind
 China,Ningxia Ningdong Shiyan,49,37.5356,106.5228,Wind
@@ -1900,7 +1185,6 @@ China,Ningxia Qingshan Windpower Guodian Phase 2,49,37.5309,107.1733,Wind
 China,Ningxia Qingtongxia,10.52,37.94,105.82,Solar
 China,Ningxia Qingtongxia,30,37.9918,105.8075,Wind
 China,Ningxia Shapotou Yellow River,120,36.59,104.17,Hydro
-China,Ningxia Shizuishan Coal Mine Methane,4,39.2333,106.75,Gas
 China,Ningxia Shizuishanp,10,39.0994,106.5222,Solar
 China,Ningxia Taiyangshan Jingneng Second Phase,49,37.4667,106.6,Wind
 China,Ningxia Taiyangshan Phase I,10,37.52,106.6,Solar
@@ -1917,10 +1201,8 @@ China,Ningxia Tongxin Datang New Energy Phase 1,50,36.6906,106.4315,Wind
 China,Ningxia Tongxin Jiaze Kangjiawan Wind,49,37.0767,106.1853,Wind
 China,Ningxia Tongxin Jiaze Tianjialing Wind,49,37.2978,105.8683,Wind
 China,Ningxia Tongxin Magaozhuang Wind,49,36.8911,106.4696,Wind
-China,Ningxia Wulan Coal Mine Methane,8,39.2386,106.2297,Gas
 China,Ningxia Yanchi Qingshan Wind Power Guodian Phase 1,49,37.5417,107.2214,Wind
 China,Ningxia Yinyi,49,37.18,105.54,Wind
-China,Ningxia Zhongning-2 power station,660,37.59,105.706,Coal
 China,Ningxia Zhongwei (Xuanhe) Guodian Phase I,20,37.39,105.41,Solar
 China,Ningzia Shizuishan Phase II,10,39.26,106.71,Solar
 China,Niudu On Furong River,20,28.3347,107.4064,Hydro
@@ -1930,46 +1212,20 @@ China,Niutouling,43,23.44,117.07,Wind
 China,Niutoushan (Fujian) Dam,100,27.3657,119.4298,Hydro
 China,Nongguan Hydro,2,25.8621,105.8979,Hydro
 China,Nongnan Small,12,24.19,105.33,Hydro
-China,North United Power Mengxi power station,600,39.8926,106.7661,Coal
 China,Nuozhadu,5850,22.6409,100.4287,Hydro
-China,Ordos Junzheng power station,660,39.9041,106.7679,Coal
-China,Ordos Power Qipanjing power station,1960,39.3857,106.9657,Coal
-China,Ordos Resources Qipanjing power station,660,39.3503,107.01,Coal
-China,Ordos Shendong power station,200,39.3293,110.1518,Coal
-China,Panbei power station,600,26.0645,104.5341,Coal
 China,Pangduo,160,30.18,91.352,Hydro
 China,Panjiakou Dam,150,40.3895,118.2803,Hydro
-China,Panjin Liaohe Fortum power station,60,41.2,122.0058,Coal
-China,Panjin Xinli power station,700,41.1366,122.1361,Coal
 China,Pankou,513,32.21,110.15,Hydro
-China,Pansan Coal Mine Methane,8,32.38,116.59,Gas
-China,Pansan power station,270,32.8192,116.7428,Coal
-China,Panshan power station,2260,39.9793,117.4628,Coal
-China,Panxian-1 power station,1320,26.0106,104.5161,Coal
-China,Panxian-2 power station,2400,25.4692,104.5924,Coal
-China,Peixian Coal,33,34.7151,116.9109,Coal
 China,Penglai Daliuhang Phase 1,49,37.5281,121.0267,Wind
 China,Pengshui,1750,29.2,108.2,Hydro
-China,Penny's Bay,300,22.32,114.04,Oil
-China,Penny's Bay Oil,300,22.32,114.04,Oil
-China,PetroChina Jinxi Refinery power station,100,40.747,120.8084,Coal
 China,Pingban,405,24.82,105.49,Hydro
 China,Pingbian Guanyintuo Hydro,40,28.5747,103.7031,Hydro
-China,Pingdingshan Luyang power station,2060,33.8211,113.0146,Coal
-China,Pingdingshan Ruiping power station,270,34.1168,112.8184,Coal
-China,Pingguo Aluminum power station,90,23.339,107.5104,Coal
 China,Pingju,4,28.131,109.146,Hydro
 China,Pinglu Tianrun Zhangdianzhen Phase 1,49,34.9056,111.9556,Wind
-China,Pingshi power station,600,25.2589,113.0655,Coal
-China,Pingshuo Gangue power station,700,39.4726,112.3225,Coal
 China,Pingtou,180,28.058,103.304,Hydro
 China,Pingwu County Sierhe 1st Stage,16,32.8964,104.0217,Hydro
 China,Pingwu Renjiaba Smallchina,12,32.2433,104.3309,Hydro
-China,PowerChina Huating power station,290,35.1953,106.5689,Coal
 China,Pu Bu Gou,4260,29.21,102.84,Hydro
-China,Pucheng power station,2580,34.9783,109.8,Coal
-China,Puqi Xianning power station,2600,29.6653,113.8734,Coal
-China,Pushan-5 power station,250,33.099,112.5552,Coal
 China,Pushihe,1200,40.42,124.68,Hydro
 China,Putian Dongqiao,48,25.2284,119.1589,Wind
 China,Putian Houhai Wind,48,25.3039,119.2077,Wind
@@ -1978,29 +1234,19 @@ China,Putian Shicheng,40,25.2692,119.3639,Wind
 China,Putian Shicheng Phase 2 Wind,49,25.264,119.3467,Wind
 China,Putian Shijing,40,25.2102,119.2899,Wind
 China,Putian Shijing Phase 2,14,25.1894,119.2698,Wind
-China,Puyang Longfeng power station,600,35.7695,115.2547,Coal
-China,Puyang Pangking power station,420,35.7528,114.9838,Coal
 China,Qianan Tengzi 2nd Phase,49,45.1125,124.1097,Wind
 China,Qianan Tengzi B,49,45.1366,124.0244,Wind
-China,Qianbei power station,1200,27.4757,106.2582,Coal
-China,Qiandong power station,1200,27.1251,108.7704,Coal
 China,Qianguangtan Small,9,35.3708,102.9389,Hydro
 China,Qianshan Jiujinggang,20,30.8038,116.4636,Hydro
-China,Qianwan Gas,1170,22.51,113.85,Gas
-China,Qianxi power station,1860,27.0512,106.1261,Coal
 China,Qiaogong,456,23.63,108.95,Hydro
 China,Qiaohe Second,10,30.4331,110.3069,Hydro
-China,Qiaotou power station,270,36.9147,101.7062,Coal
 China,Qijiaping,16,35.5033,103.8317,Hydro
 China,Qilinsi,111,32.76,105.33,Hydro
-China,Qilu Works power station,490,36.7852,118.2131,Coal
 China,Qingcaosha Wind,48,31.26,121.36,Wind
 China,Qingdao Longxin Wind Phase 1,49,36.8568,119.9112,Wind
-China,Qingdao power station,1200,36.1123,120.3291,Coal
 China,Qingfeng Small Shengzhou,4,29.71,120.841,Hydro
 China,Qinghai Baokuhe Iii,15,37.0831,101.5706,Hydro
 China,Qinghai Chaqia Phase 1,49,36.615,99.355,Wind
-China,Qinghai Datong power station,600,36.9147,101.7061,Coal
 China,Qinghai Delingha Gahai Wind Power Phase 1,49,37.116,97.35,Wind
 China,Qinghai Delingha Xiehe,30,37.35,97.164,Solar
 China,Qinghai Dongxuerji,8,37.1333,102.3,Hydro
@@ -2019,35 +1265,23 @@ China,Qinghai Nazixia,87,37.5975,103.1533,Hydro
 China,Qinghai Province Xinghai County Moduo,48,35.3195,100.1605,Hydro
 China,Qinghai Qingshizui Small,10,37.4939,101.3392,Hydro
 China,Qinghai Shanyizhongchuan,10,37.37,97.224,Solar
-China,Qinghai Wanxiang A&M power station,700,36.5849,101.4945,Coal
 China,Qinghai Yuhui Solar,20,37,98.395,Solar
 China,Qinghai longyuan Golmud Phase III,20,36.36,95.24,Solar
-China,Qingshan power station,1030,30.6288,114.4368,Coal
 China,Qingshui River Dahuashui,200,26.8618,107.2737,Hydro
-China,Qingshuihe captive power station,750,25.2818,104.8661,Coal
 China,Qingtongxia,272,37.88,105.99,Hydro
-China,Qingtongxia Aluminum Works power station,660,37.9238,105.9113,Coal
 China,Qingxi Dam,144,24.5623,116.6176,Hydro
 China,Qingyuan,44,23.603,112.954,Hydro
 China,Qingyuan,1280,23.75,112.85,Hydro
 China,Qingyuan County Longjing Hydroelectric,8,27.4538,119.2412,Hydro
-China,Qinhuangdao-2 power station,1630,39.9456,119.6433,Coal
-China,Qinshan 2,4101,30.433,120.9501,Nuclear
-China,Qinxin Coal Mine Methane,1,36.57,112.21,Gas
 China,Qinyu Small,5,33.787,104.535,Hydro
 China,Qiqihaer Nianzishan Wind,49,47.5715,122.9295,Wind
 China,Qirehataer Xinjiang,210,37.8414,75.7606,Hydro
-China,Qishuyan Gas,1140,31.74,120.04,Gas
 China,Qixia Tangshanpeng,21,37.1733,120.5032,Wind
 China,Quantou,49.3,42.84,124.2,Wind
 China,Quanzhou Liupu,15,26.2269,111.2619,Hydro
-China,Qudong power station,660,35.2446,113.8522,Coal
-China,Qujing power station,1200,25.6618,104.0667,Coal
-China,Qunsheng power station,100,35.1502,109.9308,Coal
 China,Raoping Haishan Wind,49,23.5167,116.9833,Wind
 China,Renewable Energy For Grid,5,36.0406,103.4504,Hydro
 China,Renkeng Longchuan County,25,24.28,115.21,Hydro
-China,Renqiu power station,700,38.7453,116.1533,Coal
 China,Reshuitang 2nd Cascade,15,32.3694,103.0506,Hydro
 China,Resources Beipiao Xiangyang,49,42.0855,120.4551,Wind
 China,Resources Haiyang Dongfang Phase 1 Wind,49,36.9442,121.0267,Wind
@@ -2056,46 +1290,29 @@ China,Resources New Energy Lianzhou Yanxi Wind,49,25.1139,112.5944,Wind
 China,Resources New Energy Lufeng Chengmei,49,22.8665,115.7708,Wind
 China,Resources Weichang Yudaokou Baihuapo Wind,49,42.354,117.314,Wind
 China,Resources Weichang Yudaokou Yangbaishun Wind,49,42.374,117.277,Wind
-China,Rizhao Iron and Steel Cogen power station,660,35.1562,119.3666,Coal
-China,Rizhao power station,2060,35.345,119.5111,Coal
 China,Roncheng Wind,48,37.15,122.3833,Wind
 China,Rongcheng Dongchudao,15,37.2,122.34,Wind
 China,Rongge Hydro.,90,25.44,106.72,Hydro
-China,Ronghai power station,270,36.4998,112.9665,Coal
-China,Rudong Coal,45,32.3069,121.1443,Coal
 China,Rudong County Wind,100,32.3203,121.21,Wind
-China,Ruiming power station,250,23.0791,113.4966,Coal
 China,Rundi Expansion,12,35.3231,103.8311,Hydro
 China,Ruwu Small,15,34.6461,103.7717,Hydro
-China,SDIC Dananhu power station,1320,42.3055,93.3519,Coal
-China,SDIC Jincheng power station,600,35.4605,112.9255,Coal
-China,SDIC Qinzhou power station,3360,21.7012,108.625,Coal
-China,SDIC Yili Yining Cogen power station,660,43.9263,81.2211,Coal
-China,SGCC Ewenki power station,1200,48.7296,119.9407,Coal
 China,Saihanba,165.75,42.61,117.68,Wind
 China,Saihanba East,45,42.36,117.4,Wind
 China,Saihanba North,45,42.175,118.5442,Wind
-China,Salaqi power station,600,40.5334,110.5647,Coal
-China,San Yuan Fu Da Coalmine Methane,7,36.9389,113.2944,Gas
 China,Sanbanxi Dam,1000,26.6078,109.0475,Hydro
 China,Sancha River Phase 1,20,28.24,98.53,Hydro
 China,Sancha River Phase 2,16,28.23,98.51,Hydro
 China,Sandaogou,49,41.8666,113.8917,Wind
 China,Sandaowan,112,38.3,99.59,Hydro
-China,Sanhe Yanjiao power station,1300,39.9528,116.8487,Coal
 China,Sanmexia,400,34.83,111.34,Hydro
-China,Sanshui Hengyi power station,1200,23.0178,112.8436,Coal
 China,Sdic Baiyin Jiancaitang Second Phase Wind,49,36.944,104.7578,Wind
 China,Sdic Hebei Zhangjiakou Kangbao Pasture,100,42.2,114.45,Wind
 China,Sdic Qinghai Golmudp (Phase 2),30,36.3731,95.1406,Solar
 China,Sdic Shizuishan Second Phasep,20,39.1041,106.5231,Solar
-China,Sdic Xiyang Baiyangling Coal Mine Methane,16,37.2423,110.5106,Gas
-China,Sdic Xiyang Huangyanhui Coal Mine Methane,10,37.5906,113.6661,Gas
 China,Second Hetao Irrigation District Inner Mongolia,10,40.6681,107.2681,Hydro
 China,Seergu,150,31.8939,103.43,Hydro
 China,Shaanxi Baituling,49,32.0781,109.5381,Hydro
 China,Shaanxi Baoji Yanjiahe,7,34.37,106.77,Hydro
-China,Shaanxi Beiyuan power station,500,38.7366,110.1665,Coal
 China,Shaanxi Chenggu Shuangxi Small,6,33.4148,107.193,Hydro
 China,Shaanxi Didonghe Hydro,8,32.7228,106.3625,Hydro
 China,Shaanxi Fanshigou Phase 2 Wind,49,37.3794,107.8,Wind
@@ -2110,51 +1327,30 @@ China,Shaanxi Ningshan Luotuoya Bundle Small Hydro,14,33.5461,108.6122,Hydro
 China,Shaanxi Province Ningshan County Small Hydro,13,32.02,108.16,Hydro
 China,Shaanxi Songjiayan Youshuijie And Heixiazi Bundled Hydro,18,33.3361,107.7569,Hydro
 China,Shaanxi Tiefo Guanyuanchina,10,32.3236,108.7744,Hydro
-China,Shaanxi Tongchuan Huachen Coal Mine Methane,7,35.2072,108.8025,Gas
 China,Shaanxi Wenjing,48,34.5558,108.8317,Hydro
-China,Shaanxi Youser Yulin power station,1650,38.2158,109.7282,Coal
 China,Shaba,24,26.326,100.914,Hydro
 China,Shahe,100,31.29,119.43,Hydro
-China,Shahe power station,1200,36.8535,114.3243,Coal
 China,Shandong Changdao Wind,27,37.56,120.43,Wind
-China,Shandong Chenming Mill power station,255,36.8592,118.7001,Coal
 China,Shandong Dezhou,10,37.35,116.38,Solar
-China,Shandong Haihua Weifang power station,150,37.1305,119.0328,Coal
 China,Shandong Haiyang Qiuershan Wind,15,36.6036,120.9656,Wind
-China,Shandong Hualu Hengsheng power station,174,37.4623,116.243,Coal
 China,Shandong Huaneng Hekou Phase 1,49,37.9889,118.4939,Wind
-China,Shandong Huatai power station,270,37.0091,118.4905,Coal
-China,Shandong Jinling power station,100,36.8499,118.1751,Coal
-China,Shandong Laiwu Landfill,1,36.2839,117.7278,Gas
 China,Shandong Liuwangzhuang,38,36.5331,118.7,Wind
 China,Shandong Longjoin Zhaoyuan Phase 1,49,37.4194,120.2381,Wind
 China,Shandong Muping Phase 1,42,37.3447,121.82,Wind
 China,Shandong Penglai Phase 2,48,37.7433,120.6958,Wind
-China,Shandong Qingdao Xiaojianxi Landfill Gas,3,36.2806,120.1517,Gas
 China,Shandong Qixia Tangshan,46,37.247,120.874,Wind
 China,Shandong Rushan Luneng,42,36.7336,121.5197,Wind
 China,Shandong Taipingshan,49,36.1722,118.7128,Wind
 China,Shandong Weihai Wind,69,37.5028,122.1208,Wind
 China,Shandong Wendeng Zhangjiachan,49,37.0936,122.0519,Wind
-China,Shandong Xingda Cogen power station,360,37.5858,118.6441,Coal
 China,Shandong Yishui Tangwangshan,20,35.8083,118.6333,Wind
 China,Shandong Yizhao,10,34.97,117.44,Solar
-China,Shandong Zhongtai power station,300,35.8581,117.6958,Coal
 China,Shangang,45.05,23.43,117.09,Wind
 China,Shangbao Small,14,26.2333,112.9667,Hydro
-China,Shanghai - Huaneng Gas,1212,31.46,121.4,Gas
-China,Shanghai Caojing Jinshan,600,30.79,121.45,Gas
-China,Shanghai Caojing power station,2000,30.7607,121.4008,Coal
 China,Shanghai Chongming Beiyan Wind,48,31.5833,121.8833,Wind
 China,Shanghai Chongming Dongtan,15,31.5167,121.9433,Wind
 China,Shanghai Fengxian Bay Capacity Expansion,14,30.9856,121.9328,Wind
-China,Shanghai Gaoqiao power station,150,31.3253,121.5665,Coal
-China,Shanghai Jinshan-1 power station,250,30.6984,121.2777,Coal
-China,Shanghai Lingang,1400,30.85,121.79,Gas
-China,Shanghai Lingang,1560,30.85,121.83,Gas
 China,Shangjianpo Hydro.,60,25.6311,106.5489,Hydro
-China,Shangqiu Landfill,2,34.3843,115.5567,Gas
-China,Shangwan Cogen power station,300,39.2885,110.1905,Coal
 China,Shangwulipu Hydro,9,41.2019,79.175,Hydro
 China,Shangyi Hanjiazhuang Wind Phase 1,49,41.112,114.458,Wind
 China,Shankou,220,47.9,87.204,Hydro
@@ -2164,123 +1360,56 @@ China,Shankouyan Small Pingxiang City,12,27.587,114.008,Hydro
 China,Shanmugou Small,10,28.49,102.59,Hydro
 China,Shannipo On Beipan River,185,26.2414,104.8464,Hydro
 China,Shanshan Phase I,20,42.98,90.001,Solar
-China,Shantou Chenghai Jieyuan Municipal Solid Waste,15,23.546,116.819,Gas
-China,Shanwei Haifeng power station,2000,22.7545,115.0426,Coal
-China,Shanwei Honghaiwan power station,2520,22.7061,115.5543,Coal
-China,Shanxi Coal Yangquan Coal Mine Methane,30,37.4,112.54,Gas
 China,Shanxi Dingxiang Lingzidi,5,38.4376,113.2555,Hydro
-China,Shanxi Guofeng power station,600,37.2278,111.7347,Coal
-China,Shanxi Guojin power station,600,37.5476,112.2322,Coal
-China,Shanxi Herui Coal Mine Methane,45,35.5858,112.4878,Gas
 China,Shanxi Huadian Yanggao Nandingshan Wind,48,39.8672,113.8164,Wind
 China,Shanxi Limin Phase 2,49,39.336,112.1185,Wind
 China,Shanxi Lingqiu Hanfengling Wind,49,39.5928,113.9975,Wind
-China,Shanxi Liulin Coal Mine Methane,12,37.0807,110.373,Gas
 China,Shanxi Pinglu Baiyushan,49,39.6528,111.1028,Wind
 China,Shanxi Pinglu Kaidi Wind,49,34.8069,111.1428,Wind
-China,Shanxi Ruiguang power station,660,37.7843,112.72,Coal
 China,Shanxi Shuozhou Pinglu Dashantai (Phase 1),49,39.6885,112.321,Wind
 China,Shanxi Shuozhou Pinglu Tianrui Wind,199,39.6172,112.1336,Wind
 China,Shanxi Tianzhen Daliangshan Phase 1,49,40.5925,114.1508,Wind
 China,Shanxi Wutai Gengzhen,1,38.767,113.6436,Hydro
-China,Shanxi Yangcheng Coal Mine Methane,16,35.12,112.37,Gas
 China,Shanxi Yangcheng Motan,6,35.3608,112.5899,Hydro
-China,Shanxi Yaoguang power station,400,37.2193,112.2895,Coal
 China,Shanxi Yu County Wangjiazhuang,6,38.4242,113.2738,Hydro
 China,Shanxi Yu County Yanjiazhuang,4,38.4291,113.5161,Hydro
-China,Shanxi Yuguang power station,600,39.6166,112.7998,Coal
 China,Shanxi Yulong Youyu Niuxinbao,49,40.1007,112.501,Wind
 China,Shanxi Zezhou Caohe,9,35.2945,112.6202,Hydro
 China,Shanxi Zezhou Dongjiaohe,3,35.4541,113.0045,Hydro
-China,Shanxi Zhaoguang Phase 1,1800,36.5545,111.6932,Coal
-China,Shaoguan Wastecoal power station,700,24.9354,113.5526,Coal
-China,Shaoxing Binhai power station,800,30.2269,120.7176,Coal
-China,Shaoxing City Waste Combustion,48,29.515,120.033,Gas
 China,Shapotou,153.2,37.45,105.02,Hydro
 China,Shaqian,50,28.5583,107.4967,Hydro
-China,Shaqu Phase 1 Coal Mine Methane,14,37.41,110.86,Gas
-China,Shaqu Phase 2 Coal Mine Methane,56,37.42,110.85,Gas
 China,Shatuo,1120,28.5,108.48,Hydro
 China,Shawan,480,29.33,103.61,Hydro
 China,Shaxikou,300,26.59,118.08,Hydro
 China,Shenchi Phase 2 Wind,49,39.1344,112.7229,Wind
 China,Shenchi Wind,48,39,112.1328,Wind
-China,Shendong Baode power station,270,38.9443,111.1037,Coal
-China,Shendong Hequ power station,700,39.4125,111.244,Coal
-China,Shenery Wuzhong power station,700,37.9374,106.1396,Coal
-China,Shengle Cogen power station,700,40.5637,111.8639,Coal
-China,Shengli Dongying power station,1700,37.4013,118.5243,Coal
-China,Shenhai power station,600,41.8158,123.4939,Coal
-China,Shenhua Anqing power station,2640,30.5411,117.1717,Coal
-China,Shenhua Fugu Guojiawan power station,600,39.2226,110.4066,Coal
-China,Shenhua Fugu power station,1200,39.2092,110.7858,Coal
-China,Shenhua Guohua Jinjie power station,2400,38.7365,110.1661,Coal
-China,Shenhua Guoneng Dananhu Power Plant,600,42.7409,93.4452,Coal
-China,Shenhua Guoneng Fukang power station,300,44.1339,87.8344,Coal
-China,Shenhua Guoneng Hami power station,2640,42.4112,93.0092,Coal
-China,Shenhua Hequ power station,2400,39.3829,111.1852,Coal
-China,Shenhua Jinjiang power station,100,24.6854,118.453,Coal
-China,Shenhua Jiujiang power station,2104,29.8266,116.376,Coal
-China,Shenhua Lingzhou power station,270,38.1419,106.5665,Coal
-China,Shenhua Shenmu power station,1530,38.9662,110.4584,Coal
-China,Shenhua Wanzhou power station,2000,30.6777,108.399,Coal
-China,Shenhua Wuhai Xilaifeng power station,400,39.37,106.8927,Coal
-China,Shenhua Yili power station,800,40.3614,109.973,Coal
-China,Shenhua Yuanyang Lake power station,1320,38.0569,106.691,Coal
-China,Shenhua Zhundong Wucaiwan power station,700,44.7955,89.1498,Coal
-China,Shenhua Zhunneng power station,960,39.8279,111.2679,Coal
-China,Shenhuo Zhundong power station,1400,44.081,88.5887,Coal
-China,Shenmu - CLP Coal,220,38.9804,110.4498,Coal
-China,Shenmu 2 Coal,210,38.9652,110.4583,Coal
-China,Shenmu Jieneng power station,200,39.0121,110.2378,Coal
-China,Shenneng Korla power station,700,41.6642,86.2632,Coal
 China,Shenneng North Keyouqianqi Phase 1,49,46.363,122.445,Wind
 China,Shenxigou,660,29.3,102.93,Hydro
-China,Shenzhen Baoan Laohukeng Stage 2,60,22.8386,113.8547,Gas
-China,Shenzhen Dongbu,1116,22.57,114.44,Gas
-China,Shenzhen East,1050,22.57,114.44,Gas
-China,Shenzhen Qianwan,1170,22.51,113.85,Gas
-China,Shenzhen Xiaping Landfill,8,22.4833,113.4833,Gas
 China,Sheyang Lingang Industrial Area Tidal Flat,20,33.83,120.44,Solar
-China,Shidongkou,1050,31.46,121.4,Gas
-China,Shidongkou power station,3820,31.4651,121.4048,Coal
-China,Shiheng-2 power station,1890,36.2122,116.5136,Coal
-China,Shihezi Tianhe power station,660,44.4409,86.0997,Coal
 China,Shijiazhou,45,28.585,112.069,Hydro
-China,Shijiazhuang - Luhua Coal,660,37.9513,114.5131,Coal
-China,Shijiazhuang Dongfang-2 Cogen power station,100,38.0943,114.4851,Coal
-China,Shijiazhuang Liangcun power station,660,38.006,114.6934,Coal
 China,Shilong,70,42.3583,127.3091,Hydro
 China,Shimaodingzi,30.6,46.85,129.11,Wind
-China,Shimen power station,1200,29.5786,111.394,Coal
 China,Shimian Danihe,5,29.492,102.25,Hydro
 China,Shiquan Dam,225,33.0399,108.2249,Hydro
 China,Shisanling,800,40.27,116.28,Hydro
 China,Shiwenzi,32.2,44.69,130.86,Wind
 China,Shiyazi Hydro,140,28.653,107.969,Hydro
 China,Shizuishan Solar Power Station,100,36.77,106.56,Solar
-China,Shouguang Jvneng Cogen Power Station,310,36.873,118.7706,Coal
 China,Shuangbai Ejia Magahe River,15,24.467,101.25,Hydro
 China,Shuanghe Second Small,12,42.1328,127.3197,Hydro
 China,Shuanghekou Chongqing City,16,31.5533,108.5816,Hydro
 China,Shuangliao Lianhuashan First Phase,49,43.9958,123.7733,Wind
-China,Shuangliao West power station,2060,43.5282,123.463,Coal
 China,Shuangliao Xiushui Phase 1,49,43.886,123.775,Wind
 China,Shuangpai,150,25.95,111.68,Hydro
 China,Shuangpai County Yongjiang Cascade Hunan,14,25.9333,110.55,Hydro
 China,Shuangyashan Guokuishan Wind,49,46.3333,131.6,Wind
 China,Shuangyashan Laopinggang Wind,49,45.6,131.2,Wind
 China,Shuangyashan Yangmugang Wind,49,46.67,131.25,Wind
-China,Shuangyashan power station,2040,46.5629,131.6684,Coal
 China,Shuibuya,1600,30.44,110.34,Hydro
-China,Shuicheng Mine Coal,100,26.6786,104.8047,Coal
-China,Shuidonggou power station,1200,38.2143,106.5439,Coal
 China,Shuifeng (Sup'ung),765,40.46,124.97,Hydro
 China,Shuifumiao,30,27.68,112.23,Hydro
 China,Shuikou,1400,26.31,118.81,Hydro
 China,Shunchang Dam,48,26.793,117.8891,Hydro
-China,Shunde Desheng power station,600,22.7993,113.3587,Coal
-China,Shunde Oil,278,22.79,113.18,Oil
 China,Sichuan Aba Municipality Wenchuan Caopo Hekou Hydro,15,31.2389,103.4917,Hydro
 China,Sichuan Baishuijiang Qinglong,102,33.084,104.3882,Hydro
 China,Sichuan Baixi,24,31.8756,103.5686,Hydro
@@ -2294,15 +1423,12 @@ China,Sichuan Da County Mutou,30,31.03,107.17,Hydro
 China,Sichuan Dafan,240,29.2536,102.0911,Hydro
 China,Sichuan Danba County Kuiyonggou 1st Cascade,21,30.5252,101.728,Hydro
 China,Sichuan Dechang Xinma,120,27.1946,102.2811,Hydro
-China,Sichuan Emeishan power station,270,29.4815,103.5875,Coal
 China,Sichuan Fangdaping,24,29.42,102.1922,Hydro
 China,Sichuan Fengyanbao,44,32.34,104.1,Hydro
 China,Sichuan Ganluo Longgangzi Small,5,28.8808,102.563,Hydro
 China,Sichuan Ganzi Jiulong Wuyiqiao,132,28.7125,101.6762,Hydro
 China,Sichuan Gaozhuoying Hydro Station,20,28.6966,103.4483,Hydro
 China,Sichuan Gongdefang,15,27.2059,102.3339,Hydro
-China,Sichuan Guangan Caishandong Coal Mine Methane,15,30.47,106.91,Gas
-China,Sichuan Guangneng Coal Mine Methane,21,30.4167,106.8733,Gas
 China,Sichuan Guoru,48,30.46,101.43,Hydro
 China,Sichuan Heishui Changde,20,32.1111,102.915,Hydro
 China,Sichuan Heishui Deshiwo Erji Hydro,21,31.9667,102.8983,Hydro
@@ -2391,182 +1517,85 @@ China,Sigouxia,240,35.81,103.01,Hydro
 China,Silin,1050,27.37,107.63,Hydro
 China,Simeigou,10,32.0572,103.0156,Hydro
 China,Sinanjiang Dam,201,23.0943,101.8739,Hydro
-China,Singpu Chemicals Taixing power station,160,32.1524,119.9209,Coal
-China,Sinopec Anqing power station,200,30.5135,117.019,Coal
-China,Sinopec Luoyang Branch power station,160,34.9188,112.5954,Coal
-China,Sinopec Yangzi power station,360,32.2534,118.7945,Coal
-China,Sinopec Yizheng Plant power station,240,32.2764,119.1061,Coal
 China,Siping Shanmen Phase 2 Wind,49,43,124.4603,Wind
-China,Siping power station,550,43.153,124.4025,Coal
 China,Sitaifangzi,49,41.7888,113.986,Wind
 China,Siziwangqi Bayinaobao Wind,49,42.436,110.9634,Wind
-China,Songhuajiang Coal,730,44.7758,125.8649,Coal
-China,Songhuajiang power station,730,43.9085,126.5038,Coal
 China,Songya,15,32.1536,109.0967,Hydro
 China,Suibin Jicheng,49,47.288,131.9305,Wind
-China,Suizhong power station,3760,40.0793,120.0089,Coal
 China,Sujiahekou,315,25.25,98.19,Hydro
-China,Sujiatun Jinshan power station,440,41.6814,123.3307,Coal
-China,Sulige,350,38.54,108.81,Gas
 China,Sunan Longchanghe I Small Hydro,5,38.8514,99.6769,Hydro
 China,Sunjiaying,100.5,42.68,118.05,Wind
 China,Suofengying,600,26.97,106.37,Hydro
-China,Suyuan power station,150,23.8194,106.81,Coal
 China,Suzhi,225,35.87,102.34,Hydro
-China,Suzhou - GCL Gas,360,31.3,120.8,Gas
-China,Suzhou Dongwu Cogen power station,50,31.2551,120.7633,Coal
-China,Suzhou Huiyuan power station,700,33.6546,116.9823,Coal
-China,Suzhou Landfill Gas,2,38.5825,117.0037,Gas
-China,Suzhou Susheng Cogen power station,110,30.9022,120.672,Coal
 China,TBEA Awati,20,40.5,80.174,Solar
 China,TBEA Hami,20,43.02,93.633,Solar
 China,Tadi,16,28.9817,118.9269,Hydro
 China,Tai'in,1000,36.23,117.05,Hydro
 China,Taibai Guanyinxia,26,33.7342,107.4269,Hydro
-China,Taicanggang power station,1300,31.5877,121.2566,Coal
 China,Taijiying,49,42.2208,120.8903,Wind
 China,Tailan River Fourth Station,11,41.4122,80.5008,Hydro
 China,Taipingwan,190,40.35,124.73,Hydro
 China,Taipingyi,260,31.23,103.49,Hydro
-China,Taishan Expansion Coal Power Plant,2000,21.8661,112.9213,Coal
-China,Taiyang Mill power station,340,35.5345,116.7983,Coal
 China,Taiyangshan Phase 3,49,37.5309,106.5888,Wind
 China,Taiyangshan Phase 4,49,37.5141,106.5463,Wind
-China,Taiyuan 1 Coal,1275,37.7808,112.4776,Coal
-China,Taiyuan Steel Mill power station,600,37.9194,112.5378,Coal
-China,Taiyuan-2 power station,1260,37.987,112.519,Coal
 China,Tangkeng,600,28.1178,120.0339,Hydro
-China,Tangshan Sanyou Cogen power station,150,39.2619,118.1893,Coal
-China,Tangshan Wangtan power station,1200,39.2002,118.9734,Coal
 China,Tangshanpeng,31.7,37.39,120.7,Wind
-China,Tangzhai power station,1200,26.8295,106.2656,Coal
 China,Taohe Shangchuan,12,34.5052,103.7361,Hydro
-China,Tashdian power station,250,41.8038,86.3388,Coal
 China,Taxi Second Cascade,9,43.89,86.2544,Hydro
-China,Tengzhou Fuyuan Cogen power station,48,34.925,117.1157,Coal
-China,Tengzhou Xinyuan power station,930,35.0676,117.1204,Coal
 China,Third Cascade Niduhe River,14,24.566,101.158,Hydro
 China,Three Gorges Dam,22500,30.8235,111.0032,Hydro
 China,Tianchang Gaoyouhu,48,32.7536,119.1325,Wind
-China,Tianchi Changji Cogen power station,700,44.0044,87.172,Coal
-China,Tiandong Kamshing power station,270,23.6485,107.1311,Coal
-China,Tianfu East power station,405,44.3073,86.105,Coal
-China,Tianfu North power station,1320,44.4404,86.094,Coal
-China,Tianfu Shihutan cogen power station,100,44.585,86.0737,Coal
-China,Tianfu South power station,910,44.2593,86.108,Coal
-China,Tianfu West power station,505,44.3586,86.0449,Coal
 China,Tianhuangping,1800,30.47,119.61,Hydro
-China,Tianjin Beijiang power station,3000,39.2193,117.9293,Coal
 China,Tianjin Dagang Mapengkou Wind,49,38.664,117.5586,Wind
 China,Tianjin Dagang Phase 1,49,38.63,117.38,Wind
-China,Tianjin Dagang power station,1312,38.7765,117.494,Coal
 China,Tianjin Dashentang,26,39.233,118.009,Wind
-China,Tianjin Guodian Beitang power station,700,39.0964,117.6442,Coal
 China,Tianjin Longyuan Dagang Phase 2 Wind,49,38.61,117.41,Wind
-China,Tianjin Northeast power station,660,39.2168,117.3544,Coal
-China,Tianjin Petrolchemical captive power station,300,38.8195,117.4209,Coal
-China,Tianjin Shuangkou Landfill,5,38.57,116.71,Gas
 China,Tianlin Baxin,9,24.3292,105.6239,Hydro
-China,Tianlong Mining Fukang Smelting power station,400,44.0992,88.3733,Coal
 China,Tianqiao,128,39.06,111.13,Hydro
 China,Tianrun Hami,20,43.04,93.603,Solar
-China,Tianshan Qitai power station,700,44.0516,89.6509,Coal
-China,Tianshenggan power station,660,32.0349,120.7526,Coal
 China,Tianshengqiao 1,1200,24.941,105.1033,Hydro
 China,Tianshengqiao II,1320,24.96,105.16,Hydro
 China,Tiantai County Chayuan Cascade,5,29.0069,120.7272,Hydro
-China,Tianwan,1980,34.69,119.46,Nuclear
-China,Tianye power station,1800,44.3562,86.0475,Coal
-China,Tianyuan Shandong power station,600,37.0532,117.8757,Coal
-China,Tieling power station,2520,42.345,123.803,Coal
 China,Tingzikou,1100,31.82,105.87,Hydro
-China,Toksun Mahatma power station,600,42.8187,87.9606,Coal
 China,Tong Zhang,49.5,31.52,103.67,Hydro
 China,Tongbai,1200,29.2,121,Hydro
 China,Tongdao County Laorongtan,6,26.3882,109.8063,Hydro
-China,Tonghua Xuangang power station,1320,38.9146,112.4774,Coal
 China,Tongjiezi,600,29.26,103.63,Hydro
 China,Tongliao Beiqinghe Wind Farm,300,43.94,121.18,Wind
 China,Tongliao Changxing Molimiao Wind,49,43.6072,121.9319,Wind
 China,Tongliao Kezuozhong Banner Dailiji Aorimu Wind,49,44.1917,122.725,Wind
 China,Tongliao Naiman Banner Baxiantong Haritang Wind,49,43.29,120.9792,Wind
-China,Tongliao power station,1670,43.6704,122.1543,Coal
-China,Tongling Guodian power station,1200,31.0711,117.9634,Coal
-China,Tongling Wanneng power station,2600,30.8818,117.7644,Coal
-China,Tongmei Datang power station,660,39.9796,113.1859,Coal
-China,Tongmei Tashan power station,2520,39.9792,113.1887,Coal
-China,Tongmei Yongji power station,1300,34.8558,110.4707,Coal
 China,Tongren Jiangshijia The Peoples Republic,4,35.416,101.9,Hydro
 China,Tongwan,180,27.58,110.29,Hydro
-China,Tongzi power station,1200,28.1297,106.8464,Coal
 China,Tongzilin,600,26.71,101.85,Hydro
 China,Tuanpo Hydro,80,25.15,105.59,Hydro
 China,Tuojiang Small,12,24.63,110.42,Hydro
-China,Tuoketuo 9-10 Coal,600,40.1892,111.3596,Coal
 China,Tuokexun Phase 1,49,43.0016,88.583,Wind
 China,Tuoli (Tianfen CENIC),124.5,43.6,87.854,Wind
 China,Tuoli Wind,30,43.31,87.43,Wind
 China,Turiguge,64.5,42.03,108.38,Wind
 China,Tushan,49,37.36,119.88,Wind
-China,UPM Changshu power station,100,31.7535,121.0051,Coal
 China,Ulan Tsab Siziwang Bannerp Pv Generation,40,41.5555,111.6755,Solar
-China,Ulanhot Xingan-2 power station,100,46.0508,122.0611,Coal
-China,United Laboratories Linhe power station,600,40.8137,107.5092,Coal
 China,Upc Linghai Xibaqian Liaoning,49,40.9333,121.6,Wind
-China,Urumqi Petrochemical power station,150,43.9702,87.7219,Coal
-China,Urumuqi Huanpeng power station,60,43.2728,87.1708,Coal
-China,WEnergy Maanshan Power Station,2640,31.7375,118.4797,Coal
-China,WISCO Qingshan power station,440,30.6387,114.4654,Coal
 China,Wahei Hydro,44,28.4656,103.225,Hydro
-China,Waigaoqiao power station,5240,31.3536,121.6003,Coal
 China,Waixiong Hydro,48,28.3069,120.1,Hydro
 China,Wanan Dam,500,26.4441,114.7954,Hydro
 China,Wanghaisi,42.5,42.48,122.99,Wind
-China,Wangping power station,440,39.7637,112.9252,Coal
-China,Wangqu power station,1200,36.3485,113.1921,Coal
-China,Wangting Gas,780,31.44,120.44,Gas
 China,Wangyuan Minhou County,20,26.5548,119.0314,Hydro
 China,Wanjiazhai,1080,39.58,111.43,Hydro
-China,Wanjie Gaoke Boshan Cogen power station,70,36.4745,117.8435,Coal
 China,Wanmipo,240,28.76,109.51,Hydro
-China,Wansheng power station,600,28.8401,106.7757,Coal
-China,Wantian Coal Mine Coal Mine Methane,3,25.955,104.7881,Gas
-China,Wanyuan power station,600,31.3245,107.4914,Coal
 China,Water Group Huade Niujiafangzi,49,41.789,113.8868,Wind
 China,Wawushan Dam,260,29.6727,103.0358,Hydro
 China,Weidi Solar Park,50,26.17,101.66,Solar
 China,Weidi Yongren Solar Plant,50,26.18,101.65,Solar
-China,Weihai Cogen power station,210,37.5125,122.0792,Coal
-China,Weihai power station,1960,37.4499,122.2072,Coal
-China,Weihe-2 power station,1200,34.4284,108.9113,Coal
-China,Weihua Cogen power station,100,37.7053,118.1563,Coal
-China,Weilai Energy & Chemical captive power station,150,38.2334,109.4891,Coal
-China,Weinan Factory power station,100,34.4977,109.4308,Coal
-China,Weiqiao Huji power station,2640,37.3588,117.7772,Coal
-China,Weiqiao Town Public Heating power station,1320,37.0255,117.4838,Coal
-China,Weiqiao Yangxin power station,1320,37.5765,117.5986,Coal
-China,Weiqiao Zhanhua power station,700,38.0226,117.9712,Coal
-China,Weiqiao Zouping-1 power station,2640,36.9107,117.7854,Coal
-China,Weiqiao Zouping-3 power station,1200,36.9077,117.7741,Coal
-China,Weiqiao Zouping-6 power station,2640,36.8979,117.7844,Coal
-China,Weiqiao Zouping-7 power station,2640,36.8972,117.8613,Coal
-China,Weixin Coal,1200,27.8901,104.8748,Coal
 China,Weiyuan River Jinggu County Simao District,72,23.1894,100.59,Hydro
 China,Wenshan Panlong River Weilong,10,23.1083,104.5217,Hydro
-China,Wuda Wuhushan Coal Mine Methane,7,39.505,106.6267,Gas
 China,Wudaogou,49.5,42.62,117.96,Wind
 China,Wudu Dam,150,31.9179,104.7746,Hydro
 China,Wuerguli Wind,30,47.1232,132.1328,Wind
-China,Wuhan - Zhuankou Oil,180,30.47,114.2,Oil
-China,Wuhan Ethylene power station,240,30.6529,114.5303,Coal
-China,Wuhan Jiangbei West Municipal Solid Waste,22,30.683,113.967,Gas
 China,Wuhan Railway Station,2.2,30.6,114.43,Solar
-China,Wuhan Xinzhou Chenjiachong Landfill,3,30.7353,114.5439,Gas
-China,Wuhu Zhongdian power station,1320,31.4528,118.3445,Coal
 China,Wuhuzha Small,12,32.3821,102.54,Hydro
 China,Wujiangdu,1250,27.32,106.76,Hydro
-China,Wujiaqu power station,3640,44.2686,87.6881,Coal
-China,Wujing power station,1800,31.062,121.4664,Coal
 China,Wujinxia,140,36.4,104.4,Hydro
 China,Wulabo Wind,30,43.3411,87.4742,Wind
 China,Wulan Phase 2,20,37.03,98.567,Solar
@@ -2576,33 +1605,19 @@ China,Wulatehoqi Huhewenduer,40,40.92,106.7,Solar
 China,Wulatehouqi Huogeqi First Stage,49,41.575,106.3233,Wind
 China,Wuluwati Dam,60,36.8246,79.4522,Hydro
 China,Wuqiangxi,1200,28.78,110.93,Hydro
-China,Wusitai - Wuda Coal,112,39.4316,106.6717,Coal
 China,Wutaohai South Phase 2 Wind,49,42.7159,117.8407,Wind
 China,Wutuhe Firstlevel,25,26.088,104.9083,Hydro
-China,Wuwei Cogen power station,700,37.9011,102.6859,Coal
 China,Wuwei Fengle Phase I,10,38.1,102.33,Solar
 China,Wuxi Qiyang County,100,26.57,110.83,Hydro
-China,Wuxi Taohuashan Landfill Gas,2,31.3429,120.1718,Gas
-China,Wuxiang power station,1200,36.8228,112.837,Coal
 China,Wuyahe Small,10,29.6044,109.7042,Hydro
 China,Wuzhou Dao County Yongzhou Citychina,12,26.48,111.58,Hydro
-China,XPCC Shihezi Cogen power station,2120,44.4281,86.0936,Coal
-China,XiAn Xijiao power station,100,34.2583,108.8451,Coal
 China,Xiahe Anshun,15,35.3237,102.7832,Hydro
-China,Xiahuayuan power station,200,40.489,115.2659,Coal
-China,Xiamen Dongfu Landfill,3,24.554,117.932,Gas
-China,Xiamen Eastern,12,24.722,118.281,Gas
-China,Xiamen Songyu power station,1200,24.4468,118.0265,Coal
-China,Xiamen Western,12,24.504,117.983,Gas
-China,Xiamen power station,92,24.5718,118.029,Coal
 China,Xiangcheng County Maxionggou,12,29.1333,99.9061,Hydro
 China,Xiangcheng Mayi River 1st Level Dieshui,12,28.9692,99.7731,Hydro
-China,Xiangfan power station,2400,31.9122,112.1662,Coal
 China,Xiangjiaba,6448,28.6437,104.393,Hydro
 China,Xiangshui Expansion Yunnan &,130,26.3372,104.6411,Hydro
 China,Xiangshui River First Stage Runofriver,10,28.6519,102.6532,Hydro
 China,Xiangshuijian,1000,31.11,118.29,Hydro
-China,Xiangtan power station,1800,27.8287,112.9961,Coal
 China,Xiangtang Erji,17,36.3503,102.8333,Hydro
 China,Xiangtang Xia The Peoples Republic,10,36.37,102.83,Hydro
 China,Xiangziyan Hydro,32,29.102,108.445,Hydro
@@ -2614,18 +1629,14 @@ China,Xiaogushan,102,38.9342,100.4517,Hydro
 China,Xiaohe Small,9,35.221,102.5444,Hydro
 China,Xiaojin County Zhongmachang,20,31.0256,102.5006,Hydro
 China,Xiaolangdi,1800,34.92,112.36,Hydro
-China,Xiaolongtan power station,600,23.8377,103.1964,Coal
 China,Xiaopengzu Luquan County,44,25.54,102.65,Hydro
-China,Xiaoshan,800,30.05,120.23,Gas
 China,Xiaoshuichi Hydro Lanzhou City.,22,36.6,102.35,Hydro
 China,Xiaowan,4200,24.7043,100.0913,Hydro
 China,Xiaoxia,230,36.15,104.01,Hydro
 China,Xiapu Dajing Wind,42,26.7197,120.125,Wind
-China,Xibaipo power station,2400,38.2451,114.2149,Coal
 China,Xidahe,21,38.133,101.405,Hydro
 China,Xieshui Small Rundle,8,30.05,110.89,Hydro
 China,Xigebitan Taolaihebeian,18,39.76,98.125,Solar
-China,Xihai-2 power station,270,36.9743,100.9106,Coal
 China,Xihe,180,32.83,108.28,Hydro
 China,Xiimeng Huitengliang Area A Phase 1 Wind,49,43.476,115.86,Wind
 China,Xijin,234.4,24.87,104.58,Hydro
@@ -2638,18 +1649,9 @@ China,Ximeng Huitengliang Area A Phase 2 Wind,49,43.474,115.825,Wind
 China,Ximeng Huitengliang Area B Phase 3 Wind,49,43.475,115.975,Wind
 China,Xin'an,49.5,44.14,122.48,Wind
 China,Xin'an Jiang,845,29.49,119.21,Hydro
-China,Xinfa Xiwang power station,465,36.615,116.2192,Coal
 China,Xinfengjiang,292,23.73,114.65,Hydro
 China,Xingan League Keyouqianqi Wind,49,46.3583,122.125,Wind
-China,Xingning Coal,270,24.2831,115.7064,Coal
-China,Xingtai Cogen power station,700,36.97,114.624,Coal
-China,Xingtai power station,600,37.0089,114.4842,Coal
-China,Xingyang Integration power station,1260,34.8246,113.3676,Coal
-China,Xingyi power station,1200,25.2603,104.856,Coal
-China,Xinhai power station,2660,34.5782,119.1275,Coal
 China,Xinhuang Xincun Small,7,27.05,108.43,Hydro
-China,Xinhui Shuangshui power station-2,300,22.446,113,Coal
-China,Xining Aiyuan Landfill,2,36.6041,101.7295,Gas
 China,Xinjiang Aksu Tumuxiuke,48,41.5292,79.8089,Hydro
 China,Xinjiang Alashankou Phase 1 Wind,49,45.1917,82.6167,Wind
 China,Xinjiang Alashankou Wind,49,45.1517,82.5419,Wind
@@ -2659,15 +1661,12 @@ China,Xinjiang Dabancheng Phase 1,49,43.5501,88.0693,Wind
 China,Xinjiang Dabancheng Phase 1 Wind,49,43.4678,88.1546,Wind
 China,Xinjiang Dabancheng Sanchang First Phase,30,43.31,87.51,Wind
 China,Xinjiang Dabancheng Sanchang Phase 4 Wind,49,43.4637,87.7972,Wind
-China,Xinjiang Dahuangshan Coal Mine Methane,8,44.04,88.64,Gas
-China,Xinjiang Guanghui power station,270,43.7064,94.9858,Coal
 China,Xinjiang Hami Shisanjianfang Phase 1,49,43.2716,91.8093,Wind
 China,Xinjiang Hetian Bobona,150,36.8808,79.5647,Hydro
 China,Xinjiang Hetian Yulongkashi River Dakequke,75,36.423,79.5327,Hydro
 China,Xinjiang Huaneng Toksun Baiyanghe Phase 2 Wind,49,43.069,88.555,Wind
 China,Xinjiang Ili Yamadu,132,43.6075,81.8625,Hydro
 China,Xinjiang Jimunai Cgn Phase 1,49,47.5625,86.4249,Wind
-China,Xinjiang Joinworld power station,300,44.1268,88.0628,Coal
 China,Xinjiang Kaidu River Liushugou,180,42.2889,85.6278,Hydro
 China,Xinjiang Kalasuke Hydroelectric,140,47.1403,88.8856,Hydro
 China,Xinjiang Kashi River Nileke First Stage,220,43.8195,82.4386,Hydro
@@ -2677,49 +1676,26 @@ China,Xinjiang Kashi River Wenquan,135,43.7833,81.9167,Hydro
 China,Xinjiang Kumalake Xiaoshixia,110,41.5642,79.6222,Hydro
 China,Xinjiang Lasite,3,47.9181,88.1253,Hydro
 China,Xinjiang Luneng Xiaocaohu Phase 1,49,43.2134,88.6066,Wind
-China,Xinjiang Qiya Smelter power station,2160,44.8594,89.0243,Coal
 China,Xinjiang Urumqi Dabancheng Huaran Phase 1,49,43.46,87.95,Wind
 China,Xinjiang Xinhua Buerqin,49,47.8308,86.7422,Wind
 China,Xinjiang Yeer Qiang He Kaqun Iii,20,38.2,77.3333,Hydro
-China,Xinjiang Zhongtai Fukang Energy power station,300,44.1269,87.7725,Coal
-China,Xinjiang Zhongtai Fukang Metallurgy Power Station,600,44.081,88.5889,Coal
-China,Xinjiang Zhongtai Huatai power station,300,43.9429,87.6641,Coal
 China,Xinping County Yaweihe,6,23.925,101.624,Hydro
 China,Xinrong Wind,49,40.1635,113.2095,Wind
 China,Xintian,18,26.3767,100.12,Hydro
-China,Xinxiang Baoshan power station,1320,35.3268,113.4906,Coal
-China,Xinxiang Huayu power station,660,35.4055,113.9292,Coal
 China,Xinyang Dabie Mountain Wind,29,31.5575,115.0458,Wind
 China,Xinyang Tianmu Mountain Wind,20,32.6021,113.8161,Wind
-China,Xinyuan Aluminum power station,3960,36.6148,116.2194,Coal
-China,Xinyuan Coal,30,31.893,121.2093,Coal
-China,Xinyuan power station,110,35.1969,109.5941,Coal
-China,Xinyuanjieneng Qingshuichuan power station,600,39.1805,111.0845,Coal
-China,Xishan Cogen power station,150,37.8294,112.418,Coal
-China,Xishan Gujiao power station,2460,37.8915,112.0886,Coal
-China,Xishui Erlang power station,1320,28.1634,106.3528,Coal
-China,Xishui power station,540,28.3567,106.1975,Coal
 China,Xitieshan,10,37.31,95.485,Solar
 China,Xitieshan II,30,37.28,95.513,Solar
 China,Xitieshan Phase III,60,37.31,95.451,Solar
 China,Xiwu Banner Bayanwula Wind,49,44.4145,118.0212,Wind
 China,Xiwuqi Gaolihan Wind,49,45.065,118.445,Wind
-China,Xixia Ningxia power station,1100,38.4439,106.1258,Coal
 China,Xixiang County Qujiangdong,10,32.6139,107.4692,Hydro
 China,Xiying River Shuangyaowan I,5,37.909,102.205,Hydro
 China,Xuanen County Guanyinping,26,29.9867,109.7981,Hydro
 China,Xuanen County Shuangxi,25,29.7383,109.5792,Hydro
-China,Xuanhua power station,600,40.5799,115.0733,Coal
-China,Xuanwei power station,1800,26.1872,104.1106,Coal
-China,Xuchang Yulong power station,2020,34.1748,113.3581,Coal
 China,Xueshangou Hydro,11,43.8194,83.2867,Hydro
 China,Xundian Gaobenshan,49,25.776,103.1892,Wind
 China,Xundian Jinfeng,12,25.8764,103.1097,Hydro
-China,Xunjiansi power station,735,23.9584,103.1891,Coal
-China,Xuzhou - GCL Coal,60,34.3045,117.3083,Coal
-China,Xuzhou Chacheng power station,270,34.403,117.1348,Coal
-China,Xuzhou Huamei power station,700,34.3412,117.1048,Coal
-China,Xuzhou Pengcheng power station,3340,34.3781,117.1763,Coal
 China,Xuzhou Xiexin,20,34.41,117.33,Solar
 China,Xuzhou Xiexin Solar Power Plant,20,34.408,117.329,Solar
 China,Yamzho Yumco,510,29.1,90.377,Hydro
@@ -2728,115 +1704,55 @@ China,Yanchi Dashuikeng Yinyi Phase 1,49,37.4741,107.2086,Wind
 China,Yanchi Dashuikeng Yinyi Phase 2,49,37.4194,107.1964,Wind
 China,Yangang Muli County,120,28.165,101.296,Hydro
 China,Yangbajain Geothermal,25.1,30.0973,90.5078,Geothermal
-China,Yangcheng power station,3300,35.467,112.5739,Coal
 China,Yangdun Small,10,27.1944,118.1844,Hydro
-China,Yangjiang,4000,21.71,112.26,Nuclear
 China,Yangjiawan Hydro,9,28.2956,106.1138,Hydro
 China,Yangjiayao,45,37.82,106.63,Wind
 China,Yangkou,62,32.64,120.91,Wind
-China,Yangmei-3 power station,130,37.861,113.4423,Coal
-China,Yangpu Gas,444,19.72,109.18,Gas
 China,Yangqu,1200,35.7,100.27,Hydro
-China,Yangquan Coal Mine Methane,90,38.31,112.54,Gas
-China,Yangquan Nanmei Coalmine Methane,12,37.8342,113.5625,Gas
-China,Yangquan Yinying Coal Mine Methane,5,37.8,113.5,Gas
-China,Yangquan-2 power station,1280,37.7745,113.6262,Coal
-China,Yangshan Coal,185,24.612,112.5412,Coal
 China,Yanguoxia,440,36.06,103.27,Hydro
-China,Yangxi Zhujiang power station,2520,21.5426,111.6703,Coal
-China,Yangzhou City Waste Incineration,18,34.4622,119.305,Gas
-China,Yangzhou Mill power station,122,32.2648,119.4114,Coal
-China,Yangzhou-1 power station,660,32.4299,119.4742,Coal
-China,Yangzhou-2 power station,2460,32.2684,119.4193,Coal
-China,Yangzonghai power station,1000,24.9622,103.0277,Coal
 China,Yanling Shendu,6,26.25,113.47,Hydro
 China,Yantai Dongyuan Laizhou Phase 1,48,37.1111,119.6292,Wind
 China,Yantai Dongyuan Phase 1,25,37.41,121.05,Wind
 China,Yantan,1210,24.05,107.51,Hydro
 China,Yanwa,24,27.4933,99.0258,Hydro
 China,Yanyuan County Taerdi,24,27.4933,101.9417,Hydro
-China,Yanzhou Mine Jisan power station,270,35.2683,116.6598,Coal
-China,Yaomeng power station,2160,33.7375,113.2419,Coal
-China,Yaxi power station,1200,27.5785,106.6552,Coal
 China,Yayangshan Dam,120,23.1008,101.3947,Hydro
 China,Yele Asphalt,240,28.92,102.22,Hydro
 China,Yellow River Plant Luoning County,9,34.285,111.366,Hydro
-China,Yemazhai power station,600,26.6786,104.8047,Coal
 China,Yesanhe Jianshi County,50,30.5811,110.1169,Hydro
 China,Yibu River Stage 4 Smallscale,6,27.2433,102.8292,Hydro
-China,Yichang East power station,600,30.3269,111.4904,Coal
-China,Yichang Huangjiawan Landfill,1,30.7567,111.3222,Gas
-China,Yichang Xiaoting power station,700,30.4969,111.4421,Coal
-China,Yichuan Longquan Kim Hyung power station,1320,34.4146,112.5011,Coal
-China,Yichuan-3 power station,900,34.4156,112.5561,Coal
 China,Yichun Daqingshan Wind,16,47.4308,128.5423,Wind
 China,Yichun Erduoyan Wind,28,46.56,128.51,Wind
 China,Yichun Shimaodingzi Wind,30,46.49,129.07,Wind
 China,Yichun Xiaochengshan Wind,49,46.8167,128.5833,Wind
 China,Yichun Xinqing Laobaishan Windpark First Stage Wind,30,48.1226,129.7609,Wind
-China,Yihua Wucaiwan power station,660,44.8931,89.2476,Coal
 China,Yilan Jiaxinshan Wind,49,46,129.4,Wind
 China,Yili Kukesu River Kushitayi,100,43.1125,81.8936,Hydro
 China,Yiliang Baishuijiang Liuxi,13,27.8097,104.5167,Hydro
 China,Yiliang County Xionggou Small,5,27.4367,104.0222,Hydro
-China,Yima Gezha power station,310,34.7217,111.88,Coal
-China,Yinchuan power station,60,38.4677,106.2289,Coal
 China,Yingjiang County Gulikahe,12,24.4572,97.6808,Hydro
 China,Yingjiang County Mangmianhe,3,24.4561,98.7033,Hydro
 China,Yingjiang County Nanlang River 2nd Level,5,24.7878,97.9606,Hydro
 China,Yingzidu Dam,360,26.5829,106.1379,Hydro
-China,Yining Coal,700,43.9492,81.4757,Coal
 China,Yinpan,600,29.24,107.89,Hydro
 China,Yinxing Zhongning Dazhanchang Phase 1,49,37.3117,105.5894,Wind
 China,Yinxing Zhongning Dazhanchang Phase 2,49,37.3133,105.5472,Wind
-China,Yinxing power station,1320,37.7274,106.7409,Coal
 China,Yixing,1000,31.32,119.77,Hydro
-China,Yixing - Guoxing Gas,800,31.3976,119.8273,Coal
-China,Yixing - Union 1-4 Coal,150,31.3929,119.8291,Coal
-China,Yixing Cogen power station,120,31.3701,119.7727,Coal
-China,Yixing Xielian power station,270,31.3962,119.8283,Coal
-China,Yiyang power station,1920,28.5971,112.2683,Coal
-China,Yizhuang,150,39.78,116.5,Gas
-China,Yongan power station,600,26.0036,117.3798,Coal
-China,Yongcheng Coal,600,33.9284,116.5501,Coal
-China,Yongcheng Xuehu Coal Mine Methane,1,34.1236,116.4497,Gas
-China,Yongchuan Songgai power station,270,29.0555,105.8844,Coal
-China,Yonghao Waste Coal power station,100,39.6103,112.7999,Coal
-China,Yongkang Waste Incineration,15,28.7586,119.8944,Gas
 China,Yongren Ganbala,50,26.18,101.67,Solar
-China,Yongxing Coal,120,26.1796,113.0401,Coal
 China,Youshuishiti Hydro,120,28.4536,109.1017,Hydro
 China,Youyang Longjiaba Small,12,29.1739,108.8917,Hydro
 China,Youyang Xiaoxianjing Small,3,29.3078,108.985,Hydro
 China,Youyang Xishakou Small,3,29.1494,108.8606,Hydro
-China,Youyu power station,660,39.8663,112.5117,Coal
 China,Yuanliangshan,49,37.4328,109.0423,Wind
 China,Yuanyang County Yangxi River 3rd Cascade,10,23.1356,102.9503,Hydro
-China,Yuci power station,660,37.6268,112.7478,Coal
-China,Yudean Dabu power station,1200,24.4057,116.5878,Coal
-China,Yuehua Huangpu power station,600,23.0792,113.4951,Coal
-China,Yuelian Coal,520,22.9657,112.1079,Coal
 China,Yueshan,47.4,23.45,117.07,Wind
 China,Yuexi Dayan Small,14,28.8283,102.4898,Hydro
-China,Yueyang Paper Mill power station,100,29.4523,113.1653,Coal
 China,Yugong River,24,28.1223,98.9111,Hydro
-China,Yuhuan Waste Incineration,15,28.1553,121.1903,Gas
 China,Yuliang On You River Guangxi Zhuang,60,23.3433,107.1101,Hydro
 China,Yuliangwan Small Hydroelectric,8,27.1,109.16,Hydro
-China,Yulin Beijiao power station,700,38.2993,109.8108,Coal
-China,Yulin Energy Chemical Industry captive power station,100,37.6529,108.9343,Coal
-China,Yulin Huitong Cogen power station,100,38.2157,109.7284,Coal
-China,Yulin Methanol power station,300,38.5799,109.9338,Coal
-China,Yulin Shanghe power station,280,38.4284,109.7414,Coal
-China,Yulin Yangguang power station,60,38.4008,109.8646,Coal
-China,Yulin Yuheng power station,1200,38.1347,109.537,Coal
 China,Yunan Fumin Baihuashan Wind,48,25.307,102.3492,Wind
-China,Yuncheng power station,1200,34.6433,110.288,Coal
 China,Yunfeng,400,41.38,126.51,Hydro
-China,Yunfu power station,1120,22.9838,112.1005,Coal
 China,Yungxiuwan,135,31.12,103.49,Hydro
-China,Yunhe power station,1240,35.4867,116.4769,Coal
-China,Yuning Cogen Power Station,100,36.7319,114.1683,Coal
 China,Yunlong,8,26.0753,99.0786,Hydro
 China,Yunnan Amojiang Sanjiangkou,99,23.0711,101.4442,Hydro
 China,Yunnan Baoshan Dengke,120,24.6594,98.5221,Hydro
@@ -2937,68 +1853,32 @@ China,Yuxian Baiyantuo Wind,49,39.6755,114.5516,Wind
 China,Yuxian Dongdianziliang Wind (Stage 1),49,39.7325,114.7627,Wind
 China,Yuxian Dongxinghe Wind,49,39.7342,114.9111,Wind
 China,Yuxian Lihuajian Wind,49,39.6647,114.9147,Wind
-China,Yuyao Gas,780,30.07,121.1,Gas
 China,Yuzaikou Small Hydro,15,25.53,113.65,Hydro
 China,Zagunao River Shiziping,195,31.4667,103.1514,Hydro
 China,Zangmu,540,29.18,92.517,Hydro
-China,Zaozhuang Bayi power station,700,34.8284,117.2711,Coal
-China,Zaozhuang Nanjiao Cogen Power Station,100,34.8296,117.513,Coal
-China,Zhabei Gas,454,31.34,121.52,Gas
 China,Zhalute Qi Wulijimuren Phase 1,49,44.1022,120.7742,Wind
 China,Zhanda River,7,24.7806,97.9281,Hydro
 China,Zhangbei Caoniangou Wind,49,41.0323,114.7153,Wind
 China,Zhangbei Dahulun Phase 1,49,41.24,115.2483,Wind
 China,Zhangbei Manjing Wind,45,42.82,124.08,Wind
 China,Zhangbei Mijiagou,49,40.49,114.5327,Wind
-China,Zhangdian power station,190,36.7938,118.0939,Coal
 China,Zhanghewan,1000,37.77,114.06,Hydro
-China,Zhangjiagang - Huaxing Gas,760,31.89,120.6,Gas
-China,Zhangjiagang Changyuan Cogen power station,70,31.9679,120.4527,Coal
-China,Zhangjiagang Shagang power station,200,31.9789,120.6334,Coal
-China,Zhangjiagang Shazhou power station,3260,31.989,120.6884,Coal
-China,Zhangjiajie Sangzi power station,120,29.3815,110.1314,Coal
 China,Zhangjiakou Chabei,100,41.4569,114.8158,Wind
-China,Zhangjiakou ZTP power station,600,40.7471,114.8122,Coal
-China,Zhangjiakou power station,2560,40.6597,114.9439,Coal
-China,Zhangping power station,600,25.2836,117.3989,Coal
-China,Zhangqiu power station,890,36.7284,117.4036,Coal
-China,Zhangshan power station,1800,36.3261,113.0814,Coal
-China,Zhangze Changzhi power station,840,36.3228,113.0807,Coal
-China,Zhangze Linfen power station,600,36.0867,111.3994,Coal
-China,Zhanhua Waste Coal power station,240,38.0114,117.9783,Coal
-China,Zhanjiang Aoliyou power station,1200,21.3156,110.4091,Coal
-China,Zhanjiang Coal,1200,21.3102,110.4095,Coal
-China,Zhaofeng Aluminum captive power station,405,37.7674,113.5808,Coal
 China,Zhaoyuan Xinlong Shunde,49,45.7242,124.4822,Wind
 China,Zhejiang Cangnan Huangdiping Wind,16,27.375,120.636,Wind
 China,Zhejiang Cangnan Xiaguan Wind,14,27.1619,120.5194,Wind
 China,Zhejiang Dachen Island Wind Power Phase 1,25,28.3,121.53,Wind
 China,Zhejiang Dongtou Wind,13,27.8314,121.1094,Wind
 China,Zhejiang Huadian Zhoushan Dinghai Changbai,12,30.1873,122.0345,Wind
-China,Zhejiang Jian Paper Container power station,84,30.6055,121.0064,Coal
-China,Zhejiang Taizhou-1 power station,1260,28.6978,121.453,Coal
-China,Zhejiang Taizhou-2 power station,2000,29.0132,121.6955,Coal
 China,Zhejiang Tangcun,32,29.7959,118.8453,Hydro
 China,Zhejiang Tiantaishan,10,29.1663,121.1425,Wind
 China,Zhejiang Tonglu Bipu,14,29.9219,119.5142,Hydro
 China,Zhejiang Wencheng Baiwanshan Smallscale,8,27.6853,120.0678,Hydro
-China,Zhejiang Zhapu EDP power station,37,30.6035,121.0466,Coal
-China,Zhejiang Zhenhai power station,860,29.9445,121.6881,Coal
 China,Zhejiang Zhoushan Jintang Phase 1 Wind,25,29.9917,121.8831,Wind
 China,Zhelin,180,29.21,115.5,Hydro
-China,Zheneng Changxing power station,1200,30.9919,119.9293,Coal
-China,Zheneng Liuheng power station,2000,29.7592,122.1262,Coal
-China,Zheneng Wenzhou power station,2520,27.9963,120.8356,Coal
-China,Zheneng Yueqing power station,2520,28.1704,121.0889,Coal
 China,Zhengdou,24,29.1333,99.5,Hydro
-China,Zhenghai,700,29.94,121.69,Gas
 China,Zhengtouba II,246,29.25,103.07,Hydro
 China,Zhengxiangbaiqi Zheligentu I,49,42.4436,115.3375,Wind
-China,Zhengzhou 2 Gas,780,34.8,113.53,Gas
-China,Zhengzhou Taixiang Cogen power station,270,34.7927,113.5017,Coal
-China,Zhengzhou Zhengdong power station,400,34.7523,113.8529,Coal
-China,Zhenhai Oil power station,300,29.9768,121.688,Coal
-China,Zhenjiang Waste Incineration,24,32.158,119.607,Gas
 China,Zhenkang Fengweihe,40,23.8467,98.9833,Hydro
 China,Zhenkang Quanqiaohe,16,23.846,98.983,Hydro
 China,Zhenlai Heiyupao First Phase,49,45.8403,123.4425,Wind
@@ -3014,29 +1894,16 @@ China,Zhongdiantou Hetianerqi,20,43.12,89.374,Solar
 China,Zhongdiantou Tacheng Mayitasi Phase 1 Wind,49,46.2295,84.2305,Wind
 China,Zhongdiantou Tulufan,20,43.13,89.381,Solar
 China,Zhongfang County Pailou Hydro,18,27.3336,109.9128,Hydro
-China,Zhongshan Jiaming Plant,1350,22.57,113.57,Gas
-China,Zhongtai Toksun power station,600,42.7372,88.645,Coal
-China,Zhongtian Hechuang Ordos power station,300,39.0858,109.4739,Coal
 China,Zhongwei Xiangshan Phase 3,49,37.1701,105.322,Wind
 China,Zhongyu Fangzheng County Gaoleng Wind,49,45.7176,129.3337,Wind
 China,Zhongzhou,16,27.923,110.2214,Hydro
 China,Zhoubai Hydroelectric,24,29.3,108.49,Hydro
-China,Zhoushan Waste Incineration,15,29.9556,122.085,Gas
 China,Zhoutian,10,24.947,113.781,Hydro
-China,Zhuhai GZP power station,1400,21.967,113.1812,Coal
 China,Zhuhai Gaolan Island,49,21.9186,113.2533,Wind
-China,Zhumadian Zhongyuan,754.4,32.96,114.06,Gas
-China,Zhumadian-3 power station,660,33.0419,114.0536,Coal
-China,Zhunda power station,600,39.7844,111.1595,Coal
-China,Zhungeer power station,1320,39.8535,111.2563,Coal
 China,Zhuozi Bayin,10,41.62,112.1,Solar
 China,Zhuozi Bayinxile,48,41.1025,112.6864,Wind
 China,Zhurihe,33.4,42.47,112.79,Wind
 China,Zhurihe Phase 1,49,42.5333,112.7667,Wind
 China,Zhuxi County Chahe Hydro,7,31.6417,109.8267,Hydro
-China,Zhuzhou Landfill,3,27.8392,113.2178,Gas
-China,Zibo Hongda power station,140,36.7833,118.05,Coal
 China,Zipingpu,760,31.04,103.57,Hydro
 China,Ziqiang,18,26.6661,106.1219,Hydro
-China,Zouxian power station,4540,35.3256,116.9261,Coal
-China,Zunhua Coal,600,40.2022,117.9211,Coal
