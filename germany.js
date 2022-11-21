@@ -1,11 +1,11 @@
 function germany(){
-	var w =300;
-		var h =500;
+	var w =500;
+		var h =600;
 
 		var projection = d3.geoMercator()
 		                   .center([10,52])
 						   .translate([w/2,h/2])
-						   .scale(1650);
+						   .scale(2150);
 
 		var path = d3.geoPath()
 		             .projection(projection);
@@ -37,7 +37,7 @@ function germany(){
 								.attr("d", path)
 								.attr("fill", function(d){
 									var value = d.properties.value
-									return `rgb(${Math.round(value*16)},0,255)`
+									return `rgb(${Math.round(value*16)},50,150)`
 								})
 								.on("mouseover", function () {
 									var hover = d3.select(this)
@@ -51,7 +51,7 @@ function germany(){
 										.attr("fill", "grey")
 										.attr("fill", function(d) {
 											var value = d.properties.value
-											return `rgb(${Math.round(value*16)},0,255)`
+											return `rgb(${Math.round(value*16)},50,150)`
 										})
 									})
 			
