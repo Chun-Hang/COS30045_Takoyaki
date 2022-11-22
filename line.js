@@ -1,5 +1,5 @@
 function line(){	
-  const margin = {top: 10, right: 100, bottom: 30, left: 60},
+  const margin = {top: 10, right: 100, bottom: 50, left: 60},
   width = 800 - margin.left - margin.right,
   height = 500 - margin.top - margin.bottom;
 
@@ -45,6 +45,21 @@ d3.csv("Modern_Renewable_Energy_Production_in_China.csv").then(function(data) {
     .range([ height, 0 ]);
   svg.append("g")
     .call(d3.axisLeft(y));
+
+  svg.append("text")
+    .attr("class", "x label")
+    .attr("text-anchor", "end")
+    .attr("x", width - 240)
+    .attr("y", height + 33)
+    .text("Year of Production");
+
+  svg.append("text")
+    .attr("class", "y label")
+    .attr("text-anchor", "end")
+    .attr("y", -60)
+    .attr("dy", ".95em")
+    .attr("transform", "rotate(-90)")
+    .text("Electricity Produced (TWh)");
 
   // Initialize line with group a
   const line = svg
@@ -158,6 +173,7 @@ const dot = svg
   .attr("cy", function(d) { return y(+d.Total) })
   .attr("r", 2)
   .style("fill", "#69b3a2")
+
 
 // A function that update the chart
 function update(selectedGroup) {
